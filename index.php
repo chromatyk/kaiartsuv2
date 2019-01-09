@@ -1,8 +1,8 @@
 <!doctype html>
 <html lang="fr">
     <head>
-<!--        <base href="https://www.kaiartsu.fr" />-->
-<!--        <meta name="generator" content="Jekyll v3.8.5" />-->
+        <!--        <base href="https://www.kaiartsu.fr" />-->
+        <!--        <meta name="generator" content="Jekyll v3.8.5" />-->
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="Kaiartsu est une agence web basée en Hauts-de-France. Spécialisée dans le développement de site web et d'identité visuelle." />
@@ -13,8 +13,18 @@
         <title>Kaiartsu | L'agence web symbiotique | Création de sites web | Identité visuelle | Hauts-de-France, Noyon</title>
         <!-- Link CSS -->
         <link href="assets/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+        <link href="assets/css/main.css" rel="stylesheet" type="text/css"/>
+
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     </head>
     <body>
+<div class="Loader" data-text="Loading">
+  <span class="Loader__Circle"></span>
+  <span class="Loader__Circle"></span>
+  <span class="Loader__Circle"></span>
+  <span class="Loader__Circle"></span>
+</div>
+        <div class="fadeAll">
         <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
             <a class="navbar-brand" href="#">Navbar</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -84,10 +94,16 @@
             </div> <!-- /container -->
 
         </main>
-
+            
         <footer class="container">
             <p>&copy; Company 2017-2018</p>
         </footer>
-        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-        <script>window.jQuery || document.write('<script src="/docs/4.2/assets/js/vendor/jquery-slim.min.js"><\/script>')</script><script src="/docs/4.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-zDnhMsjVZfS3hiP7oCBRmfjkQC4fzxVxFhBx8Hkz2aZX8gEvA/jsP3eXRCvzTofP" crossorigin="anonymous"></script></body>
+            </div>
+        <script>
+            $(document).ready(function(){
+                $(".fadeAll").css("display", "none");
+                $(".Loader").delay(2000).fadeOut(1000);
+                $(".fadeAll").delay(2400).fadeIn(1000);
+            })</script>
+    </body>
 </html>
