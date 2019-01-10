@@ -1,8 +1,26 @@
-.container{    
-    display:flex;
-    position:relative;
-}
 .Loader {
-    position:absolute;
+ position: absolute;
   top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  left: 0;
+  right: 0;
+  margin: auto;
+  text-align: center;
+  width:25%;
+}
+@media screen and (max-width: 800px) {
+.Loader {
+ position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  left: 0;
+  right: 0;
+  margin: auto;
+  text-align: center;
+  width:50%;
+}
 }
