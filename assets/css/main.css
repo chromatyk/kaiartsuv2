@@ -1,27 +1,252 @@
+*{
+    margin: auto;
+}
+
 .Loader {
-position: absolute;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-  left: 0;
-  right: 0;
-  margin: auto;
-  text-align: center;
-  width:25%;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+    width:25%;
 }
 
 @media screen and (max-width: 800px) {
-.Loader {
-  position: absolute;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-  left: 0;
-  right: 0;
-  margin: auto;
-  text-align: center;
-  width:50%;
+    .Loader {
+        position: absolute;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+        left: 0;
+        right: 0;
+        margin: auto;
+        text-align: center;
+        width:50%;
+    }
 }
+
+
+.jumbotron{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-position: center center;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+
+.cacheGauche{
+    height: 100vh;
+    width: 50%;
+    background: #2B78A9;
+    position: absolute;
+    box-shadow:  rgba(0, 0, 0, 0.5) 20px 5px 40px;
+    animation: 0.5s linear 0s change;
+    animation-fill-mode: forwards;
+}
+
+@keyframes change {
+	from {width: 50%;}
+	to {width: 20%;}
+}
+
+.cacheDroit{
+    height: 100vh;
+    width: 50%;
+    background: #2B78A9;
+    position: absolute;
+    top: 0px;
+    right: 0;
+    box-shadow:  rgba(0, 0, 0, 0.5) -20px 5px 40px;
+    animation: 0.5s linear 0s changeDroit;
+    animation-fill-mode: forwards;
+}
+
+@keyframes changeDroit {
+	from {width: 50%;}
+	to {width: 40%;}
+}
+
+.animated.delay-1s {
+  -webkit-animation-delay: 0.6s;
+  animation-delay: 0.6s;
+}
+
+.k-absolute{
+    position: absolute;
+    width: 320px;
+    bottom: 50px;
+    right: 0;
+    border-bottom: solid rgba(255, 255, 255, 0.3) 2px;
+    transition: ease-in 0.2s;
+    cursor: pointer;
+}
+
+.k-absolute:hover{
+    border-bottom: solid white 2px;
+}
+
+.k-absolute a{
+    color: white;
+    font-variant: small-caps;
+}
+
+.a-absolute{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+
+.a-absolute h1{
+    color: white;
+    font-size: 10vw;
+line-height: 9vw;
+font-weight: 600;
+text-shadow: rgba(0, 0, 0, 0.5) 20px 5px 20px;
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+.k-absolute{
+    position: absolute;
+    width: 150px;
+    bottom: 50px;
+    right: 0;
+    border-bottom: solid rgba(255, 255, 255, 0.3) 2px;
+    transition: ease-in 0.2s;
+    cursor: pointer;
+}
+.a-absolute h1{
+    color: white;
+    font-size: 16vw;
+line-height: 20vw;
+font-weight: 600;
+}
+}
+
+.l-absolute{
+    position: absolute;
+    width: 320px;
+    bottom: 50px;
+    left: 50px;
+    color: white;
+}
+
+.l-absolute img{
+    margin-right: 20px;
+}
+
+.jumbotron{
+    background: red url('../images/fondR.jpg') repeat 0 0;
+	-webkit-animation: 20s linear 0s normal none infinite animate;
+	-moz-animation: 20s linear 0s normal none infinite animate;
+	-ms-animation: 20s linear 0s normal none infinite animate;
+	-o-animation: 20s linear 0s normal none infinite animate;
+	animation: 20s linear 0s normal none infinite animate;
+ 
+}
+ 
+@-webkit-keyframes animate {
+	from {background-position:0 0;}
+	to {background-position: 1000px 1000px;}
+}
+ 
+@-moz-keyframes animate {
+	from {background-position:0 0;}
+	to {background-position: 1000px 1000px;}
+}
+ 
+@-ms-keyframes animate {
+	from {background-position:0 0;}
+	to {background-position: 1000px 1000px;}
+}
+ 
+@-o-keyframes animate {
+	from {background-position:0 0;}
+	to {background-position: 500px 600px;}
+}
+ 
+@keyframes animate {
+	from {background-position:0 0;}
+	to {background-position: 500px 600px;}
+}
+
+.test{
+background-color: #202020;
+color: #fff;
+min-height: 75vh;
+position: relative;
+}
+.test2{
+background-color: red;
+color: #fff;
+min-height: 75vh;
+}
+
+
+@font-face {
+	font-family: "LabGrotesque";
+	src: url('../fonts/LabGrotesque-Regular.ttf');
+}
+
+@font-face {
+	font-family: "LabGrotesqueBold";
+	src: url('../fonts/LabGrotesque-Bold.ttf');
+}
+
+
+p{
+    font-family: "LabGrotesque";
+    font-size: 16px;
+    line-height: 24px;
+}
+
+h2{
+        font-family: "LabGrotesqueBold";
+    font-size: 6em;
+}
+
+.navKai{
+    min-height: 80px;;
+}
+
+.navbar-light .navbar-toggler-icon {
+  background-image: none;
+}
+.navbar-light .navbar-toggler {
+  color: rgba(0, 0, 0, 0.5);
+  border: none;
+}
+
+.nav-item{
+    font-variant: small-caps;
+    font-size: 1em;
+    letter-spacing: .10em;
+}
+
+.navbar-brand img{
+    width: 200px;
+    margin-left: 50%;
+}
+
+.navbar-toggler img{
+    width: 200px;
+    margin-left: 20%;
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 993px) {
+    .navbar-brand{
+        visibility: hidden;
+    }
+}
+
+#fadeSite{
+    display: none;
 }
