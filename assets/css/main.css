@@ -46,7 +46,7 @@
 .cacheGauche{
     height: 100vh;
     width: 50%;
-    background: #2B78A9;
+    background: linear-gradient(#2B78A9, #1f5a7f, #113449);
     position: absolute;
     box-shadow:  rgba(0, 0, 0, 0.5) 20px 5px 40px;
     animation: 0.5s linear 0s change;
@@ -61,7 +61,7 @@
 .cacheDroit{
     height: 100vh;
     width: 50%;
-    background: #2B78A9;
+    background: linear-gradient(#2B78A9, #1f5a7f, #113449);
     position: absolute;
     top: 0px;
     right: 0;
