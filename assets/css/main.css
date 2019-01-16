@@ -2,6 +2,10 @@
     margin: auto;
 }
 
+body{
+    overflow-x: hidden;
+}
+
 .Loader {
     position: absolute;
     top: 50%;
@@ -86,18 +90,22 @@
     bottom: 50px;
     right: 0;
     border-bottom: solid rgba(255, 255, 255, 0.3) 2px;
-    transition: ease-in 0.2s;
     cursor: pointer;
+        color: rgba(255, 255, 255, 0.3);
+    font-variant: small-caps;
+    transition: ease-in 0.2s;
+}
+
+.k-absolute p{
+    
+    font-size: 1.5em;
 }
 
 .k-absolute:hover{
+    color: white;
     border-bottom: solid white 2px;
 }
 
-.k-absolute a{
-    color: white;
-    font-variant: small-caps;
-}
 
 .a-absolute{
     position: absolute;
@@ -141,6 +149,18 @@ font-weight: 600;
 
 .l-absolute img{
     margin-right: 20px;
+}
+
+.m-absolute{
+    position: absolute;
+    width: 320px;
+    bottom: 5px;
+    left: 67px;
+    color: white;
+}
+
+.m-absolute p{
+    font-variant: small-caps;
 }
 
 .jumbotron{
@@ -249,4 +269,35 @@ h2{
 
 #fadeSite{
     display: none;
+}
+
+@font-face {
+	font-family: "northen";
+	src: url('../fonts/NORTHEN.ttf');
+}
+
+@font-face {
+	font-family: "beyond";
+	src: url('../fonts/Beyond Infinity.ttf');
+}
+
+.a-absolute{
+    font-family: "northen";
+}
+
+.sousTitle{
+    font-family: 'beyond', cursive;
+    text-shadow: rgba(0, 0, 0, 1) 20px 5px 10px;
+}
+
+.a-absolute h1{
+    color: white;
+    font-size: 10vw;
+line-height: 9vw;
+text-shadow: rgba(0, 0, 0, 1) 20px 5px 1px;
+}
+
+h2{
+    line-height: 0.8em;
+    padding-top: 10vh;
 }

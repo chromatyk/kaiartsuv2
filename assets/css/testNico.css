@@ -1,0 +1,30 @@
+@font-face {
+	font-family: "northen";
+	src: url('../fonts/NORTHEN.ttf');
+}
+
+@font-face {
+	font-family: "beyond";
+	src: url('../fonts/Beyond Infinity.ttf');
+}
+
+.a-absolute{
+    font-family: "northen";
+}
+
+.sousTitle{
+    font-family: 'beyond', cursive;
+    text-shadow: rgba(0, 0, 0, 1) 20px 5px 10px;
+}
+
+.a-absolute h1{
+    color: white;
+    font-size: 10vw;
+line-height: 9vw;
+text-shadow: rgba(0, 0, 0, 1) 20px 5px 1px;
+}
+
+h2{
+    line-height: 0.8em;
+    padding-top: 10vh;
+}
