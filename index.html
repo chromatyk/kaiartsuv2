@@ -19,9 +19,13 @@
         <link href="assets/css/testNico.css" rel="stylesheet" type="text/css"/>
         <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"> 
+        <script src="https://unpkg.com/scrollreveal"></script>
     </head>
     <body>
-        <div class="container">
+        <!-- Contenu du loader - Début -->
+        <div id="contenuLoader" class="container">
             <div class="Loader" data-text="Loading">
                 <svg version="1.1" id="el_FR7l_Xdh3pj" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 495 386" style="enable-background:new 0 0 495.3 386.9;" xml:space="preserve">
 
@@ -38,7 +42,13 @@
                 </svg>
             </div>
         </div>
-        <div class="fadeAll">
+        <!-- Contenu du loader - Fin -->
+
+
+
+
+        <!-- Première page d'accueil - Début -->
+        <div id="accueilFirstPage" class="fadeAll">
             <div class="cacheGauche"></div>
             <div class="jumbotron"></div>
             <div class="cacheDroit"></div>
@@ -49,38 +59,52 @@
             <div class="l-absolute animated slideInLeft delay-1s"><a href="#"><img src="assets/images/logo/facebook.png"/></a><a href="#"><img src="assets/images/logo/twitter.png"/></a><a href="#"><img src="assets/images/logo/linkedin.png"/></a></div>
             <div class="m-absolute animated slideInLeft delay-1s"><p> © Kaiartsu</p></div>
         </div>
+        <!-- Première page d'accueil - Fin -->
+
+
+        <!-- Page Home - Début -->
         <div id="fadeSite">
-                     <header id="header-main">
-                        <a href="#" class="brand">Kaiartsu</a>
-                        <a href="#" id="burger"> <span></span> <span></span> <span></span> </a>
+            <!-- Menu Principal - Début -->
+            <header id="header-main">
+                <a href="#" class="brand"><img src="assets/images/logo/Kaiartsuv2.png"/></a>
+                <a href="#" id="burger"> <span></span> <span></span> <span></span> </a>
 
-                        <nav id="nav-main">    
-                            <ul>
-                                <li><a href="#">Accueil</a></li>
-                                <li><a href="#">L'équipe</a></li>
-                                <li><a href="#">Réalisations</a></li>
-                                <li><a href="#">Contact</a></li>
-                            </ul>  
-                            <div id="nav-foot">
+                <nav id="nav-main">    
+                    <ul>
+                        <li><a href="#">Accueil</a></li>
+                        <li><a href="#">L'équipe</a></li>
+                        <li><a href="#">Réalisations</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>  
+                    <div id="nav-foot">
 
-                                <div class="col"><h5>Pierre</h5>	06.XX.XX.XX.XX</div>
-                                <div class="col"><h5>Nicolas</h5> 07.XX.XX.XX.XX</div>
+                        <div class="col"><h5>Pierre</h5>	06.XX.XX.XX.XX</div>
+                        <div class="col"><h5>Nicolas</h5> 07.XX.XX.XX.XX</div>
 
-                            </div>
-                        </nav>
-                    </header>
-            <main role="main">
+                    </div>
+                </nav>
+            </header>
+            <!-- Menu Principal - Fin -->
+            <main id="contenuPage" role="main">
+                <!-- Qui sommes nous - Début -->
                 <div class="test">
                     <div class="container">
                         <div class="row">
-                            <div class="col-4 offset-2">
+                            <div class="col-7 offset-2">
                                 <h2>
-                                    Qui sommes-nous ?
+                                    L'agence web,<br /> <span class="h2Color">Kaiartsu.</span>
                                 </h2>
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-6 offset-2">
+                            <div class="col-9 offset-3">
+                                <h3>
+                                    - Développeur web ? Graphiste ? Viendez nous voir. -
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-10 offset-2">
                                 <p> Pour vous, nous déclenchons, crééons et produisons des opportunités numériques. Nous travaillons avec vous dans un monde en constante évolution grâce aux développements technologiques. Nous fournissons des réponses à vos questions et crééons des solutions flexibles qui transforment votre communication numérique en résultats concrets.
 
                                     <br>En travaillant étroitement avec vous tous les jours à tous les niveaux, nous sommes vos partenaires stratégiques. Nous développons et produisons nos concepts pour stimuler, réinventer et adapter vos opportunités de croissance et de performance. Pour cela, nous vous présentons Chromatyk et Lexae.
@@ -90,22 +114,58 @@
                         </div>
                     </div>
                 </div>
-                                <div class="test2">
+                <!-- Qui sommes nous - Fin -->
+                <div class="test">
                     <div class="container">
                         <div class="row">
-                            <div class="col-4 offset-2">
+                            <div class="col-9 offset-2">
                                 <h2>
-                                    Qui sommes-nous ?
+                                    Le développement web par <span class="h2Color">Kaiartsu.</span>
                                 </h2>
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-6 offset-2">
+                            <div class="col-9 offset-3">
+                                <h3>
+                                    - La création d'une entreprise ? Une refonte de votre site ? -
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-10 offset-2">
                                 <p> Pour vous, nous déclenchons, crééons et produisons des opportunités numériques. Nous travaillons avec vous dans un monde en constante évolution grâce aux développements technologiques. Nous fournissons des réponses à vos questions et crééons des solutions flexibles qui transforment votre communication numérique en résultats concrets.
 
                                     <br>En travaillant étroitement avec vous tous les jours à tous les niveaux, nous sommes vos partenaires stratégiques. Nous développons et produisons nos concepts pour stimuler, réinventer et adapter vos opportunités de croissance et de performance. Pour cela, nous vous présentons Chromatyk et Lexae.
 
                                 </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="test">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-9 offset-2">
+                                <h2>
+                                    Le graphisme par <span class="h2Color">Kaiartsu.</span>
+                                </h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-9 offset-3">
+                                <h3>
+                                    - Un changement de charte graphique ? De nouveaux besoins ? -
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-10 offset-2">
+                                <p> Pour vous, nous déclenchons, crééons et produisons des opportunités numériques. Nous travaillons avec vous dans un monde en constante évolution grâce aux développements technologiques. Nous fournissons des réponses à vos questions et crééons des solutions flexibles qui transforment votre communication numérique en résultats concrets.
+
+                                    <br>En travaillant étroitement avec vous tous les jours à tous les niveaux, nous sommes vos partenaires stratégiques. Nous développons et produisons nos concepts pour stimuler, réinventer et adapter vos opportunités de croissance et de performance. Pour cela, nous vous présentons Chromatyk et Lexae.
+
+                                </p>
+
                             </div>
                         </div>
                     </div>
@@ -125,5 +185,8 @@
                 $(".fadeAll").fadeOut(200);
                 $("#fadeSite").fadeIn(1500);
             })</script>
+        <script>
+            ScrollReveal().reveal('.headline');
+        </script>
     </body>
 </html>

@@ -164,7 +164,7 @@ font-weight: 600;
 }
 
 .jumbotron{
-    background: red url('../images/fondR.jpg') repeat 0 0;
+    background: url('../images/fondR.jpg') repeat 0 0;
 	-webkit-animation: 20s linear 0s normal none infinite animate;
 	-moz-animation: 20s linear 0s normal none infinite animate;
 	-ms-animation: 20s linear 0s normal none infinite animate;
@@ -201,8 +201,6 @@ font-weight: 600;
 .test{
 background-color: #202020;
 color: #fff;
-min-height: 75vh;
-position: relative;
 }
 .test2{
 background-color: red;
@@ -222,49 +220,26 @@ min-height: 75vh;
 }
 
 
-p{
-    font-family: "LabGrotesque";
+main p{
+    font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     line-height: 24px;
+    margin-left: 7vw;
+    text-align: justify;
+  text-justify: inter-word;
 }
 
-h2{
-        font-family: "LabGrotesqueBold";
-    font-size: 6em;
+main h2{
+        font-family: 'Montserrat', sans-serif;
+    font-size: 5vw;
 }
 
-.navKai{
-    min-height: 80px;;
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+main h2{
+        font-family: 'Montserrat', sans-serif;
+    font-size: 15vw;
+    margin-bottom: 2vh;
 }
-
-.navbar-light .navbar-toggler-icon {
-  background-image: none;
-}
-.navbar-light .navbar-toggler {
-  color: rgba(0, 0, 0, 0.5);
-  border: none;
-}
-
-.nav-item{
-    font-variant: small-caps;
-    font-size: 1em;
-    letter-spacing: .10em;
-}
-
-.navbar-brand img{
-    width: 200px;
-    margin-left: 50%;
-}
-
-.navbar-toggler img{
-    width: 200px;
-    margin-left: 20%;
-}
-
-@media only screen and (min-device-width : 320px) and (max-device-width : 993px) {
-    .navbar-brand{
-        visibility: hidden;
-    }
 }
 
 #fadeSite{
@@ -298,6 +273,18 @@ text-shadow: rgba(0, 0, 0, 1) 20px 5px 1px;
 }
 
 h2{
-    line-height: 0.8em;
-    padding-top: 30vh;
+    line-height: 1em;
+    padding-top: 20vh;
+    font-family: 'EB Garamond', serif;
+}
+
+h2 .h2Color{
+    color: #2E7AAB;
+    font-family: "northen";
+}
+
+main h3{
+    color: #BD8B53;
+    font-size: 20px;
+    font-family: 'EB Garamond', serif;
 }
