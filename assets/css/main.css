@@ -41,22 +41,25 @@ body{
 }
 
 #whoAreWe{
-background-color: #202020;
+    background-color: #202020;
 color: #fff;
 min-height: 100vh;
 background-size: cover;
+padding-top: 100px;
 }
 
 #webDev{
-background-color: #202020;
+    background-color: #202020;
 color: #fff;
 min-height: 100vh;
+padding-top: 100px;
 }
 
 #webDesign{
-background-color: #202020;
+    background-color: #202020;
 color: #fff;
 min-height: 100vh;
+padding-top: 100px;
 }
 
 @font-face {
