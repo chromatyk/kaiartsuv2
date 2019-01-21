@@ -3,7 +3,7 @@
 }
 
 body{
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 .Loader {
@@ -34,180 +34,29 @@ body{
     }
 }
 
-
-.jumbotron{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+#contenuLoader{
+    background: white;
     height: 100vh;
-    background-position: center center;
-    border-radius: 0;
-    margin-bottom: 0;
+    width: 100vw;
 }
 
-
-.cacheGauche{
-    height: 100vh;
-    width: 50%;
-    background: linear-gradient(#2B78A9, #1f5a7f, #113449);
-    position: absolute;
-    box-shadow:  rgba(0, 0, 0, 0.5) 20px 5px 40px;
-    animation: 0.5s linear 0s change;
-    animation-fill-mode: forwards;
-}
-
-@keyframes change {
-	from {width: 50%;}
-	to {width: 20%;}
-}
-
-.cacheDroit{
-    height: 100vh;
-    width: 50%;
-    background: linear-gradient(#2B78A9, #1f5a7f, #113449);
-    position: absolute;
-    top: 0px;
-    right: 0;
-    box-shadow:  rgba(0, 0, 0, 0.5) -20px 5px 40px;
-    animation: 0.5s linear 0s changeDroit;
-    animation-fill-mode: forwards;
-}
-
-@keyframes changeDroit {
-	from {width: 50%;}
-	to {width: 40%;}
-}
-
-.animated.delay-1s {
-  -webkit-animation-delay: 0.6s;
-  animation-delay: 0.6s;
-}
-
-.k-absolute{
-    position: absolute;
-    width: 320px;
-    bottom: 50px;
-    right: 0;
-    border-bottom: solid rgba(255, 255, 255, 0.3) 2px;
-    cursor: pointer;
-        color: rgba(255, 255, 255, 0.3);
-    font-variant: small-caps;
-    transition: ease-in 0.2s;
-}
-
-.k-absolute p{
-    
-    font-size: 1.5em;
-}
-
-.k-absolute:hover{
-    color: white;
-    border-bottom: solid white 2px;
-}
-
-
-.a-absolute{
-    position: absolute;
-    top: 20%;
-    left: 30%;
-}
-
-.a-absolute h1{
-    color: white;
-    font-size: 10vw;
-line-height: 9vw;
-font-weight: 600;
-text-shadow: rgba(0, 0, 0, 0.5) 20px 5px 20px;
-}
-
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-.k-absolute{
-    position: absolute;
-    width: 150px;
-    bottom: 50px;
-    right: 0;
-    border-bottom: solid rgba(255, 255, 255, 0.3) 2px;
-    transition: ease-in 0.2s;
-    cursor: pointer;
-}
-.a-absolute h1{
-    color: white;
-    font-size: 16vw;
-line-height: 20vw;
-font-weight: 600;
-}
-}
-
-.l-absolute{
-    position: absolute;
-    width: 320px;
-    bottom: 50px;
-    left: 50px;
-    color: white;
-}
-
-.l-absolute img{
-    margin-right: 20px;
-}
-
-.m-absolute{
-    position: absolute;
-    width: 320px;
-    bottom: 5px;
-    left: 67px;
-    color: white;
-}
-
-.m-absolute p{
-    font-variant: small-caps;
-}
-
-.jumbotron{
-    background: url('../images/fondR.jpg') repeat 0 0;
-	-webkit-animation: 20s linear 0s normal none infinite animate;
-	-moz-animation: 20s linear 0s normal none infinite animate;
-	-ms-animation: 20s linear 0s normal none infinite animate;
-	-o-animation: 20s linear 0s normal none infinite animate;
-	animation: 20s linear 0s normal none infinite animate;
- 
-}
- 
-@-webkit-keyframes animate {
-	from {background-position:0 0;}
-	to {background-position: 1000px 1000px;}
-}
- 
-@-moz-keyframes animate {
-	from {background-position:0 0;}
-	to {background-position: 1000px 1000px;}
-}
- 
-@-ms-keyframes animate {
-	from {background-position:0 0;}
-	to {background-position: 1000px 1000px;}
-}
- 
-@-o-keyframes animate {
-	from {background-position:0 0;}
-	to {background-position: 500px 600px;}
-}
- 
-@keyframes animate {
-	from {background-position:0 0;}
-	to {background-position: 500px 600px;}
-}
-
-.test{
+#whoAreWe{
 background-color: #202020;
 color: #fff;
-}
-.test2{
-background-color: red;
-color: #fff;
-min-height: 75vh;
+min-height: 100vh;
 }
 
+#webDev{
+background-color: #202020;
+color: #fff;
+min-height: 100vh;
+}
+
+#webDesign{
+background-color: #202020;
+color: #fff;
+min-height: 100vh;
+}
 
 @font-face {
 	font-family: "LabGrotesque";
@@ -243,7 +92,7 @@ main h2{
 }
 
 #fadeSite{
-    display: none;
+    display: block;
 }
 
 @font-face {
