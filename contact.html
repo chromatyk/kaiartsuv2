@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="fr">
+    <head>
+        <!--        <base href="https://www.kaiartsu.fr" />-->
+        <!--        <meta name="generator" content="Jekyll v3.8.5" />-->
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="Kaiartsu est une agence web basée en Hauts-de-France. Spécialisée dans le développement de site web et d'identité visuelle." />
+        <meta name="publisher" content="Kaiartsu">
+        <meta name="author" content="Kaiartsu" />
+        <meta name="reply-to" content="contact@kaiartsu.fr"> 
+        <meta name="keywords" content="kaiartsu ; agence web hauts-de-france ; Oise ; 60 ; 02 ; 80 ; création site internet ; référencement ; webdesign ; création d'identité visuelle à Noyon ; agence digitale ; graphiste ; e-marketing ; applications mobiles" />
+        <title>Kaiartsu | L'agence web symbiotique | Création de sites web | Identité visuelle | Hauts-de-France, Noyon</title>
+        <!-- Link CSS -->
+        <link href="assets/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+        <link href="assets/css/animate.css" rel="stylesheet" type="text/css"/>
+        <link href="assets/css/loader.css" rel="stylesheet" type="text/css"/>
+        <link href="assets/css/main.css" rel="stylesheet" type="text/css"/>
+        <link href="assets/css/testNico.css" rel="stylesheet" type="text/css"/>
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"> 
+        <link href="assets/css/mainContact.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+
+        <!-- Menu Principal - Début -->
+        <header id="header-main">
+            <a href="#" class="brand"><img src="assets/images/logo/Kaiartsuv2.png"/></a>
+            <a href="#" id="burger"> <span></span> <span></span> <span></span> </a>
+
+            <nav id="nav-main">    
+                <ul>
+                    <li><a href="#">Accueil</a></li>
+                    <li><a href="#">L'équipe</a></li>
+                    <li><a href="#">Réalisations</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>  
+                <div id="nav-foot">
+
+                    <div class="col"><h5>Pierre</h5>	06.XX.XX.XX.XX</div>
+                    <div class="col"><h5>Nicolas</h5> 07.XX.XX.XX.XX</div>
+
+                </div>
+            </nav>
+        </header>
+        <!-- Menu Principal - Fin -->
+        <main role="main">
+            <section id="hire">
+                <form>
+                    <div class="field name-box">
+                        <input type="text" id="name" placeholder="Who Are You?"/>
+                        <label for="name">Nom</label>
+                        <span class="ss-icon">check</span>
+                    </div>
+
+                    <div class="field email-box">
+                        <input type="text" id="email" placeholder="name@email.com"/>
+                        <label for="email">Email</label>
+                        <span class="ss-icon">check</span>
+                    </div>
+
+                    <div class="field msg-box">
+                        <textarea id="msg" rows="4" placeholder="Your message goes here..."/></textarea>
+                        <label for="msg">Message</label>
+                        <span class="ss-icon">check</span>
+                    </div>
+
+                    <input class="button" type="submit" value="Envoyer" />
+                </form>
+            </section>
+        </main>
+    </div>
+    <script src="assets/js/main.js"></script>
+    <script src="assets/lib/bootstrap/js/bootstrap.js" ></script>
+    <script>
+        $(document).ready(function () {
+            $(".fadeAll").css("display", "none");
+            $(".Loader").delay(2000).fadeOut(200);
+            $(".fadeAll").delay(2400).fadeIn(200);
+        })</script>
+    <script>
+        $('#explorer').click(function () {
+            $(".fadeAll").fadeOut(200);
+            $("#fadeSite").fadeIn(1500);
+        })</script>
+    
+    <script>
+        $('textarea').blur(function () {
+    $('#hire textarea').each(function () {
+        $this = $(this);
+        if ( this.value != '' ) {
+          $this.addClass('focused');
+          $('textarea + label + span').css({'opacity': 1});
+        }
+        else {
+          $this.removeClass('focused');
+          $('textarea + label + span').css({'opacity': 0});
+        }
+    });
+});
+
+$('#hire .field:first-child input').blur(function () {
+    $('#hire .field:first-child input').each(function () {
+        $this = $(this);
+        if ( this.value != '' ) {
+          $this.addClass('focused');
+          $('.field:first-child input + label + span').css({'opacity': 1});
+        }
+        else {
+          $this.removeClass('focused');
+          $('.field:first-child input + label + span').css({'opacity': 0});
+        }
+    });
+});
+
+$('#hire .field:nth-child(2) input').blur(function () {
+    $('#hire .field:nth-child(2) input').each(function () {
+        $this = $(this);
+        if ( this.value != '' ) {
+          $this.addClass('focused');
+          $('.field:nth-child(2) input + label + span').css({'opacity': 1});
+        }
+        else {
+          $this.removeClass('focused');
+          $('.field:nth-child(2) input + label + span').css({'opacity': 0});
+        }
+    });
+});
+        </script>
+</body>
+</html>
