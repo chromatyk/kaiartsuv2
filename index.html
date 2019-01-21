@@ -61,7 +61,7 @@
                     </ul>  
                     <div id="nav-foot">
 
-                        <div class="col"><h5>Pierre</h5>	06.XX.XX.XX.XX</div>
+                        <div class="col"><h5>Pierre</h5>06.XX.XX.XX.XX</div>
                         <div class="col"><h5>Nicolas</h5> 07.XX.XX.XX.XX</div>
 
                     </div>
@@ -70,7 +70,7 @@
             <!-- Menu Principal - Fin -->
             <main id="contenuPage" role="main">
                 <!-- Qui sommes nous - Début -->
-                <div id="whoAreWe">
+                <section id="whoAreWe" class="section-class-name">
                     <div class="container">
                         <div class="row">
                             <div class="col-7 offset-2">
@@ -96,10 +96,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </section>
 
                 <!-- Qui sommes nous - Fin -->
-                <div id="webDev">
+                <section id="webDev" class="section-class-name">
                     <div class="container">
                         <div class="row dispear">
                             <div class="col-9 offset-2">
@@ -125,8 +125,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div id="webDesign">
+                </section>
+                <section id="webDesign" class="section-class-name">
                     <div class="container">
                         <div class="row dispear">
                             <div class="col-9 offset-2">
@@ -153,20 +153,26 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </section>
             </main>
         </div>
         <script src="assets/js/main.js"></script>
         <script src="assets/lib/bootstrap/js/bootstrap.js" ></script>
+        <script src="assets/js/onescroll.js" type="text/javascript"></script>
         <script>
             $(document).ready(function () {
-                $("#fadeSite").css("display","none");                
+                $("#fadeSite").css("display", "none");
                 $("#contenuLoader").delay(2000).fadeOut(200);
                 $("#fadeSite").delay(2400).fadeIn(200);
                 setTimeout(function () {
                     $('body').css('overflow', 'auto');
                     $('body').css('overflow-x', 'hidden');
                     ScrollReveal().reveal('.dispear', {delay: 500, useDelay: 'onload', reset: true, duration: 500, origin: 'right', distance: '70%'});
+                    $(function () {
+                        $.scrollify({
+                            section: ".section-class-name"
+                        });
+                    });
                 }, 2600);
             })</script>
     </body>
