@@ -3,7 +3,7 @@
 }
 
 body{
-    overflow: hidden;
+    scrollbar-width: none;
 }
 
 .Loader {
@@ -52,7 +52,7 @@ padding-top: 100px;
 }
 
 #webDev{
-    background-color: #202020;
+    background-color: #2E7AA5;
 color: #fff;
 min-height: 100vh;
 padding-top: 100px;
@@ -139,13 +139,20 @@ h2 .h2Color{
     font-family: "northen";
 }
 
+h2 .h2ColorDev{
+    font-family: "northen";
+    color: #2E7AAB;
+}
+
 main h3{
     color: #BD8B53;
     font-size: 20px;
     font-family: 'EB Garamond', serif;
 }
+
 .layer, #scene{
     position:absolute;
     display:block;
     left:10%;
 }
+
