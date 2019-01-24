@@ -22,11 +22,10 @@
         <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
         <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script> 
         <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
-        <script src="assets/js/parallax.js" type="text/javascript"></script>
     </head>
     <body>
         <!-- Contenu du loader - Début -->
-        <div id="contenuLoader" class="container">
+        <div id="contenuLoader" class="container-fluid">
             <div class="Loader" data-text="Loading">
                 <svg version="1.1" id="el_FR7l_Xdh3pj" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 495 386" style="enable-background:new 0 0 495.3 386.9;" xml:space="preserve">
 
@@ -44,7 +43,7 @@
             </div>
         </div>
         <!-- Contenu du loader - Fin -->
-
+            
 
         <!-- Page Home - Début -->
         <div id="fadeSite">
@@ -72,6 +71,12 @@
                 <!-- Qui sommes nous - Début -->
                 <section id="whoAreWe" class="section-class-name parallax-window" data-parallax="scroll" data-image-src="assets/images/fond.jpg">
                     <div class="container">
+
+                <div data-relative-input="true" id="scene">
+    <div class="layer" data-depth="-0.6"><img src="assets/images/latios.png"></div>
+  <div class="layer" data-depth="-0.4"><img src="assets/images/nuage1.png"></div>
+  <div class="layer" data-depth="-0.2"><img src="assets/images/latias.png"></div>
+</div>                        
                         <div class="row">
                             <div class="col-8 offset-2">
                                 <h2>
@@ -171,5 +176,11 @@
                     $('.parallax-window').parallax({imageSrc: '/path/to/image.jpg'});
                 }, 2600);
             })</script>
+        <script src="assets/js/parallax.js"></script>
+    <script>var scene = document.getElementById('scene');
+var parallaxInstance = new Parallax(scene, {
+  relativeInput: true
+});
+    </script>
     </body>
 </html>
