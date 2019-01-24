@@ -69,7 +69,6 @@
                 </nav>
             </header>
             <!-- Menu Principal - Fin -->
-            <main id="contenuPage" role="main">
                 <!-- Qui sommes nous - Début -->
                 <section id="whoAreWe" class="section-class-name parallax-window" data-parallax="scroll" data-image-src="assets/images/fond.jpg">
                     <div class="container">
@@ -104,7 +103,7 @@
                         <div class="row dispear">
                             <div class="col-10 offset-2">
                                 <h2>
-                                    Le développement web par <span class="h2Color">Kaiartsu.</span>
+                                    Le développement web par <span class="h2ColorDev">Kaiartsu.</span>
                                 </h2>
                             </div>
                         </div>
@@ -165,9 +164,9 @@
                 $("#contenuLoader").delay(2000).fadeOut(200);
                 $("#fadeSite").delay(2400).fadeIn(200);
                 setTimeout(function () {
-                    $('body').css('overflow', 'auto');
+                    $('body').css('overflow', 'unset');
                     $('body').css('overflow-x', 'hidden');
-                    ScrollReveal().reveal('.dispear', {delay: 500, useDelay: 'onload', reset: true, duration: 500, origin: 'right', distance: '70%'});
+                    ScrollReveal().reveal('.dispear', {delay: 500, useDelay: 'onload', reset: true, duration: 2000});
                     $.scrollify({section: ".section-class-name"});
                     $('.parallax-window').parallax({imageSrc: '/path/to/image.jpg'});
                 }, 2600);
