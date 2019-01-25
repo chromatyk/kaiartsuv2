@@ -150,10 +150,10 @@ main h3{
     font-family: 'EB Garamond', serif;
 }
 
-.layer, #scene{
+.layer{
     position:absolute;
     display:block;
-    left:10%;
+    left:0;
 }
 #myVideo {
   position: fixed;
