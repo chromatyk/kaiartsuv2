@@ -23,13 +23,9 @@
   font-weight:600;
   font-size:2em;
   padding:.2em .5em;
-  border:2px solid rgba(200,200,200,0);
   text-decoration:none;
   margin: 0;
   transition:.2s
-}
-.brand:hover, .abrido .brand{
-   border:2px solid rgba(200,200,200,1);
 }
 .arre .brand{
   color:#333
@@ -142,13 +138,14 @@
 #nav-main li a {
   text-decoration: none;
   font-variant: small-caps;
-  color: #6d58eb;
+  color: #2E7AAB;
   font-weight: 700;
   font-family: sans-serif;
   display: block;
   padding: 20px;
   font-size: 2em;
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  transition: 0.5s;
 }
 
 #nav-main a:hover {
