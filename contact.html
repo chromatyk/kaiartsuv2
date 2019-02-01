@@ -47,87 +47,63 @@
         </header>
         <!-- Menu Principal - Fin -->
         <main role="main">
-            <section id="hire">
-                <form>
-                    <div class="field name-box">
-                        <input type="text" id="name" placeholder="Who Are You?"/>
-                        <label for="name">Nom</label>
-                        <span class="ss-icon">check</span>
-                    </div>
+            <div class="container">
+                <div id="contactForm">
+                    <section>
+                        <h2 class=" text-center">Nous contacter</h2>
+                        <p class="text-center">La moindre question ? N'hésitez pas à nous contacter immédiatement. Notre équipe s'occupera de vous répondre le plus rapidement possible.</p>
+                        <div class="row">
+                            <div class="col-md-9 mb-md-0 mb-5">
+                                <form id="formContact" name="contactForm" method="POST">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="">
+                                                <input type="text" id="name" name="name" class="form-control" autocomplete="off" required>
+                                                <label for="name" class="">Votre nom</label>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="">
+                                                <input type="text" id="email" name="email" class="form-control" autocomplete="off" required>
+                                                <label for="email" class="">Votre email</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="md-form">
+                                                <textarea id="message" name="message" rows="2" class="form-control md-textarea" required></textarea>
+                                                <label for="message">Votre message</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                                <div class="text-center text-md-left">
+                                    <a class="btn btn-primary">Envoyer</a>
+                                </div>
+                                <div class="status"></div>
+                            </div>
+                            <div class="col-md-3 text-center">
+                                <ul class="list-unstyled">
+                                    <li><i class="fas fa-map-marker-alt fa-2x"></i>
+                                        <p>Noyon,</br>60400 France</p>
+                                    </li>
 
-                    <div class="field email-box">
-                        <input type="text" id="email" placeholder="name@email.com"/>
-                        <label for="email">Email</label>
-                        <span class="ss-icon">check</span>
-                    </div>
+                                    <li><i class="fas fa-phone mt-4 fa-2x"></i>
+                                        <p>06.XX.XX.XX.XX</p>
+                                    </li>
 
-                    <div class="field msg-box">
-                        <textarea id="msg" rows="4" placeholder="Your message goes here..."/></textarea>
-                        <label for="msg">Message</label>
-                        <span class="ss-icon">check</span>
-                    </div>
-
-                    <input class="button" type="submit" value="Envoyer" />
-                </form>
-            </section>
+                                    <li><i class="fas fa-envelope mt-4 fa-2x"></i>
+                                        <p>kaiartsu.contact@gmail.com</p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
         </main>
-    </div>
-    <script src="assets/js/main.js"></script>
-    <script src="assets/lib/bootstrap/js/bootstrap.js" ></script>
-    <script>
-        $(document).ready(function () {
-            $(".fadeAll").css("display", "none");
-            $(".Loader").delay(2000).fadeOut(200);
-            $(".fadeAll").delay(2400).fadeIn(200);
-        })</script>
-    <script>
-        $('#explorer').click(function () {
-            $(".fadeAll").fadeOut(200);
-            $("#fadeSite").fadeIn(1500);
-        })</script>
-    
-    <script>
-        $('textarea').blur(function () {
-    $('#hire textarea').each(function () {
-        $this = $(this);
-        if ( this.value != '' ) {
-          $this.addClass('focused');
-          $('textarea + label + span').css({'opacity': 1});
-        }
-        else {
-          $this.removeClass('focused');
-          $('textarea + label + span').css({'opacity': 0});
-        }
-    });
-});
-
-$('#hire .field:first-child input').blur(function () {
-    $('#hire .field:first-child input').each(function () {
-        $this = $(this);
-        if ( this.value != '' ) {
-          $this.addClass('focused');
-          $('.field:first-child input + label + span').css({'opacity': 1});
-        }
-        else {
-          $this.removeClass('focused');
-          $('.field:first-child input + label + span').css({'opacity': 0});
-        }
-    });
-});
-
-$('#hire .field:nth-child(2) input').blur(function () {
-    $('#hire .field:nth-child(2) input').each(function () {
-        $this = $(this);
-        if ( this.value != '' ) {
-          $this.addClass('focused');
-          $('.field:nth-child(2) input + label + span').css({'opacity': 1});
-        }
-        else {
-          $this.removeClass('focused');
-          $('.field:nth-child(2) input + label + span').css({'opacity': 0});
-        }
-    });
-});
-        </script>
-</body>
+        <script src="assets/js/main.js"></script>
+        <script src="assets/lib/bootstrap/js/bootstrap.js" ></script>
+    </body>
 </html>

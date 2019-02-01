@@ -118,7 +118,6 @@ body{
 }
 
 #whoAreWe{
-    background-color: #202020;
 color: #fff;
 min-height: 100vh;
 background-size: cover;
@@ -126,14 +125,12 @@ padding-top: 100px;
 }
 
 #webDev{
-    background-color: #202020;
 color: #fff;
 min-height: 100vh;
 padding-top: 100px;
 }
 
 #webDesign{
-    background-color: #202020;
 color: #fff;
 min-height: 100vh;
 padding-top: 100px;
@@ -162,14 +159,6 @@ main p{
 main h2{
         font-family: 'Montserrat', sans-serif;
     font-size: 5vw;
-}
-
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-main h2{
-        font-family: 'Montserrat', sans-serif;
-    font-size: 15vw;
-    margin-bottom: 2vh;
-}
 }
 
 #fadeSite{
@@ -207,10 +196,22 @@ h2{
     padding-top: 20vh;
     font-family: 'EB Garamond', serif;
 }
+h1{
+    line-height: 1em;
+    padding-top: 30vh;
+    font-family: 'EB Garamond', serif;
+    padding-bottom: 5vh;
+}
 
 h2 .h2Color{
     color: #2E7AAB;
     font-family: "northen";
+}
+
+h1 .h2ColorTitle{
+    color: #2E7AAB;
+    font-family: "northen";
+    font-size: 13vw;
 }
 
 h2 .h2ColorDev{
@@ -229,12 +230,41 @@ main h3{
     display:block;
     left:0;
 }
-#myVideo {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
+main{
+    background-color: #202020;
+}
+
+.miniTitle{
+    font-variant: petite-caps;
+    font-size: 4.283vw;
+    margin-left: 0vw;
+    text-align: left;    
+    color: #BD8B53;
+}
+
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+main h2{
+        font-family: 'Montserrat', sans-serif;
+    font-size: 15vw;
+    margin-bottom: 2vh;
+}
+h1{
+    line-height: 1em;
+    padding-top: 30vh;
+    font-family: 'EB Garamond', serif;
+    padding-bottom: 0px;
+}
+
+}
+.carréDev{
+    background: red;
+    width: 150px;
+    height: 150px;
+}
+
+.sousTitre{
+    padding-bottom: 5vh;
 }
 
 /* Nav Bar */

@@ -22,6 +22,7 @@
         <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
         <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script> 
         <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
     </head>
     <body>
         <!-- Contenu du loader - Début -->
@@ -43,7 +44,7 @@
             </div>
         </div>
         <!-- Contenu du loader - Fin -->
-            
+
 
         <!-- Page Home - Début -->
         <div id="fadeSite">
@@ -68,12 +69,30 @@
                 </nav>
             </header>
             <main id="contenuPage">
-            <!-- Menu Principal - Fin -->
+                <!-- Menu Principal - Fin -->
+                <section id="whoAreWe" class="sectionScroll">
+                    <div class="container-fluid">  
+                        <div class="row">
+                            <div class="offset-3">
+                                <h1>
+                                    <span class="h2ColorTitle">Kaiartsu</span>
+                                </h1>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="offset-3">
+                                <p class="miniTitle"> 
+                                    L'agence web symbiotique
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
                 <!-- Qui sommes nous - Début -->
-                <section id="whoAreWe" class="section-class-name parallax-window" data-parallax="scroll" data-image-src="assets/images/fond.jpg">
+                <section id="whoAreWe" class="sectionScroll" data-image-src="assets/images/fond.jpg">
                     <div class="container">
 
-  <div class="layer" data-depth="-0.4"><img src="assets/images/nuage1.png"></div>                     
+                        <div class="layer" data-depth="-0.4"><img src="assets/images/nuage1.png"></div>                     
                         <div class="row">
                             <div class="col-8 offset-2">
                                 <h2>
@@ -101,7 +120,7 @@
                     </div>
                 </section>
                 <!-- Qui sommes nous - Fin -->
-                <section id="webDev" class="section-class-name">
+                <section id="webDev" class="sectionScroll">
                     <div class="container">
                         <div class="layer" data-depth="-0.4"><img src="assets/images/latias.png"></div>
                         <div class="row dispear">
@@ -111,7 +130,7 @@
                                 </h2>
                             </div>
                         </div>
-                        <div class="row dispear">
+                        <div class="row dispear sousTitre">
                             <div class="col-9 offset-3">
                                 <h3>
                                     - La création ou la refonte d'un site internet ? Vous avez un projet on a une solution -
@@ -130,7 +149,7 @@
                         </div>
                     </div>
                 </section>
-                <section id="webDesign" class="section-class-name">
+                <section id="webDesign" class="sectionScroll">
                     <div class="container">
                         <div class="layer" data-depth="-0.4"><img src="assets/images/latios.png"></div> 
                         <div class="row dispear">
@@ -170,15 +189,14 @@
                     $('body').css('overflow', 'unset');
                     $('body').css('overflow-x', 'hidden');
                     ScrollReveal().reveal('.dispear', {delay: 500, useDelay: 'onload', reset: true, duration: 2000});
-                    $.scrollify({section: ".section-class-name"});
-                    $('.parallax-window').parallax({imageSrc: '/path/to/image.jpg'});
+                    $.scrollify({section: ".sectionScroll"});
                 }, 2600);
             })</script>
         <script src="assets/js/parallax.js"></script>
-    <script>var scene = document.getElementById('scene');
-var parallaxInstance = new Parallax(scene, {
-  relativeInput: true
-});
-    </script>
+        <script>var scene = document.getElementById('scene');
+            var parallaxInstance = new Parallax(scene, {
+                relativeInput: true
+            });
+        </script>
     </body>
 </html>
