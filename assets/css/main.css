@@ -44,7 +44,6 @@ body{
 }
 
 #whoAreWe{
-    background-color: #202020;
 color: #fff;
 min-height: 100vh;
 background-size: cover;
@@ -52,14 +51,12 @@ padding-top: 100px;
 }
 
 #webDev{
-    background-color: #202020;
 color: #fff;
 min-height: 100vh;
 padding-top: 100px;
 }
 
 #webDesign{
-    background-color: #202020;
 color: #fff;
 min-height: 100vh;
 padding-top: 100px;
@@ -155,10 +152,6 @@ main h3{
     display:block;
     left:0;
 }
-#myVideo {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
+main{
+    background-color: #202020;
 }
