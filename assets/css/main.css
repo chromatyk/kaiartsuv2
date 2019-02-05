@@ -120,7 +120,6 @@ body{
 #whoAreWe{
 color: #fff;
 min-height: 100vh;
-background-size: cover;
 padding-top: 100px;
 }
 
@@ -538,4 +537,18 @@ h1{
 
 .brand img{
     max-height: 50px;
+}
+
+.text {
+    font-variant: petite-caps;
+    font-size: 4.283vw;
+    margin-left: 0vw;
+    text-align: left;    
+    color: #BD8B53;
+}
+
+#kaiartsu{
+color: #fff;
+min-height: 100vh;
+padding-top: 100px;
 }
