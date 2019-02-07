@@ -32,11 +32,11 @@
                 <!-- Menu Principal - Fin -->
                 <section id="kaiartsu" class="sectionScroll">
                     <div class="container-fluid">  
-                        <div class="circle sunset"></div>
-                        <div class="circle coolice"></div>
-                        <div class="circle timber"></div>
-                        <div class="circle pig"></div>
-                        <div class="circle friday"></div>
+                        <div class="circleBlack sunset"></div>
+                      <div class="circleBlack coolice"></div>
+                      <div class="circleBlack timber"></div>
+                      <div class="circleBlack pig"></div>
+                      <div class="circleBlack friday"></div>
                         <div class="row">
                             <div class="offset-3">
                                 <h1>
