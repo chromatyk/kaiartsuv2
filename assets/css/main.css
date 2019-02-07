@@ -212,7 +212,8 @@ h1 .h2ColorTitle{
     position:relative;
     font-family: "northen";
     font-size: 13vw;
-    z-index:100; 
+    position: relative;
+    z-index: 100000;
 }
 
 h2 .h2ColorDev{
