@@ -76,8 +76,8 @@
     margin: auto;
 }
 
-body{
-    scrollbar-width: none;
+html, body{
+    overflow:hidden;
 }
 
 .Loader {
@@ -209,8 +209,10 @@ h2 .h2Color{
 
 h1 .h2ColorTitle{
     color: #2E7AAB;
+    position:relative;
     font-family: "northen";
     font-size: 13vw;
+    z-index:100; 
 }
 
 h2 .h2ColorDev{
@@ -548,12 +550,16 @@ h1{
 }
 
 #kaiartsu{
+background-color:rgba(255,255,255,0.9);
 color: #fff;
 min-height: 100vh;
 padding-top: 100px;
 }
-
-.circle {
+#kaiartsu .text{
+position:relative;
+z-index:100;
+}
+.circleBlack {
   left: 0;
   border-radius: 50%;
   overflow: hidden;
@@ -561,14 +567,14 @@ padding-top: 100px;
   z-index: 0;
   animation-direction: alternate;
 }
-.circle:after {
+.circleBlack:after {
   content: '';
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,ffffff+100&0+0,0.2+100 */
-  background: -moz-radial-gradient(center, ellipse cover, rgba(255, 255, 255, 0) 40%, rgba(255, 255, 255, 0.2) 100%);
+  background: -moz-radial-gradient(center, ellipse cover, rgba(0, 0, 0, 1) 40%, rgba(0, 0, 0, 1) 100%);
   /* FF3.6-15 */
-  background: -webkit-radial-gradient(center, ellipse cover, rgba(255, 255, 255, 0) 40%, rgba(255, 255, 255, 0.2) 100%);
+  background: -webkit-radial-gradient(center, ellipse cover, rgba(0, 0, 0, 1) 40%, rgba(0, 0, 0, 1) 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: radial-gradient(ellipse at center, rgba(255, 255, 255, 0) 40%, rgba(255, 255, 255, 0.2) 100%);
+  background: radial-gradient(ellipse at center, rgba(0, 0, 0, 1) 40%, rgba(0, 0, 0, 1) 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ffffff', endColorstr='#33ffffff', GradientType=1);
   /* IE6-9 fallback on horizontal gradient */
@@ -578,7 +584,7 @@ padding-top: 100px;
   bottom: 0;
   right: 0;
 }
-.circle.sunset {
+.circleBlack.sunset {
   width: 10.13182054vh;
   height: 10.13182054vh;
   top: -10.13182054vh;
@@ -589,7 +595,7 @@ padding-top: 100px;
   animation: orb1 30s cubic-bezier(0.27, 0.96, 0.58, 1) alternate infinite;
   opacity: 0.70551096;
 }
-.circle.coolice {
+.circleBlack.coolice {
   background: #4CA1AF;
   /* fallback for old browsers */
   background: -webkit-linear-gradient(-45deg, #C4E0E5, #4CA1AF);
@@ -602,7 +608,7 @@ padding-top: 100px;
   animation: orb2 26s cubic-bezier(0.27, 0.96, 0.58, 1) alternate infinite;
   opacity: 0.8043721;
 }
-.circle.timber {
+.circleBlack.timber {
   background: #fc00ff;
   background: -webkit-linear-gradient(45deg, #00dbde, #fc00ff);
   background: linear-gradient(45deg, #00dbde, #fc00ff);
@@ -612,7 +618,7 @@ padding-top: 100px;
   animation: orb3 43s cubic-bezier(0.27, 0.96, 0.58, 1) alternate infinite;
   opacity: 0.60626348;
 }
-.circle.pig {
+.circleBlack.pig {
   background: #ee9ca7;
   background: -webkit-linear-gradient(to right, #ffdde1, #ee9ca7);
   background: linear-gradient(to right, #ffdde1, #ee9ca7);
@@ -622,7 +628,7 @@ padding-top: 100px;
   animation: orb4 32s cubic-bezier(0.27, 0.96, 0.58, 1) alternate infinite;
   opacity: 0.72893236;
 }
-.circle.friday {
+.circleBlack.friday {
   background: #83a4d4;
   background: -webkit-linear-gradient(84deg, #b6fbff, #83a4d4);
   background: linear-gradient(84deg, #b6fbff, #83a4d4);
