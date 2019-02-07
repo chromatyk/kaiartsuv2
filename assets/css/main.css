@@ -211,6 +211,8 @@ h1 .h2ColorTitle{
     color: #2E7AAB;
     font-family: "northen";
     font-size: 13vw;
+    position: relative;
+    z-index: 100000;
 }
 
 h2 .h2ColorDev{
