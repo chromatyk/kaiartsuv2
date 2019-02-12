@@ -1,3 +1,4 @@
+
 <?php
 include_once 'include/header.php';
 ?>
@@ -9,6 +10,7 @@ include_once 'include/header.php';
             <a href="#" class="brand"><img src="assets/images/logo/Kaiartsuv2.png"/></a>
             <a href="#" id="burger"> <span></span> <span></span> <span></span> </a>
 
+
             <nav id="nav-main">
                 <ul>
                     <li><a href="index.php">Accueil</a></li>
@@ -18,6 +20,7 @@ include_once 'include/header.php';
                     <li><a href="contact.php">Contact</a></li>
                 </ul>
                 <div id="nav-foot">
+
 
                     <div class="col"><h5>Pierre</h5>06.XX.XX.XX.XX</div>
                     <div class="col"><h5>Nicolas</h5> 07.XX.XX.XX.XX</div>
@@ -75,6 +78,7 @@ include_once 'include/header.php';
                             </ul>
 
                             <a class="expand"><span class="plus">+</span><span class="minus">-</span></a>
+
                         </div>
                     </div>
                     <div class="row">
@@ -102,6 +106,7 @@ include_once 'include/header.php';
 
                             <a class="expand"><span class="plus">+</span><span class="minus">-</span></a>
                         </div>
+
                         <div class="boxOffer col-xl-3 col-sm-12">
                             <span class="icon-cont"><i class="fa fa-rocket"></i></span>    <h3>Un site sur-mesure</h3>
 
@@ -125,4 +130,5 @@ include_once 'include/header.php';
     <script src="assets/js/onescroll.js" type="text/javascript"></script>
     <script src="assets/js/parallax.js"></script>
 </body>
+
 </html>

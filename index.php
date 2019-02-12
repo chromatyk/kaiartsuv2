@@ -5,6 +5,7 @@ include_once 'include/header.php';
     <?php
     include_once 'include/loader.php';
     ?>
+
     <!-- Page Home - Début -->
     <div id="fadeSite">
         <!-- Menu Principal - Début -->
@@ -50,6 +51,7 @@ include_once 'include/header.php';
                             <div class="text"></div>
                         </div>
                     </div>
+
                 </div>
             </section>
             <!-- Qui sommes nous - Début -->
@@ -61,6 +63,9 @@ include_once 'include/header.php';
                             <h2>
                                 L'agence web,<br /> <span class="h2Color">Kaiartsu.</span>
                             </h2>
+
+                </section>
+
                         </div>
                     </div>
                     <div class="row">
@@ -131,6 +136,7 @@ include_once 'include/header.php';
                                 - Charte graphique ou support marketing ? Un design qui vous ressemble  -
                             </h3>
                         </div>
+
                     </div>
                     <div class="row dispear">
                         <div class="col-10 offset-2">
@@ -151,4 +157,5 @@ include_once 'include/header.php';
     <script src="assets/js/parallax.js"></script>
     <script src="assets/js/textRandom.js" type="text/javascript"></script>
 </body>
+
 </html>
