@@ -5,20 +5,21 @@
         <?php
         include_once 'include/loader.php';
         ?>
+        <link href="assets/css/svgAnimate.css" rel="stylesheet" type="text/css"/>
         <!-- Page Home - Début -->
         <div id="fadeSite">
             <!-- Menu Principal - Début -->
             <header id="header-main">
                 <a href="#" class="brand"><img src="assets/images/logo/Kaiartsuv2.png"/></a>
-                <a href="#" id="burger"> <span></span> <span></span> <span></span> </a>
+                <button id="burger"> <span></span> <span></span> <span></span> </button>
 
                 <nav id="nav-main">
                     <ul>
-                        <li><a href="index.php">Accueil</a></li>
-                        <li><a href="agency.php">L'agence</a></li>
-                        <li><a href="webDev.php">Développement web</a></li>
-                        <li><a href="graphisme.php">Design Visuel</a></li>
-                        <li><a href="contact.php">Contact</a></li>
+                        <li><a class="linkNav" href="index.php">Accueil</a></li>
+                        <li><a class="linkNav" href="agency.php">L'agence</a></li>
+                        <li><a class="linkNav" href="webDev.php">Développement web</a></li>
+                        <li><a class="linkNav" href="graphisme.php">Design Visuel</a></li>
+                        <li><a class="linkNav" href="contact.php">Contact</a></li>
                     </ul>
                     <div id="nav-foot">
 
@@ -52,10 +53,10 @@
                         </div>
                     </div>
                 </section>
+                
                 <!-- Qui sommes nous - Début -->
-                <section id="whoAreWe" class="sectionScroll" data-image-src="assets/images/fond.jpg">
+                <section id="whoAreWe" class="sectionScroll" data-image-src="assets/images/fond.jpg">                    
                     <div class="container">
-
                         <div class="row">
                             <div class="col-8 offset-2">
                                 <h2>
@@ -131,16 +132,17 @@
                             <div class="col-10 offset-2">
                                 <p>
                                     Chez Kaiartsu nous poussons la communication au-delà du web.<br/>
-                                    Notre studio graphique possède les compétences necessaire pour vous aidez à améliorer votre visibilité.<br />
+                                    Notre studio graphique possède les compétences necessaire pour vous aidez à  améliorer votre visibilité.<br />
                                     Un logo, une charte graphique ou un support marketing nous vous conseillons et vous aidons à transmettre une image qui vous ressemble.
                                 </p>
-                            </div>
+                            </div>                            
                         </div>
                     </div>
                 </section>
             </main>
         </div>
         <script src="assets/js/main.js"></script>
+        <script src="assets/js/navBar.js"></script>
         <script src="assets/lib/bootstrap/js/bootstrap.js" ></script>
         <script src="assets/js/onescroll.js" type="text/javascript"></script>
         <script src="assets/js/parallax.js"></script>
