@@ -82,62 +82,6 @@
                         </div>
                     </div>
                 </section>
-                <!-- Qui sommes nous - Fin -->
-                <section id="webDev" class="sectionScroll">
-                    <div class="container">
-                        <div class="row dispear">
-                            <div class="col-10 offset-2">
-                                <h2>
-                                    Le développement web par <span class="h2ColorDev">Kaiartsu.</span>
-                                </h2>
-                            </div>
-                        </div>
-                        <div class="row dispear">
-                            <div class="col-9 offset-3">
-                                <h3>
-                                    - La création ou la refonte d'un site internet ? Vous avez un projet on a une solution -
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="row dispear">
-                            <div class="col-10 offset-2">
-                                <p>
-                                    Chez kaiartsu nous créons des sites web à votre image.<br/>
-                                    Que ce soit un site vitrine ou un site d'e-commerce nous vous accompagnons tous le long de la création, mais aussi dans l'évolution de votre projet.<br/>
-                                    Nous vous garantissons un site web responsive, optimisé pour une visite confortable quel que soit le support.<br/>
-                                    Nous sommes deux développeurs web certifiés "Opquast", vous assurant d'avoir un site répondant aux bien scéances du web.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-                <section id="webDesign" class="sectionScroll">
-                    <div class="container">
-                        <div class="row dispear">
-                            <div class="col-9 offset-2">
-                                <h2>
-                                    Le graphisme par <span class="h2Color">Kaiartsu.</span>
-                                </h2>
-                            </div>
-                        </div>
-                        <div class="row dispear">
-                            <div class="col-9 offset-3">
-                                <h3>
-                                    - Charte graphique ou support marketing ? Un design qui vous ressemble  -
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="row dispear">
-                            <div class="col-10 offset-2">
-                                <p>
-                                    Chez Kaiartsu nous poussons la communication au-delà du web.<br/>
-                                    Notre studio graphique possède les compétences necessaire pour vous aidez à améliorer votre visibilité.<br />
-                                    Un logo, une charte graphique ou un support marketing nous vous conseillons et vous aidons à transmettre une image qui vous ressemble.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </section>
             </main>
         </div>
         <script src="assets/js/main.js"></script>
