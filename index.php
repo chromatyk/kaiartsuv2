@@ -80,6 +80,11 @@
                                 </p>
                             </div>
                         </div>
+						                        <div class="row dispear">
+                            <div class="">
+  <a href="agency.php"><button class="raise">Raise</button></a>
+                            </div>
+                        </div>
                     </div>
                 </section>
                 <!-- Qui sommes nous - Fin -->
@@ -109,6 +114,11 @@
                                 </p>
                             </div>
                         </div>
+												                        <div class="row dispear">
+                            <div class="">
+  <a href="webDev.php"><button class="raise">Raise</button></a>
+                            </div>
+                        </div>
                     </div>
                 </section>
                 <section id="webDesign" class="sectionScroll">
@@ -134,6 +144,11 @@
                                     Notre studio graphique possède les compétences necessaire pour vous aidez à améliorer votre visibilité.<br />
                                     Un logo, une charte graphique ou un support marketing nous vous conseillons et vous aidons à transmettre une image qui vous ressemble.
                                 </p>
+                            </div>
+                        </div>
+												                        <div class="row dispear">
+                            <div class="">
+  <a href="graphisme.php"><button class="raise">Raise</button></a>
                             </div>
                         </div>
                     </div>

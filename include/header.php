@@ -15,6 +15,7 @@
         <link href="assets/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
         <link href="assets/css/animate.css" rel="stylesheet" type="text/css"/>
         <link href="assets/css/main.css" rel="stylesheet" type="text/css"/>
+		<link href="assets/css/button.css" rel="stylesheet" type="text/css"/>
         <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet"> 
         <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
