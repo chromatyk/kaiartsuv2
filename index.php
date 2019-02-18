@@ -5,9 +5,9 @@
         <?php
         include_once 'include/loader.php';
         ?>
-        <!-- Page Home - D�but -->
+        <!-- Page Home - Début -->
         <div id="fadeSite">
-            <!-- Menu Principal - D�but -->
+            <!-- Menu Principal - Début -->
             <header id="header-main">
                 <a href="#" class="brand"><img src="assets/images/logo/Kaiartsuv2.png"/></a>
                 <a href="#" id="burger"> <span></span> <span></span> <span></span> </a>
@@ -15,7 +15,7 @@
                     <ul>
                         <li><a href="index.php">Accueil</a></li>
                         <li><a href="agency.php">L'agence</a></li>
-                        <li><a href="webDev.php">D�veloppement web</a></li>
+                        <li><a href="webDev.php">Développement web</a></li>
                         <li><a href="graphisme.php">Design Visuel</a></li>
                         <li><a href="contact.php">Contact</a></li>
                     </ul>
@@ -48,35 +48,35 @@
                         </div>
                     </div>
                 </section>
-                <!-- Qui sommes nous - D�but -->
+                <!-- Qui sommes nous - Début -->
                 <section id="whoAreWe" class="sectionScroll" data-image-src="assets/images/fond.jpg">
                     <div class="container">
                         <div class="row">
-                            <div class="col-8 offset-2">
+                            <div class="col-8 offset-1">
                                 <h2>
                                     L'agence web,<br /> <span class="h2Color">Kaiartsu.</span>
                                 </h2>
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-9 offset-3">
+                            <div class="col-9 offset-2">
                                 <h3>
-                                    - Cr�ation de site internet et support marketing -
+                                    - Création de site internet et support marketing -
                                 </h3>
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-10 offset-2">
+                            <div class="col-10 offset-1">
                                 <p> 
-                                    Kaiartsu est une agence web sp�cialis�e dans la cr�ation de site internet et le graphisme, nous sommes install�s dans le campus �conomique Inovia � Noyon dans l'Oise.<br/>
-                                    Nous fournissons des r�ponses � vos questions et cr�ons des solutions flexibles qui transforment votre communication num�rique en r�sultats concrets.<br/>
-                                    En travaillant �troitement avec vous tous les jours � tous les niveaux, nous permettons � vos projets d'exist�s et d'�volu�s.<br/> 
-                                    Que ce soit la cr�ation ou la refonte de votre site web, l'am�lioration de la qualit� web de votre site, la mise � niveau de vos r�glementations ou encore la cr�ation de supports marketing, nous sommes � votre �coute.
+                                    Kaiartsu est une agence web spécialisée dans la création de site internet et le graphisme, nous sommes installés dans le campus économique Inovia é Noyon dans l'Oise.<br/>
+                                    Nous fournissons des réponses é vos questions et créons des solutions flexibles qui transforment votre communication numérique en résultats concrets.<br/>
+                                    En travaillant étroitement avec vous tous les jours é tous les niveaux, nous permettons é vos projets d'existés et d'évolués.<br/> 
+                                    Que ce soit la création ou la refonte de votre site web, l'amélioration de la qualité web de votre site, la mise é niveau de vos réglementations ou encore la création de supports marketing, nous sommes é votre écoute.
                                 </p>
                             </div>
                         </div>
 						                        <div class="row dispear">
-                            <div class="">
+                            <div class="offset-8">
   <a href="agency.php"><button class="raise">Raise</button></a>
                             </div>
                         </div>
@@ -86,31 +86,31 @@
                 <section id="webDev" class="sectionScroll">
                     <div class="container">
                         <div class="row dispear">
-                            <div class="col-10 offset-2">
+                            <div class="col-10 offset-1">
                                 <h2>
-                                    Le d�veloppement web par <span class="h2ColorDev">Kaiartsu.</span>
+                                    Le développement web par <span class="h2ColorDev">Kaiartsu.</span>
                                 </h2>
                             </div>
                         </div>
                         <div class="row dispear">
-                            <div class="col-9 offset-3">
+                            <div class="col-9 offset-2">
                                 <h3>
-                                    - La cr�ation ou la refonte d'un site internet ? Vous avez un projet on a une solution -
+                                    - La création ou la refonte d'un site internet ? Vous avez un projet on a une solution -
                                 </h3>
                             </div>
                         </div>
                         <div class="row dispear">
-                            <div class="col-10 offset-2">
+                            <div class="col-10 offset-1">
                                 <p>
-                                    Chez kaiartsu nous cr�ons des sites web � votre image.<br/>
-                                    Que ce soit un site vitrine ou un site d'e-commerce nous vous accompagnons tous le long de la cr�ation, mais aussi dans l'�volution de votre projet.<br/>
-                                    Nous vous garantissons un site web responsive, optimis� pour une visite confortable quel que soit le support.<br/>
-                                    Nous sommes deux d�veloppeurs web certifi�s "Opquast", vous assurant d'avoir un site r�pondant aux bien sc�ances du web.
+                                    Chez kaiartsu nous créons des sites web é votre image.<br/>
+                                    Que ce soit un site vitrine ou un site d'e-commerce nous vous accompagnons tous le long de la création, mais aussi dans l'évolution de votre projet.<br/>
+                                    Nous vous garantissons un site web responsive, optimisé pour une visite confortable quel que soit le support.<br/>
+                                    Nous sommes deux développeurs web certifiés "Opquast", vous assurant d'avoir un site répondant aux bien scéances du web.
                                 </p>
                             </div>
                         </div>
 												                        <div class="row dispear">
-                            <div class="">
+                            <div class="offset-8">
   <a href="webDev.php"><button class="raise">Raise</button></a>
                             </div>
                         </div>
@@ -119,30 +119,30 @@
                 <section id="webDesign" class="sectionScroll">
                     <div class="container">
                         <div class="row dispear">
-                            <div class="col-9 offset-2">
+                            <div class="col-9 offset-1">
                                 <h2>
                                     Le graphisme par <span class="h2Color">Kaiartsu.</span>
                                 </h2>
                             </div>
                         </div>
                         <div class="row dispear">
-                            <div class="col-9 offset-3">
+                            <div class="col-9 offset-2">
                                 <h3>
                                     - Charte graphique ou support marketing ? Un design qui vous ressemble  -
                                 </h3>
                             </div>
                         </div>
                         <div class="row dispear">
-                            <div class="col-10 offset-2">
+                            <div class="col-10 offset-1">
                                 <p>
-                                    Chez Kaiartsu nous poussons la communication au-del� du web.<br/>
-                                    Notre studio graphique poss�de les comp�tences necessaire pour vous aidez � am�liorer votre visibilit�.<br />
-                                    Un logo, une charte graphique ou un support marketing nous vous conseillons et vous aidons � transmettre une image qui vous ressemble.
+                                    Chez Kaiartsu nous poussons la communication au-delé du web.<br/>
+                                    Notre studio graphique posséde les compétences necessaire pour vous aidez é améliorer votre visibilité.<br />
+                                    Un logo, une charte graphique ou un support marketing nous vous conseillons et vous aidons é transmettre une image qui vous ressemble.
                                 </p>
                             </div>
                         </div>
 												                        <div class="row dispear">
-                            <div class="">
+                            <div class="offset-8">
   <a href="graphisme.php"><button class="raise">Raise</button></a>
                             </div>
                         </div>
