@@ -3,7 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
+            <file>file:/C:/Dev/Projets/kaiartsuv2/assets/css/main.css</file>
+            <file>file:/C:/Dev/Projets/kaiartsuv2/webDev.php</file>
+            <file>file:/C:/Dev/Projets/kaiartsuv2/index.php</file>
+=======
             <file>file:/D:/Projets/KaiartsuV2/index.php</file>
+>>>>>>> f8a474120ec5a567e277b0bb76617f364e1b260b
         </group>
     </open-files>
 </project-private>
