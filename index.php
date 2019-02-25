@@ -143,17 +143,16 @@ include_once 'include/header.php';
                             <a href="graphisme.php"><button class="raise">En savoir plus</button></a>
                         </div>
                     </div>
-                </div>
-            </section>
-        </main>
-    </div>
-    <?php
-    include_once 'include/footer.php';
-    ?>
-    <script src="assets/js/main.js"></script>
-    <script src="assets/lib/bootstrap/js/bootstrap.js" ></script>
-    <script src="assets/js/onescroll.js" type="text/javascript"></script>
-    <script src="assets/js/parallax.js"></script>
-    <script src="assets/js/textRandom.js" type="text/javascript"></script>
-</body>
+                </section>
+            </main>
+        </div>
+		<?php
+		include(utf8_encode('include/footer.php'));
+		?>
+		<script src="assets/js/main.js"></script>
+        <script src="assets/lib/bootstrap/js/bootstrap.js" ></script>
+        <script src="assets/js/onescroll.js" type="text/javascript"></script>
+        <script src="assets/js/parallax.js"></script>
+        <script src="assets/js/textRandom.js" type="text/javascript"></script>
+    </body>
 </html>
