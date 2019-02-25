@@ -16,7 +16,7 @@
                 <li class="brandMobile"><img src="assets/images/logo/logoAlone.png"/></li>
                         <li><a href="index.php">Accueil</a></li>
                         <li><a href="agency.php">L'agence</a></li>
-                        <li><a href="webDev.php">Développement web</a></li>
+                        <li><a href="webDev.php">Création web</a></li>
                         <li><a href="graphisme.php">Design Visuel</a></li>
                         <li><a href="contact.php">Contact</a></li>
                     </ul>
