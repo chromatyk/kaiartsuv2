@@ -707,3 +707,7 @@ h1{
             transform: translatey(114.19716165vh) translatex(89.05485056vw);
         }
     }
+
+    h2.titleAgency{
+        font-size: 4vw;
+    }
