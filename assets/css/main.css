@@ -72,10 +72,6 @@
 
 /*Index*/
 
-
-
-
-
 .Loader {
     position: absolute;
     top: 50%;
@@ -703,7 +699,7 @@ h2.titleAgency{
 .pagination {
 	position:fixed;
 	right:20px;
-	top: 50%;
+	top: 40%;
   transform: translateY(50%);
 
 	display:block;

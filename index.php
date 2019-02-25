@@ -64,11 +64,13 @@ include_once 'include/header.php';
                     </div>
                     <div class="row">
                         <div class="col-10 offset-1">
-                            <p>
-                                Kaiartsu est une agence web spécialisée dans la création de site internet et le graphisme, nous sommes installés dans le campus économique Inovia é Noyon dans l'Oise.<br/>
-                                Nous fournissons des réponses é vos questions et créons des solutions flexibles qui transforment votre communication numérique en résultats concrets.<br/>
-                                En travaillant étroitement avec vous tous les jours é tous les niveaux, nous permettons é vos projets d'existés et d'évolués.<br/>
-                                Que ce soit la création ou la refonte de votre site web, l'amélioration de la qualité web de votre site, la mise é niveau de vos réglementations ou encore la création de supports marketing, nous sommes é votre écoute.
+
+                            <p> 
+                                Kaiartsu est une agence web spécialisée dans la création de site internet et le graphisme, nous sommes installés dans le campus économique Inovia à Noyon dans l'Oise.<br/>
+                                Nous fournissons des réponses à vos questions et créons des solutions flexibles qui transforment votre communication numérique en résultats concrets.<br/>
+                                En travaillant étroitement avec vous tous les jours à tous les niveaux, nous permettons à vos projets d'existés et d'évolués.<br/> 
+                                Que ce soit la création ou la refonte de votre site web, l'amélioration de la qualité web de votre site, la mise à niveau de vos réglementations ou encore la création de supports marketing, nous sommes à votre écoute.
+
                             </p>
                         </div>
                     </div>
@@ -99,7 +101,7 @@ include_once 'include/header.php';
                     <div class="row dispear">
                         <div class="col-10 offset-1">
                             <p>
-                                Chez kaiartsu nous créons des sites web é votre image.<br/>
+                                Chez kaiartsu nous créons des sites web à votre image.<br/>
                                 Que ce soit un site vitrine ou un site d'e-commerce nous vous accompagnons tous le long de la création, mais aussi dans l'évolution de votre projet.<br/>
                                 Nous vous garantissons un site web responsive, optimisé pour une visite confortable quel que soit le support.<br/>
                                 Nous sommes deux développeurs web certifiés "Opquast", vous assurant d'avoir un site répondant aux bien scéances du web.
@@ -132,9 +134,9 @@ include_once 'include/header.php';
                     <div class="row dispear">
                         <div class="col-10 offset-1">
                             <p>
-                                Chez Kaiartsu nous poussons la communication au-delé du web.<br/>
-                                Notre studio graphique posséde les compétences necessaire pour vous aidez é améliorer votre visibilité.<br />
-                                Un logo, une charte graphique ou un support marketing nous vous conseillons et vous aidons é transmettre une image qui vous ressemble.
+                                Chez Kaiartsu nous poussons la communication au-delà du web.<br/>
+                                Notre studio graphique posséde les compétences necessaire pour vous aidez à améliorer votre visibilité.<br />
+                                Un logo, une charte graphique ou un support marketing nous vous conseillons et vous aidons à transmettre une image qui vous ressemble.
                             </p>
                         </div>
                     </div>

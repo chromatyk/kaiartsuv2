@@ -30,10 +30,10 @@ include_once 'include/header.php';
         </header>
         <main id="contenuPage">
             <!-- Menu Principal - Fin -->
-            <section id="kaiartsu" class="sectionScroll parallax">
+            <section class="sectionScroll panel home parallax" data-section-name="home">
             </section>
             <!-- Qui sommes nous - Début -->
-            <section id="whoAreWe" class="sectionScroll" data-image-src="assets/images/fond.jpg">
+            <section id="whoAreWe" class="sectionScroll panel panel1" data-section-name="second">
                 <div class="container">
 
                     <div class="row">
