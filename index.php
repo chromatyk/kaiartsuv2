@@ -25,7 +25,7 @@ include_once 'include/header.php';
         <main id="contenuPage">
             <!-- Menu Principal - Fin -->
             <section id="kaiartsu" class="sectionScroll panel home" data-section-name="home">
-                <div class="container-fluid">  
+                <div class="container-fluid">
                     <div class="circleBlack sunset"></div>
                     <div class="circleBlack coolice"></div>
                     <div class="circleBlack timber"></div>
@@ -64,10 +64,10 @@ include_once 'include/header.php';
                     </div>
                     <div class="row">
                         <div class="col-10 offset-1">
-                            <p> 
+                            <p>
                                 Kaiartsu est une agence web spécialisée dans la création de site internet et le graphisme, nous sommes installés dans le campus économique Inovia é Noyon dans l'Oise.<br/>
                                 Nous fournissons des réponses é vos questions et créons des solutions flexibles qui transforment votre communication numérique en résultats concrets.<br/>
-                                En travaillant étroitement avec vous tous les jours é tous les niveaux, nous permettons é vos projets d'existés et d'évolués.<br/> 
+                                En travaillant étroitement avec vous tous les jours é tous les niveaux, nous permettons é vos projets d'existés et d'évolués.<br/>
                                 Que ce soit la création ou la refonte de votre site web, l'amélioration de la qualité web de votre site, la mise é niveau de vos réglementations ou encore la création de supports marketing, nous sommes é votre écoute.
                             </p>
                         </div>
