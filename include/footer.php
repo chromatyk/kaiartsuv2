@@ -1,4 +1,4 @@
-<footer class="footer sectionScroll panel panel3" data-section-name="foot">
+<footer class="footer sectionScroll panel panel3" data-section-name="Informations Complémentaires">
   <div class="row adresseAll" id="adresseFoot">
       <div class="col-4 barre">
         <div class="row">
