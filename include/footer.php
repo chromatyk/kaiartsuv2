@@ -1,4 +1,5 @@
-<footer class="footer sectionScroll panel panel3" data-section-name="Informations Complémentaires">
+<footer class="footer sectionScroll panel panel3 " data-section-name="Informations">
+  <div class="dispear">
   <div class="row adresseAll" id="adresseFoot">
       <div class="col-4 barre">
         <div class="row">
@@ -55,4 +56,5 @@
       <p>© 2019 Kaiartsu - Tous droits réservés - </p>
     </div>
   </div>
+</div>
 </footer>
