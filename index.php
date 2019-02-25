@@ -17,14 +17,14 @@ include_once 'include/header.php';
                     <li><a class="firstLink" href="index.php">Accueil</a></li>
                     <li><a href="agency.php">L'agence</a></li>
                     <li><a href="webDev.php">Création web</a></li>
-                    <li><a href="graphisme.php">Design Visuel</a></li>
+                    <li><a href="graphisme.php">Studio Graphique</a></li>
                     <li><a href="contact.php">Contact</a></li>
                 </ul>
             </nav>
         </header>
         <main id="contenuPage">
             <!-- Menu Principal - Fin -->
-            <section id="kaiartsu" class="sectionScroll panel home" data-section-name="home">
+            <section id="kaiartsu" class="sectionScroll panel home" data-section-name="Kaiartsu">
                 <div class="container-fluid">
                     <div class="circleBlack sunset"></div>
                     <div class="circleBlack coolice"></div>
@@ -46,23 +46,23 @@ include_once 'include/header.php';
                 </div>
             </section>
             <!-- Qui sommes nous - Début -->
-            <section id="whoAreWe" class="sectionScroll panel panel1" data-section-name="second">
+            <section id="whoAreWe" class="sectionScroll panel panel1" data-section-name="L'agence">
                 <div class="container">
-                    <div class="row">
+                    <div class="row dispear">
                         <div class="col-8 offset-1">
                             <h2>
                                 L'agence web,<br /> <span class="h2Color">Kaiartsu.</span>
                             </h2>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row dispear">
                         <div class="col-9 offset-2">
                             <h3>
                                 - Création de site internet et support marketing -
                             </h3>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row dispear">
                         <div class="col-10 offset-1">
 
                             <p> 
@@ -82,7 +82,7 @@ include_once 'include/header.php';
                 </div>
             </section>
             <!-- Qui sommes nous - Fin -->
-            <section id="webDev" class="sectionScroll panel panel2" data-section-name="third">
+            <section id="webDev" class="sectionScroll panel panel2" data-section-name="Création web">
                 <div class="container">
                     <div class="row dispear">
                         <div class="col-10 offset-1">
@@ -115,7 +115,7 @@ include_once 'include/header.php';
                     </div>
                 </div>
             </section>
-            <section id="webDesign" class="sectionScroll panel panel3" data-section-name="fourth">
+            <section id="webDesign" class="sectionScroll panel panel3" data-section-name="Studio graphique">
                 <div class="container">
                     <div class="row dispear">
                         <div class="col-9 offset-1">
