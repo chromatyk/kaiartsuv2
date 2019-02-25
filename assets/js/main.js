@@ -16,13 +16,15 @@ if (window.matchMedia("(min-width: 800px)").matches) {
 
     $(document).ready(function () {
         $("#fadeSite").css("display", "none");
+        $(".footer").css("display", "none");
         $("#contenuLoader").delay(2000).fadeOut(200);
         $("#fadeSite").delay(2400).fadeIn(200);
+        $(".footer").delay(2400).fadeIn(200);
         setTimeout(function () {
             $('body').css('overflow', 'unset');
             $('body').css('overflow-x', 'hidden');
             ScrollReveal().reveal('.dispear', { delay: 500, useDelay: 'onload', reset: true, duration: 2000 });
-            $.scrollify({ section: ".sectionScroll" });
+            $.scrollify({ section: ".sectionScroll", interstitialSection: ".footer" });
         }, 2600);
     })
 
@@ -48,8 +50,10 @@ if (window.matchMedia("(min-width: 800px)").matches) {
 
     $(document).ready(function () {
         $("#fadeSite").css("display", "none");
+        $(".footer").css("display", "none");
         $("#contenuLoader").delay(2000).fadeOut(200);
         $("#fadeSite").delay(2400).fadeIn(200);
+        $(".footer").delay(2400).fadeIn(200);
         setTimeout(function () {
             $('body').css('overflow', 'unset');
             $('body').css('overflow-x', 'hidden');
