@@ -31,7 +31,7 @@ include_once 'include/header.php';
         <main id="contenuPage">
             <!-- Menu Principal - Fin -->
             <section id="kaiartsu" class="sectionScroll">
-                <div class="container-fluid">  
+                <div class="container-fluid">
                     <div class="circle sunset"></div>
                     <div class="circle coolice"></div>
                     <div class="circle timber"></div>
@@ -65,9 +65,9 @@ include_once 'include/header.php';
                     </div>
                     <div class="row">
                         <div class="col-10 offset-2">
-                            <p> 
-                                Kaiartsu n’est pas une agence ordinaire, mais l’histoire de deux amis, passionnés par le Web, réunis autour de valeurs communes. 
-                                A la jonction entre un auto-entreprenariat réussi et une solide expérience en e-Commerce, nous sommes là pour prendre en main vos projets en mêlant professionnalisme et bonne humeur.
+                            <p>
+                                Kaiartsu n’est pas une agence ordinaire, mais l’histoire de deux amis, passionnés par le Web, réunis autour de valeurs communes.
+                                A la jonction entre un auto-entreprenariat réussi, nous sommes là pour prendre en main vos projets en mêlant professionnalisme et bonne humeur.
                             </p>
                         </div>
                     </div>
@@ -80,7 +80,7 @@ include_once 'include/header.php';
                     </div>
                     <div class="row">
                         <div class="col-10 offset-2">
-                            <p> 
+                            <p>
                                 L’humain au centre de nos préoccupations. Kaiartsu est une agence à l’écoute de ses clients, notre priorité est de nouer des relations positives et constructives dans le temps.
                                 Après tout, Kaiartsu est née naturellement d’un constat simple : l’envie de mettre nos expériences au service de nos clients.
                             </p>
@@ -95,7 +95,7 @@ include_once 'include/header.php';
                     </div>
                     <div class="row">
                         <div class="col-10 offset-2">
-                            <p> 
+                            <p>
                                 Nos valeurs de confiance et de transparence régissent nos interactions. Les échanges ouverts, sincères et respectueux sont des vecteurs clé de succès chers à notre entreprise.
                                 Notre travail est clair et limpide, vous resterez propriétaire de votre site, il n’y a pas de mauvaises surprises à la livraison de votre projet.
                             </p>
