@@ -151,7 +151,10 @@
                 </section>
             </main>
         </div>
-        <script src="assets/js/main.js"></script>
+		<?php
+        include_once 'include/footer.php';
+		?>
+		<script src="assets/js/main.js"></script>
         <script src="assets/lib/bootstrap/js/bootstrap.js" ></script>
         <script src="assets/js/onescroll.js" type="text/javascript"></script>
         <script src="assets/js/parallax.js"></script>
