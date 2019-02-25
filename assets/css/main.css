@@ -91,20 +91,7 @@
     width:25%;
 }
 
-@media screen and (max-width: 800px) {
-    .Loader {
-        position: absolute;
-        top: 50%;
-        -webkit-transform: translateY(-50%);
-        -ms-transform: translateY(-50%);
-        transform: translateY(-50%);
-        left: 0;
-        right: 0;
-        margin: auto;
-        text-align: center;
-        width:50%;
-    }
-}
+
 
 #contenuLoader{
     background: #202020;
@@ -397,7 +384,7 @@ h1{
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            top: 27vh;
+            top: 20%;
             left: 0;
             right: 0;
             padding: 0;
@@ -711,3 +698,40 @@ h1{
     h2.titleAgency{
         font-size: 4vw;
     }
+.brandMobile img {
+    display: none;
+}
+@media screen and (max-width: 800px) {
+    .Loader {
+        position: absolute;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+        left: 0;
+        right: 0;
+        margin: auto;
+        text-align: center;
+        width: 50%;
+    }
+
+    #nav-main {
+        background-color: #202020;
+    }
+    #nav-main ul{
+        top:8%;
+    }
+    .brand{
+        display:none;
+    }
+    .brandMobile img{
+        display: block;
+        width: 100px;
+    }
+}
+@media screen and (max-height: 900px) {
+
+        #nav-main ul {
+            top: 8%;
+        }
+}

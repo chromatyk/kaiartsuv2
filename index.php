@@ -13,6 +13,7 @@
                 <a href="#" id="burger"> <span></span> <span></span> <span></span> </a>
                 <nav id="nav-main">
                     <ul>
+                <li class="brandMobile"><img src="assets/images/logo/logoAlone.png"/></li>
                         <li><a href="index.php">Accueil</a></li>
                         <li><a href="agency.php">L'agence</a></li>
                         <li><a href="webDev.php">Développement web</a></li>
