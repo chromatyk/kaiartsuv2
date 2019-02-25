@@ -1,4 +1,4 @@
-<footer class="footer">
+<footer class="footer sectionScroll panel panel3" data-section-name="foot">
   <div class="row adresseAll" id="adresseFoot">
       <div class="col-4 barre">
         <div class="row">
@@ -51,7 +51,7 @@
     </div>
   </div>
   <div class="row">
-    <div id="copyright" class="offset-lg-5 col-xs- 5 col-lg-2">
+    <div id="copyright" class=" col-xs- 5 col-lg-12">
       <p>© 2019 Kaiartsu - Tous droits réservés - </p>
     </div>
   </div>
