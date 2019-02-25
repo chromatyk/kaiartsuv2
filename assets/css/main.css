@@ -71,7 +71,9 @@
 
 
 /*Index*/
-
+*{
+  margin : auto;
+}
 .Loader {
     position: absolute;
     top: 50%;

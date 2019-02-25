@@ -29,7 +29,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="offset-lg-3 col-xs-12 col-lg-2">
+          <div class="col-xs-12 col-lg-2">
             <a href="#" title="facebook" class=""><i class="fab fa-facebook"></i></a>
           </div>
           <div class="col-xs-12 col-lg-2">
@@ -43,7 +43,7 @@
   </div>
   <hr>
   <div class="row">
-    <div class="offset-lg-4 col-xs-6 col-lg-2 linkFooter">
+    <div class="col-xs-6 col-lg-2 linkFooter">
   <a href="../politique.php" title="Politique de confidentialité">Politique de confidentialité</a>
     </div>
     <div class="col-xs-6 col-lg-2 linkFooter">
