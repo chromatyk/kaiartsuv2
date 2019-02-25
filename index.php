@@ -152,7 +152,7 @@
             </main>
         </div>
 		<?php
-        include_once 'include/footer.php';
+		include(utf8_encode('include/footer.php'));
 		?>
 		<script src="assets/js/main.js"></script>
         <script src="assets/lib/bootstrap/js/bootstrap.js" ></script>

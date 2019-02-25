@@ -18,11 +18,11 @@
 }
 @keyframes el_OtaFIOkvmeJ_A4bEbZU4w_Animation{
     40%{
-        -webkit-transform: translate(317.20001220703125px, 212.10000610351562px) 
-            translate(-317.20001220703125px, -212.10000610351562px) 
+        -webkit-transform: translate(317.20001220703125px, 212.10000610351562px)
+            translate(-317.20001220703125px, -212.10000610351562px)
             translate(200px, 150px);
-        transform: translate(317.20001220703125px, 212.10000610351562px) 
-            translate(-317.20001220703125px, -212.10000610351562px) 
+        transform: translate(317.20001220703125px, 212.10000610351562px)
+            translate(-317.20001220703125px, -212.10000610351562px)
             translate(200px, 150px);
     }
     50%{-webkit-transform: translate(317.20001220703125px, 212.10000610351562px) translate(-317.20001220703125px, -212.10000610351562px) translate(0px, 0px);transform: translate(317.20001220703125px, 212.10000610351562px) translate(-317.20001220703125px, -212.10000610351562px) translate(0px, 0px);}
@@ -72,9 +72,7 @@
 
 /*Index*/
 
-*{
-    margin: auto;
-}
+
 
 
 
@@ -225,7 +223,7 @@ main{
     font-variant: petite-caps;
     font-size: 4.283vw;
     margin-left: 0vw;
-    text-align: left;    
+    text-align: left;
     color: #BD8B53;
 }
 
@@ -288,7 +286,7 @@ main{
     width: 20px;
     padding: 10px;
     box-sizing: border-box;
-    background: rgba(255, 255, 255, 0);
+    background: #4c4c4c;
     border: 4px solid rgba(255, 255, 255, 0);
     border-radius: 3px;
     z-index: 5;
@@ -683,8 +681,29 @@ h2.titleAgency{
     display: none;
 }
 
+/* footer */
 
+footer{
+  text-align: center;
+  padding-top:20px;
+  color:white;
+}
 
+footer a{
+color:#2e7aab;
+}
+.footer {
+    background-color:#202020;
+}
+#copyright{
+  margin-top: 10px;
+}
+.barre{
+    border-right: 2px white solid;
+}
+footer i{
+  font-size: 50px;
+}
 /* Media Queries */
 
 @media screen and (max-width: 800px) {
@@ -702,7 +721,7 @@ h2.titleAgency{
     }
 
     #nav-main {
-        background-color: #202020;
+        background-color: transparent;
     }
     #nav-main ul{
         top:8%;
