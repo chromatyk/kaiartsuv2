@@ -36,7 +36,8 @@ include_once 'include/header.php';
         </header>
         <main id="contenuPage">
             <!-- Menu Principal - Fin -->
-            <section class="sectionScroll panel home parallax" data-section-name="home">
+            <section class="sectionScroll panel home" data-section-name="home">
+                <span data-tilt><div id="test"></div></span>
             </section>
             <!-- Qui sommes nous - Début -->
             <section id="whoAreWe" class="sectionScroll panel panel1" data-section-name="second">
@@ -97,5 +98,11 @@ include_once 'include/header.php';
     <script src="assets/js/onescroll.js" type="text/javascript"></script>
     <script src="assets/js/parallax.js" type="text/javascript"></script>
     <script src="assets/js/textRandom.js" type="text/javascript"></script>
+    <script src="assets/js/tilt.js" type="text/javascript"></script>
+    <script>
+        $('.js-tilt').tilt({
+    reset: false
+})
+    </script>
 </body>
 </html>
