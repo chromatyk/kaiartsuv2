@@ -156,5 +156,6 @@ include_once 'include/header.php';
         <script src="assets/js/onescroll.js" type="text/javascript"></script>
         <script src="assets/js/parallax.js"></script>
         <script src="assets/js/textRandom.js" type="text/javascript"></script>
+        <script src="assets/js/tilt.js"></script>
     </body>
 </html>

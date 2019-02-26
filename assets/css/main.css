@@ -392,6 +392,14 @@ line-height: 4em;
 text-decoration: none;
 text-transform: uppercase;
 color: #2e7aab;
+background-image: linear-gradient(to right,
+                                      #2e7aab,
+                                      #2e7aab 50%,
+                                      transparent 50%,
+                                      transparent);
+    background-position: 100% 0;
+    background-size: 200% 100%;
+    transition: all .2s ease-out;
 }
 
 .firstLink {
@@ -399,6 +407,9 @@ color: #2e7aab;
 
 #nav-main a:hover {
     color: #fff;
+       background-position: 0 0;
+       padding-right: 20px;
+       padding-left: 20px;
 }
 
 #nav-main ul ul {
@@ -768,6 +779,15 @@ color:#2e7aab;
 }
 footer i{
   font-size: 50px;
+}
+
+#test{
+    width: 100px;
+    height: 100px;
+    background-image: url('../images/fondacc.png');
+    position: absolute;
+    top: 500px;
+    left: 500px;
 }
 /* Media Queries */
 
