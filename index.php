@@ -151,10 +151,10 @@ include_once 'include/header.php';
 		<?php
 		include(utf8_encode('include/footer.php'));
 		?>
-		<script src="assets/js/main.js"></script>
-        <script src="assets/lib/bootstrap/js/bootstrap.js" ></script>
-        <script src="assets/js/onescroll.js" type="text/javascript"></script>
-        <script src="assets/js/parallax.js"></script>
-        <script src="assets/js/textRandom.js" type="text/javascript"></script>
+		<script src="assets/js/main.js" type="text/javascript"></script>
+    <script src="assets/lib/bootstrap/js/bootstrap.js" type="text/javascript"></script>
+    <script src="assets/js/onescroll.js" type="text/javascript"></script>
+    <script src="assets/js/parallax.js" type="text/javascript"></script>
+    <script src="assets/js/textRandom.js" type="text/javascript"></script>
     </body>
 </html>

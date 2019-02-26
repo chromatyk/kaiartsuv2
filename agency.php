@@ -2,9 +2,15 @@
 include_once 'include/header.php';
 ?>
 <body>
-    <?php
-    include_once 'include/loader.php';
-    ?>
+
+<div id="contenuLoader" class="container-fluid">
+    <div class="Loader" data-text="Loading">
+      <div class="cssload-bar">
+        <div class="cssload-circle"></div>
+        <p>Loading</p>
+    </div>
+    </div>
+</div>
     <!-- Page Home - Début -->
     <div id="fadeSite">
         <!-- Menu Principal - Début -->
@@ -86,10 +92,10 @@ include_once 'include/header.php';
             <!-- Qui sommes nous - Fin -->
         </main>
     </div>
-    <script src="assets/js/main.js"></script>
-    <script src="assets/lib/bootstrap/js/bootstrap.js" ></script>
+    <script src="assets/js/agency.js" type="text/javascript"></script>
+    <script src="assets/lib/bootstrap/js/bootstrap.js" type="text/javascript"></script>
     <script src="assets/js/onescroll.js" type="text/javascript"></script>
-    <script src="assets/js/parallax.js"></script>
+    <script src="assets/js/parallax.js" type="text/javascript"></script>
     <script src="assets/js/textRandom.js" type="text/javascript"></script>
 </body>
 </html>
