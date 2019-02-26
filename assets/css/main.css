@@ -1,3 +1,79 @@
+
+.cssload-bar {
+    position: relative;
+    height: 5px;
+    width: 1125px;
+    margin: 0 auto;
+    border-bottom:5px solid rgb(46,121,171);
+    padding-top:113px;
+    margin-top: 113px;
+    overflow: hidden;
+}
+
+.cssload-circle {
+    position: absolute;
+    top: 68px;
+    margin-left: -324px;
+    height: 135px;
+    width: 135px;
+    left: 0;
+    background: rgb(46,121,171);
+    border-radius: 30%;
+    animation: move 6.5s infinite;
+        -o-animation: move 6.5s infinite;
+        -ms-animation: move 6.5s infinite;
+        -webkit-animation: move 6.5s infinite;
+        -moz-animation: move 6.5s infinite;
+}
+
+.cssload-bar p {
+    position: absolute;
+    top: 68px;
+    right: 79px;
+    font-size:36px;
+    text-transform: uppercase;
+    color: rgb(32,32,32);
+    font-family: helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+
+@keyframes move {
+    0% {left: 0;}
+    50% {left: 100%; transform: rotate(450deg); width: 338px; height: 338px;}
+    75% {left: 100%; transform: rotate(450deg); width: 338px; height: 338px;}
+    100 {right: 100%;}
+}
+
+@-o-keyframes move {
+    0% {left: 0;}
+    50% {left: 100%; -o-transform: rotate(450deg); width: 338px; height: 338px;}
+    75% {left: 100%; -o-transform: rotate(450deg); width: 338px; height: 338px;}
+    100 {right: 100%;}
+}
+
+@-ms-keyframes move {
+    0% {left: 0;}
+    50% {left: 100%; -ms-transform: rotate(450deg); width: 338px; height: 338px;}
+    75% {left: 100%; -ms-transform: rotate(450deg); width: 338px; height: 338px;}
+    100 {right: 100%;}
+}
+
+@-webkit-keyframes move {
+    0% {left: 0;}
+    50% {left: 100%; -webkit-transform: rotate(450deg); width: 338px; height: 338px;}
+    75% {left: 100%; -webkit-transform: rotate(450deg); width: 338px; height: 338px;}
+    100 {right: 100%;}
+}
+
+@-moz-keyframes move {
+    0% {left: 0;}
+    50% {left: 100%; -moz-transform: rotate(450deg); width: 338px; height: 338px;}
+    75% {left: 100%; -moz-transform: rotate(450deg); width: 338px; height: 338px;}
+    100 {right: 100%;}
+}
+
 /*Loader*/
 @keyframes el_43_S0frJArI_ZkmNjQQVs_Animation{
     61.11%{-webkit-transform: translate(243.099609375px, 195.1496124267578px) scale(1, 1) translate(-243.099609375px, -195.1496124267578px);transform: translate(243.099609375px, 195.1496124267578px) scale(1, 1) translate(-243.099609375px, -195.1496124267578px);}
