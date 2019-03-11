@@ -14,14 +14,13 @@
         <!-- Link CSS -->
         <link href="assets/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
         <link href="assets/css/animate.css" rel="stylesheet" type="text/css"/>
-        <link href="assets/css/graphisme.css" rel="stylesheet" type="text/css"/>
+        <link href="assets/css/agency.css" rel="stylesheet" type="text/css"/>
         <link href="assets/css/button.css" rel="stylesheet" type="text/css"/>
         <link href="assets/css/footer.css" rel="stylesheet" type="text/css"/>
         <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
         <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-        <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
     </head>
     <body>
       <div id="contenuLoader" class="container-fluid">
@@ -68,9 +67,9 @@
                         <div class="circle pig"></div>
                         <div class="circle friday"></div>
                         <div class="row">
-                            <div class="offset-3">
+                            <div class="offset-2">
                                 <h1>
-                                    <span class="h2ColorTitle">Studio Graphique</span>
+                                    <span class="h2ColorTitle">Agence web, Kaiartsu</span>
                                 </h1>
                             </div>
                         </div>
@@ -82,97 +81,115 @@
                         </div>
                     </div>
                 </section>
-                <!-- Qui sommes nous - Début -->
-                <section id="whoAreWe" class="sectionScroll" data-image-src="assets/images/fond.jpg">
-                    <div class="container">
+                <section id="whoAreWe" >
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-6 paroller-example2 mega align-center">
+                    <div class="row">
+                        <div class="col-11">
+                            <h2>
+                                Qui est <br /> <span class="h2Color">Kaiartsu ?</span>
+                            </h2>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-11">
+                            <h3>
+                                - Une agence web proche de vous -
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-11">
+                            <p>
+                                Kaiartsu est une agence web spécialisée dans la création de site internet et le graphisme, nous sommes installés dans le campus économique Inovia à Noyon dans l'Oise.<br/>
+                                Nous fournissons des réponses à vos questions et créons des solutions flexibles qui transforment votre communication numérique en résultats concrets.<br/>
+                                En travaillant étroitement avec vous tous les jours à tous les niveaux, nous permettons à vos projets d'existés et d'évolués.<br/>
+                                Que ce soit la création ou la refonte de votre site web, l'amélioration de la qualité web de votre site, la mise à niveau de vos réglementations ou encore la création de supports marketing, nous sommes à votre écoute.
+                            </p>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="col-6 "id="slide1">
 
-                        <div class="row">
-                            <div class="col-8 offset-2">
-                                <h2>
-                                    L'agence web,<br /> <span class="h2Color">Kaiartsu.</span>
-                                </h2>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-9 offset-3">
-                                <h3>
-                                    - Création de site internet et support marketing -
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-10 offset-2">
-                                <p>
-                                    Kaiartsu est une agence web spécialisée dans la création de site internet et le graphisme, nous sommes installés dans le campus économique Inovia à Noyon dans l'Oise.<br/>
-                                    Nous fournissons des réponses à vos questions et créons des solutions flexibles qui transforment votre communication numérique en résultats concrets.<br/>
-                                    En travaillant étroitement avec vous tous les jours à tous les niveaux, nous permettons à vos projets d'existés et d'évolués.<br/>
-                                    Que ce soit la création ou la refonte de votre site web, l'amélioration de la qualité web de votre site, la mise à niveau de vos réglementations ou encore la création de supports marketing, nous sommes à votre écoute.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+                  </div>
+                </div>
+              </div>
                 </section>
+                <!-- Qui sommes nous - Début -->
+
                 <!-- Qui sommes nous - Fin -->
-                <section id="webDev" class="sectionScroll">
-                    <div class="container">
-                        <div class="row dispear">
-                            <div class="col-10 offset-2">
-                                <h2>
-                                    Le développement web par <span class="h2ColorDev">Kaiartsu.</span>
-                                </h2>
-                            </div>
-                        </div>
-                        <div class="row dispear">
-                            <div class="col-9 offset-3">
-                                <h3>
-                                    - La création ou la refonte d'un site internet ? Vous avez un projet on a une solution -
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="row dispear">
-                            <div class="col-10 offset-2">
-                                <p>
-                                    Chez kaiartsu nous créons des sites web à votre image.<br/>
-                                    Que ce soit un site vitrine ou un site d'e-commerce nous vous accompagnons tous le long de la création, mais aussi dans l'évolution de votre projet.<br/>
-                                    Nous vous garantissons un site web responsive, optimisé pour une visite confortable quel que soit le support.<br/>
-                                    Nous sommes deux développeurs web certifiés "Opquast", vous assurant d'avoir un site répondant aux bien scéances du web.
-                                </p>
-                            </div>
+                <section id="webDev" class="paroller-example">
+                  <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-5 offset-6">
+                            <h2>
+                                L'agence web,<br /> <span class="h2Color">Kaiartsu.</span>
+                            </h2>
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-4 offset-6">
+                            <h3>
+                                - Création de site internet et support marketing -
+                            </h3>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-6 offset-6">
+                            <p>
+                                Kaiartsu est une agence web spécialisée dans la création de site internet et le graphisme, nous sommes installés dans le campus économique Inovia à Noyon dans l'Oise.<br/>
+                                Nous fournissons des réponses à vos questions et créons des solutions flexibles qui transforment votre communication numérique en résultats concrets.<br/>
+                                En travaillant étroitement avec vous tous les jours à tous les niveaux, nous permettons à vos projets d'existés et d'évolués.<br/>
+                                Que ce soit la création ou la refonte de votre site web, l'amélioration de la qualité web de votre site, la mise à niveau de vos réglementations ou encore la création de supports marketing, nous sommes à votre écoute.
+                            </p>
+                        </div>
+                    </div>
+                  </div>
                 </section>
-                <section id="webDesign" class="sectionScroll">
-                    <div class="container">
-                        <div class="row dispear">
-                            <div class="col-9 offset-2">
-                                <h2>
-                                    Le graphisme par <span class="h2Color">Kaiartsu.</span>
-                                </h2>
-                            </div>
-                        </div>
-                        <div class="row dispear">
-                            <div class="col-9 offset-3">
-                                <h3>
-                                    - Charte graphique ou support marketing ? Un design qui vous ressemble  -
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="row dispear">
-                            <div class="col-10 offset-2">
-                                <p>
-                                    Chez Kaiartsu nous poussons la communication au-delà du web.<br/>
-                                    Notre studio graphique possède les compétences necessaire pour vous aidez à améliorer votre visibilité.<br />
-                                    Un logo, une charte graphique ou un support marketing nous vous conseillons et vous aidons à transmettre une image qui vous ressemble.
-                                </p>
-                            </div>
+                <section id="whoAreWe" class="paroller-example2 mega align-center">
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-6">
+                    <div class="row">
+                        <div class="col-11 offset-1">
+                            <h2>
+                                L'agence web,<br /> <span class="h2Color">Kaiartsu.</span>
+                            </h2>
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-11 offset-1">
+                            <h3>
+                                - Création de site internet et support marketing -
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-11 offset-1">
+                            <p>
+                                Kaiartsu est une agence web spécialisée dans la création de site internet et le graphisme, nous sommes installés dans le campus économique Inovia à Noyon dans l'Oise.<br/>
+                                Nous fournissons des réponses à vos questions et créons des solutions flexibles qui transforment votre communication numérique en résultats concrets.<br/>
+                                En travaillant étroitement avec vous tous les jours à tous les niveaux, nous permettons à vos projets d'existés et d'évolués.<br/>
+                                Que ce soit la création ou la refonte de votre site web, l'amélioration de la qualité web de votre site, la mise à niveau de vos réglementations ou encore la création de supports marketing, nous sommes à votre écoute.
+                            </p>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="col-6 jumbotron" style="background: url('assets/images/logo/Kaiartsuv2.png') no-repeat bottom; background-size: contain;"
+data-paroller-factor="-0.8"
+data-paroller-direction="horizontal" >
+
+                  </div>
+                </div>
+              </div>
                 </section>
             </main>
         </div>
-        <script src="assets/js/design.js" type="text/javascript"></script>
+        <script src="assets/js/agency.js" type="text/javascript"></script>
         <script src="assets/lib/bootstrap/js/bootstrap.js" type="text/javascript"></script>
-        <script src="assets/js/onescroll.js" type="text/javascript"></script>
+        <script src="assets/js/jquery.paroller.js" type="text/javascript"></script>
         <script src="assets/js/parallax.js" type="text/javascript"></script>
     </body>
 </html>
