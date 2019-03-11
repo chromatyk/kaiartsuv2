@@ -28,10 +28,6 @@ if (window.matchMedia("(min-width: 800px)").matches) {
         }, 2600);
     })
 
-    var scene = document.getElementById('scene');
-    var parallaxInstance = new Parallax(scene, {
-        relativeInput: true
-    });
 } else {
     $('#burger').on('click', function (e) {
 
@@ -60,8 +56,6 @@ if (window.matchMedia("(min-width: 800px)").matches) {
         }, 2600);
     })
 
-    var scene = document.getElementById('scene');
-    var parallaxInstance = new Parallax(scene, {
-        relativeInput: true
-    });
 }
+
+
