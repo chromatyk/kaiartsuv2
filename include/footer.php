@@ -29,14 +29,14 @@
             <p>Nos réseaux sociaux</p>
           </div>
         </div>
-        <div class="row">
-          <div class="col-xs-12 col-lg-2">
+        <div class="row ">
+          <div class="col-xs-12 col-lg-2 moreButton">
             <a href="#" title="facebook" class=""><i class="fab fa-facebook"></i></a>
           </div>
-          <div class="col-xs-12 col-lg-2">
+          <div class="col-xs-12 col-lg-2 moreButton">
             <a href="#" title="linkedin"><i class="fab fa-linkedin"></i></a>
           </div>
-          <div class="col-xs-12 col-lg-2">
+          <div class="col-xs-12 col-lg-2 moreButton">
             <a href="#" title="twitter"><i class="fab fa-twitter"></i></a>
           </div>
         </div>
@@ -44,10 +44,10 @@
   </div>
   <hr>
   <div class="row">
-    <div class="col-xs-6 col-lg-2 linkFooter">
+    <div class="col-xs-6 col-lg-2 linkFooter moreButton">
   <a href="../politique.php" title="Politique de confidentialité">Politique de confidentialité</a>
     </div>
-    <div class="col-xs-6 col-lg-2 linkFooter">
+    <div class="col-xs-6 col-lg-2 linkFooter moreButton">
   <a href="../mentions.php" title="Mentions légales">Mentions légales</a>
     </div>
   </div>
