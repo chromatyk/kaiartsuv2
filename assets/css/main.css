@@ -104,13 +104,17 @@
 #whoAreWe{
     color: #fff;
     min-height: 100vh;
-    padding-top: 60px;
+    padding-top: 20vh;
+    background-color: #202020;
+    position: relative;
 }
 
 #webDev{
     color: #fff;
     min-height: 100vh;
-    padding-top: 60px;
+    padding-top: 25vh;
+    background-color: #202020;
+    position: relative;
 }
 
 #webDesign{
@@ -176,7 +180,6 @@ main h2{
 
 h2{
     line-height: 1em;
-    padding-top: 20vh;
     font-family: 'EB Garamond', serif;
 }
 h1{
@@ -216,9 +219,7 @@ main h3{
     display:block;
     left:0;
 }
-main{
-    background-color: #202020;
-}
+
 
 .miniTitle{
     font-variant: petite-caps;
@@ -791,6 +792,26 @@ footer i{
     position: absolute;
     top: 500px;
     left: 500px;
+}
+
+#my-svg{
+  position: absolute;
+  left: 50%;
+  width:40%;
+}
+#svgKaiartsu{
+  position: absolute;
+  top: -100px;
+  left: 13.1%;
+  padding-top: 0;
+  width: 75%;
+  z-index: 0;
+}
+path, circle {
+  stroke: #bfd1b4;
+}
+.buttonMore{
+  z-index: 1;
 }
 /* Media Queries */
 

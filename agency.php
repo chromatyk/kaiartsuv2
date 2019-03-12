@@ -102,10 +102,8 @@
                     <div class="row">
                         <div class="col-11">
                             <p>
-                                Kaiartsu est une agence web spécialisée dans la création de site internet et le graphisme, nous sommes installés dans le campus économique Inovia à Noyon dans l'Oise.<br/>
-                                Nous fournissons des réponses à vos questions et créons des solutions flexibles qui transforment votre communication numérique en résultats concrets.<br/>
-                                En travaillant étroitement avec vous tous les jours à tous les niveaux, nous permettons à vos projets d'existés et d'évolués.<br/>
-                                Que ce soit la création ou la refonte de votre site web, l'amélioration de la qualité web de votre site, la mise à niveau de vos réglementations ou encore la création de supports marketing, nous sommes à votre écoute.
+                                Créé en 2018, Kaiartsu est une agence web spécialisée dans la création et le refonte de site web, et le design de support marketing.<br>
+                                Nous sommes
                             </p>
                         </div>
                     </div>

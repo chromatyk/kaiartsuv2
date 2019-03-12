@@ -13,7 +13,6 @@ if (window.matchMedia("(min-width: 800px)").matches) {
         }
 
     });
-
     $(document).ready(function () {
         $("#fadeSite").css("display", "none");
         $(".footer").css("display", "none");
@@ -21,47 +20,63 @@ if (window.matchMedia("(min-width: 800px)").matches) {
         $("#fadeSite").delay(2400).fadeIn(200);
         $(".footer").delay(2400).fadeIn(200);
         setTimeout(function () {
+          $.scrollify({
+section:".panel",
+            interstitialSection: ".footer",
+scrollbars:false,
+before:function(i,panels) {
+
+  var ref = panels[i].attr("data-section-name");
+
+  $(".pagination .active").removeClass("active");
+
+  $(".pagination").find("a[href=\"#" + ref + "\"]").addClass("active");
+},
+afterRender:function() {
+  var pagination = "<ul class=\"pagination\">";
+  var activeClass = "";
+  $(".panel").each(function(i) {
+    activeClass = "";
+    if(i===0) {
+      activeClass = "active";
+    }
+    pagination += "<li><a class=\"" + activeClass + "\" href=\"#" + $(this).attr("data-section-name") + "\"><span class=\"hover-text\">" + $(this).attr("data-section-name").charAt(0).toUpperCase() + $(this).attr("data-section-name").slice(1) + "</span></a></li>";
+  });
+
+  pagination += "</ul>";
+
+  $(".home").append(pagination);
+  /*
+
+  Tip: The two click events below are the same:
+
+  $(".pagination a").on("click",function() {
+    $.scrollify.move($(this).attr("href"));
+  });
+
+  */
+  $(".pagination a").on("click",$.scrollify.move);
+}
+});
             $('body').css('overflow', 'unset');
             $('body').css('overflow-x', 'hidden');
             ScrollReveal().reveal('.dispear', { delay: 500, useDelay: 'onload', reset: true, duration: 2000 });
-              $.scrollify({
-		section:".panel",
-                interstitialSection: ".footer",
-    scrollbars:false,
-    before:function(i,panels) {
+            window.onscroll = function() {scrollFunction()};
 
-      var ref = panels[i].attr("data-section-name");
+function scrollFunction() {
+  var heightHome = $("#kaiartsu").height();
+  if ($('body').scrollTop() > heightHome || $('html').scrollTop() > heightHome) {
+    $("#my-svg").css('display','none');
+  } else {
+    $("#my-svg").css('display','block');
+  }
+  if ($('html').scrollTop() > heightHome && $('html').scrollTop() <= heightHome * 2 ) {
+    $("#svgKaiartsu").css('display','block');
+  } else {
+    $("#svgKaiartsu").css('display','none');
+  }
 
-      $(".pagination .active").removeClass("active");
-
-      $(".pagination").find("a[href=\"#" + ref + "\"]").addClass("active");
-    },
-    afterRender:function() {
-      var pagination = "<ul class=\"pagination\">";
-      var activeClass = "";
-      $(".panel").each(function(i) {
-        activeClass = "";
-        if(i===0) {
-          activeClass = "active";
-        }
-        pagination += "<li><a class=\"" + activeClass + "\" href=\"#" + $(this).attr("data-section-name") + "\"><span class=\"hover-text\">" + $(this).attr("data-section-name").charAt(0).toUpperCase() + $(this).attr("data-section-name").slice(1) + "</span></a></li>";
-      });
-
-      pagination += "</ul>";
-
-      $(".home").append(pagination);
-      /*
-
-      Tip: The two click events below are the same:
-
-      $(".pagination a").on("click",function() {
-        $.scrollify.move($(this).attr("href"));
-      });
-
-      */
-      $(".pagination a").on("click",$.scrollify.move);
-    }
-  });
+}
         }, 2600);
     })
 
@@ -101,5 +116,4 @@ if (window.matchMedia("(min-width: 800px)").matches) {
     var parallaxInstance = new Parallax(scene, {
         relativeInput: true
     });
-}          
-
+}
