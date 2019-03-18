@@ -120,7 +120,10 @@
 #webDesign{
     color: #fff;
     min-height: 100vh;
-    padding-top: 60px;
+    padding-top: 30vh;
+    background-color: #202020;
+    position: relative;
+    overflow: hidden;
 }
 
 @font-face {
@@ -254,7 +257,6 @@ main h3{
     position: fixed;
     box-shadow: 0 93px 0 0 rgba(243, 243, 243, 1) inset;
 }
-
 .brand {
     position: absolute;
     top: .6em;
@@ -807,12 +809,33 @@ footer i{
   width: 75%;
   z-index: 0;
 }
-path, circle {
+#bgDesign{
+  position: absolute;
+  top: 0;
+  z-index: 0;
+}
+#my-svg path, #my-svg circle {
   stroke: #bfd1b4;
+}
+#svgKaiartsu path{
+  stroke: #2D3438;
+}
+#bgDesign path{
+  stroke: #2D3438;
+  fill:#2D3438;
+}
+#bgDesign path {
+  fill-opacity: 0;
+  transition: fill-opacity 1s;
+}
+
+#bgDesign.finished path{
+  fill-opacity: 1;
 }
 .buttonMore{
   z-index: 1;
 }
+
 /* Media Queries */
 
 @media screen and (max-width: 800px) {
@@ -841,6 +864,12 @@ path, circle {
     .brandMobile img{
         display: block;
         width: 100px;
+    }
+    svg{
+      display: none;
+    }
+    #contenuLoader svg{
+      display:block;
     }
 }
 
