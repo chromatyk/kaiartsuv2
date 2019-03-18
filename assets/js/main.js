@@ -58,11 +58,15 @@ afterRender:function() {
   $(".pagination a").on("click",$.scrollify.move);
 }
 });
+
+
             $('body').css('overflow', 'unset');
             $('body').css('overflow-x', 'hidden');
             ScrollReveal().reveal('.dispear', { delay: 500, useDelay: 'onload', reset: true, duration: 2000 });
             window.onscroll = function() {scrollFunction()};
-
+            setTimeout(function () {
+              $('#bgDesign').addClass("finished");
+            }, 5000);
 function scrollFunction() {
   var heightHome = $("#kaiartsu").height();
   if ($('body').scrollTop() > heightHome || $('html').scrollTop() > heightHome) {
@@ -74,6 +78,16 @@ function scrollFunction() {
     $("#svgKaiartsu").css('display','block');
   } else {
     $("#svgKaiartsu").css('display','none');
+  }
+  if ($('html').scrollTop() >= heightHome * 3 && $('html').scrollTop() <= heightHome * 4 ) {
+    setTimeout(function () {
+      $('#bgDesign').addClass("finished");
+    }, 5000);
+    $("#bgDesign").css('display','block');
+
+  } else {
+    $('#bgDesign').removeClass('finished');
+    $("#bgDesign").css('display','none');
   }
 
 }
