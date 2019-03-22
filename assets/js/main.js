@@ -89,6 +89,16 @@ function scrollFunction() {
     $('#bgDesign').removeClass('finished');
     $("#bgDesign").css('display','none');
   }
+  if ($('html').scrollTop() >= heightHome * 2 && $('html').scrollTop() <= heightHome * 3 ) {
+    setTimeout(function () {
+      $('#devSvg').addClass("finished");
+    }, 5000);
+    $("#devSvg").css('display','block');
+
+  } else {
+    $('#devSvg').removeClass('finished');
+    $("#devSvg").css('display','none');
+  }
 
 }
         }, 2600);
