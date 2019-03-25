@@ -91,13 +91,18 @@ include_once 'include/header.php';
                 </div>
             </section>
             <!-- Qui sommes nous - Fin -->
-            <section id="webDev" class="sectionScroll panel panel2" data-section-name="Web">
+            <section id="webDev" class="sectionScroll panel panel2" data-section-name="Web
+            <?php
+            include_once 'assets/svg/puceau.php';
+            ?>
                 <div class="container">
                     <div class="row dispear">
                         <div class="col-10 offset-1">
-                            <h2>
+                          <div class="wrapper">
+                            <h2 class="glitch">
                                 Le développement web par <span class="h2ColorDev">Kaiartsu.</span>
                             </h2>
+                          </div>
                         </div>
                     </div>
                     <div class="row dispear">

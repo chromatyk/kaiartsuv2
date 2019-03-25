@@ -814,6 +814,23 @@ footer i{
   top: 0;
   z-index: 0;
 }
+#devSvg{
+  position: absolute;
+  top: 0;
+  z-index: 0;
+  width:50%;
+}
+#devSvg{
+  position: absolute;
+  top: 0;
+  z-index: 0;
+  width:50%;
+}
+#devSvg path, #devSvg circle {
+  stroke: #2D3438;
+  stroke-width:10px;
+  stroke-linecap:round;
+}
 #my-svg path, #my-svg circle {
   stroke: #bfd1b4;
 }
