@@ -76,7 +76,12 @@
                     <div class=" container-fluid">
                         <div class="row offerGraphism">
                             <div class="col-lg-4 col-sm-12 imageOffer">
-                                <img src="assets/images/fondR.jpg"/>
+                                <div id="stripped">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1062">
+                                    <polyline points="0,154 131,0 0,348 269,0 0,562 437,0 
+                                              0,766 565,14 0,1062 719,0 289,1062 843,0 543,1062 995,0 729,1062 1161,0 947,1062 1307,0 1143,1062 1500,162 1299,1062 1500,830"/>
+                                    </svg>
+                                </div>
                             </div>  
                             <div class="col-lg-8 col-xs-12 textOffer">
                                 <h2>Communication Digitale</h2>
@@ -100,13 +105,25 @@
 
                                 <p>Site internet | Mailing | Réseaux Sociaux | Quizz | Jeux concours | Newsletter</p>
                             </div>  
-                            <div class="col-lg-4 col-sm-12 imageOffer"><img src="assets/images/fondR.jpg"/></div> 
+                            <div class="col-lg-4 col-sm-12 imageOffer">        
+                                <div id="stripped">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1062">
+                                    <polyline points="0,154 131,0 0,348 269,0 0,562 437,0 
+                                              0,766 565,14 0,1062 719,0 289,1062 843,0 543,1062 995,0 729,1062 1161,0 947,1062 1307,0 1143,1062 1500,162 1299,1062 1500,830"/>
+                                    </svg>
+                                </div>
+                            </div> 
                         </div>
                     </div>
                     <div class=" container-fluid">
                         <div class="row offerGraphism">
                             <div class="col-lg-4 col-sm-12 imageOffer">
-                                <img src="assets/images/fondR.jpg"/>
+                                <div id="stripped">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1062">
+                                    <polyline points="0,154 131,0 0,348 269,0 0,562 437,0 
+                                              0,766 565,14 0,1062 719,0 289,1062 843,0 543,1062 995,0 729,1062 1161,0 947,1062 1307,0 1143,1062 1500,162 1299,1062 1500,830"/>
+                                    </svg>
+                                </div>
                             </div>  
                             <div class="col-lg-8 col-xs-12 textOffer">
                                 <h2>Design Graphique</h2>
@@ -131,7 +148,12 @@
                                 <p>Site internet | Mailing | Réseaux Sociaux | Quizz | Jeux concours | Newsletter</p>
                             </div>  
                             <div class="col-lg-4 col-sm-12 imageOffer">
-                                <img src="assets/images/fondR.jpg"/>
+                                <div id="stripped">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1062">
+                                    <polyline points="0,154 131,0 0,348 269,0 0,562 437,0 
+                                              0,766 565,14 0,1062 719,0 289,1062 843,0 543,1062 995,0 729,1062 1161,0 947,1062 1307,0 1143,1062 1500,162 1299,1062 1500,830"/>
+                                    </svg>
+                                </div>
                             </div>  
                         </div>
                     </div>

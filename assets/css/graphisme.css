@@ -302,7 +302,6 @@ main h2{
 
 h2{
     line-height: 1em;
-    padding-top: 20vh;
     font-family: 'EB Garamond', serif;
 }
 h1{
@@ -758,6 +757,32 @@ footer i{
     position: absolute;
     top: 500px;
     left: 500px;
+}
+
+@keyframes scribble {
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+div#stripped {
+    max-width: 750px;
+    background: #000;
+    background-image: url(https://3.bp.blogspot.com/-piZWCW2uUbg/W2fPXxkWZgI/AAAAAAAAOu0/eydmMjTIqcwLMHEEr2H7imqoRTxMw4o9QCLcBGAs/s1600/among_trees_night_dribbble.png);
+    background-size: cover;
+    font-size: 0;
+}
+div#stripped svg {
+    background: #000;
+    mix-blend-mode: darken;
+}
+
+div#stripped svg polyline {
+    fill: none;
+    stroke: #2e7aab;
+    stroke-width: 200;
+    stroke-dasharray: 20000;
+    stroke-dashoffset: 20000;
+    animation: scribble 3s linear forwards;
 }
 /* Media Queries */
 
