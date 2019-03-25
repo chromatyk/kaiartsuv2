@@ -824,7 +824,7 @@ footer i{
   position: absolute;
   top: 0;
   z-index: 0;
-  width:50%;
+  width: 100%;
 }
 #devSvg path, #devSvg circle {
   stroke: #2D3438;
@@ -836,6 +836,10 @@ footer i{
 }
 #svgKaiartsu path{
   stroke: #2D3438;
+  stroke-linecap:round;
+}
+#svgKaiartsu path.testOne{
+  stroke:#4B3721;
 }
 #bgDesign path{
   stroke: #2D3438;

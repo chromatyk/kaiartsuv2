@@ -21,7 +21,7 @@ include_once 'include/header.php';
             <nav id="nav-main">
                 <ul>
                     <li class="brandMobile"><img src="assets/images/logo/logoAlone.png"/></li>
-                    <li><a class="firstLink" href="index.php">Accueil</a></li>
+                    <li><a class="firstLink" href="accueil.php">Accueil</a></li>
                     <li><a href="agency.php">L'agence</a></li>
                     <li><a href="webDev.php">Création web</a></li>
                     <li><a href="graphisme.php">Studio Graphique</a></li>
@@ -32,9 +32,7 @@ include_once 'include/header.php';
         <main id="contenuPage">
             <!-- Menu Principal - Fin -->
             <section id="kaiartsu" class="sectionScroll panel home" data-section-name="Kaiartsu">
-              <?php
-              include_once 'assets/svg/vikingSVG.php';
-              ?>
+
               <div class="container-fluid">
                     <div class="row">
                         <div class="offset-3">
@@ -91,7 +89,7 @@ include_once 'include/header.php';
                 </div>
             </section>
             <!-- Qui sommes nous - Fin -->
-            <section id="webDev" class="sectionScroll panel panel2" data-section-name="Web
+            <section id="webDev" class="sectionScroll panel panel2" data-section-name="Web">
             <?php
             include_once 'assets/svg/puceau.php';
             ?>
@@ -123,7 +121,7 @@ include_once 'include/header.php';
                         </div>
                     </div>
                     <div class="row dispear">
-                        <div class="">
+                        <div class="buttonMore">
                             <a href="webDev.php"><button class="raise">En savoir plus</button></a>
                         </div>
                     </div>

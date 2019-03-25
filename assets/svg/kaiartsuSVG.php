@@ -1,123 +1,170 @@
-<div class="svg-path"><!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg id="svgKaiartsu" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 495.3 386.9" style="" xml:space="preserve">
-  <filter id="blur-filter" x="-2" y="-2" width="200" height="200">
-        <feGaussianBlur in="SourceGraphic" stdDeviation="2" />
-      </filter>
 <style type="text/css">
-	.st0{fill:none;stroke:#2D3438;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#4B3721;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FF0000;stroke-miterlimit:10;}
 </style>
-<g id="Calque_2">
-	<path class="st0 NNDpuvkc_0" d="M41.8,52.7L67,77.7L63.8,95.6L41.8,74.1Z"></path>
-	<path class="st0 NNDpuvkc_1" d="M98.6,109L79.9,111.8L63.8,95.6L67,77.7Z"></path>
-	<path class="st0 NNDpuvkc_2" d="M124.2,134.4L137.7,169.6L79.9,111.8L98.6,109Z"></path>
-	<path class="st0 NNDpuvkc_3" d="M163.9,173.8L137.7,169.6L124.2,134.4Z"></path>
-	<path class="st0 NNDpuvkc_4" d="M173.7,205.7"></path>
-	<path class="st0 NNDpuvkc_5" d="M181.8,191.5L187.6,219.6L137.7,169.6L163.9,173.8Z"></path>
-	<path class="st0 NNDpuvkc_6" d="M213.7,223.1L187.6,219.6L181.8,191.5Z"></path>
-	<path class="st0 NNDpuvkc_7" d="M213.7,245.7L225.3,234.7L213.7,223.1L187.6,219.6Z"></path>
-	<path class="st0 NNDpuvkc_8" d="M231.6,263.7L242.5,275.7L242.5,251.7L225.3,234.7L213.7,245.7Z"></path>
-	<path class="st0 NNDpuvkc_9" d="M222.7,296.1L221.3,274.6L231.6,263.7L242.5,275.7Z"></path>
-	<path class="st0 NNDpuvkc_10" d="M200.1,295.8L222.7,296.1L201.2,318.2L189.8,306.1Z"></path>
-	<path class="st0 NNDpuvkc_11" d="M209.1,262.5L198.4,274L210.1,285.8L200.1,295.8L222.7,296.1L221.3,274.6Z"></path>
-	<path class="st0 NNDpuvkc_12" d="M197.7,251.2L184.6,249.9L188.5,263.9L198.4,274L209.1,262.5Z"></path>
-	<path class="st0 NNDpuvkc_13" d="M179,232.7L174.6,249.9L188.5,263.9L184.6,249.9L197.7,251.2Z"></path>
-	<path class="st0 NNDpuvkc_14" d="M153.4,207.3L136.4,211.3L159,225L160.6,232.7L173.7,227.4Z"></path>
-	<path class="st0 NNDpuvkc_15" d="M174.6,249.9L179,232.7L173.7,227.4L160.6,232.7L159,225L136.4,211.3Z"></path>
-	<path class="st0 NNDpuvkc_16" d="M127.3,181.4L115,189.7L132.8,197.1L136.4,211.3L153.4,207.3Z"></path>
-	<path class="st0 NNDpuvkc_17" d="M125.3,200.1L136.4,211.3L132.8,197.1L115,189.7Z"></path>
-	<path class="st0 NNDpuvkc_18" d="M115,169.6L93.9,168.4L115,189.7L127.3,181.4Z"></path>
-	<path class="st0 NNDpuvkc_19" d="M89.3,143.7L89.3,154.1L77.6,151.9L93.9,168.4L115,169.6Z"></path>
-	<path class="st0 NNDpuvkc_20" d="M68.2,122.8L56.5,118.3L68.2,132L57.4,131.6L77.6,151.9L89.3,154.1L89.3,143.7Z"></path>
-	<path class="st0 NNDpuvkc_21" d="M41.8,94.1L47.9,103.9L56.5,97.1L56.5,111.2L68.2,122.8L56.5,118.3L68.2,132L57.4,131.6L41.8,115.8Z"></path>
-	<path class="st0 NNDpuvkc_22" d="M41.8,74.1L41.8,94.1L47.9,103.9L56.5,97.1L56.5,88.4Z"></path>
+<g id="Ailes_principales">
+	<path class="st0 ZFQarwzc_0 testOne" d="M41.5,52.7L295.3,306.6"></path>
+	<path class="st0 ZFQarwzc_1 testOne" d="M41.5,56.6L293.4,308.5"></path>
+	<path class="st0 ZFQarwzc_2 testOne" d="M41.5,60.3L291.5,310.3"></path>
+	<path class="st0 ZFQarwzc_3 testOne" d="M41.5,63.6L289.9,312"></path>
+	<path class="st0 ZFQarwzc_4 testOne" d="M41.5,66.8L288.3,313.6"></path>
+	<path class="st0 ZFQarwzc_5 testOne" d="M41.5,70.7L286.3,315.5"></path>
+	<path class="st0 ZFQarwzc_6 testOne" d="M41.6,74.4L284.5,317.4"></path>
+	<path class="st0 ZFQarwzc_7 testOne" d="M41.5,95L232.6,286.1"></path>
+	<path class="st0 ZFQarwzc_8 testOne" d="M41.5,98.7L230.7,287.9"></path>
+	<path class="st0 ZFQarwzc_9 testOne" d="M41.5,102.1L229,289.6"></path>
+	<path class="st0 ZFQarwzc_10 testOne" d="M41.5,106L227.1,291.6"></path>
+	<path class="st0 ZFQarwzc_11 testOne" d="M41.5,109.7L225.2,293.4"></path>
+	<path class="st0 ZFQarwzc_12 testOne" d="M41.5,113L223.6,295.1"></path>
+	<path class="st0 ZFQarwzc_13 testOne" d="M41.5,116.1L222,296.7"></path>
+	<path class="st0 ZFQarwzc_14 testOne" d="M41.6,77.5L67.2,103.1"></path>
+	<path class="st0 ZFQarwzc_15 testOne" d="M41.6,81.3L67.2,107"></path>
+	<path class="st0 ZFQarwzc_16 testOne" d="M41.6,85L67.2,110.7"></path>
+	<path class="st0 ZFQarwzc_17 testOne" d="M41.6,88.3L67.2,114"></path>
+	<path class="st0 ZFQarwzc_18 testOne" d="M41.6,91.5L67.2,117.1"></path>
+	<path class="st0 ZFQarwzc_19 testOne" d="M443.4,53.1L189.5,306.9"></path>
+	<path class="st0 ZFQarwzc_20 testOne" d="M443.4,57L191.5,308.8"></path>
+	<path class="st0 ZFQarwzc_21 testOne" d="M443.4,60.7L193.3,310.7"></path>
+	<path class="st0 ZFQarwzc_22 testOne" d="M443.4,64L195,312.3"></path>
+	<path class="st0 ZFQarwzc_23 testOne" d="M443.4,67.1L196.6,313.9"></path>
+	<path class="st0 ZFQarwzc_24 testOne" d="M443.4,71L198.5,315.9"></path>
+	<path class="st0 ZFQarwzc_25 testOne" d="M443.3,74.8L200.4,317.7"></path>
+	<path class="st0 ZFQarwzc_26 testOne" d="M443.4,95.3L252.8,285.9"></path>
+	<path class="st0 ZFQarwzc_27 testOne" d="M443.4,99L254.7,287.7"></path>
+	<path class="st0 ZFQarwzc_28 testOne" d="M443.4,102.4L256.5,289.3"></path>
+	<path class="st0 ZFQarwzc_29 testOne" d="M443.4,106.3L258.4,291.3"></path>
+	<path class="st0 ZFQarwzc_30 testOne" d="M443.4,110L260.2,293.1"></path>
+	<path class="st0 ZFQarwzc_31 testOne" d="M443.4,113.3L261.9,294.8"></path>
+	<path class="st0 ZFQarwzc_32 testOne" d="M443.4,116.5L263.5,296.4"></path>
+	<path class="st0 ZFQarwzc_33 testOne" d="M443.3,77.8L417.7,103.4"></path>
+	<path class="st0 ZFQarwzc_34 testOne" d="M443.3,81.7L417.7,107.3"></path>
+	<path class="st0 ZFQarwzc_35 testOne" d="M443.3,85.4L417.7,111"></path>
+	<path class="st0 ZFQarwzc_36 testOne" d="M443.3,88.7L417.7,114.3"></path>
+	<path class="st0 ZFQarwzc_37 testOne" d="M443.3,91.8L417.7,117.5"></path>
 </g>
-<g id="Calque_3">
-	<path class="st0 NNDpuvkc_23" d="M444.3,52.7L444.3,88.3L428,88.3L419,77.7Z"></path>
-	<path class="st0 NNDpuvkc_24" d="M444.3,118.3L428,110.6L428,88.3L444.3,88.3Z"></path>
-	<path class="st0 NNDpuvkc_25" d="M419,77.7L403.7,103.3L399.3,117L428,88.3Z"></path>
-	<path class="st0 NNDpuvkc_26" d="M406.4,132.1L420.7,131.3L433.2,127.9L444.3,118.3L428,110.6Z"></path>
-	<path class="st0 NNDpuvkc_27" d="M391.2,147.2L395.3,165.6L433.2,127.9L420.7,131.3L406.4,132.1Z"></path>
-	<path class="st0 NNDpuvkc_28" d="M387.1,173.8L372.7,165.6L391.2,147.2L395.3,165.6Z"></path>
-	<path class="st0 NNDpuvkc_29" d="M365.8,172.4L362,185.4L365.2,195.5L387.1,173.8L372.7,165.6Z"></path>
-	<path class="st0 NNDpuvkc_30" d="M355.6,205L340.5,197.6L365.8,172.4L362,185.4L365.2,195.5Z"></path>
-	<path class="st0 NNDpuvkc_31" d="M339,221.5L330.8,207.3L340.5,197.6L355.6,205Z"></path>
-	<path class="st0 NNDpuvkc_32" d="M321.6,216.5L316.4,230.8L321.6,231.9L322.9,237.5L339,221.5L330.8,207.3Z"></path>
-	<path class="st0 NNDpuvkc_33" d="M302.8,235.2L308.5,238.4L311.4,248.9L322.9,237.5L321.6,231.9L316.4,230.8L321.6,216.5Z"></path>
-	<path class="st0 NNDpuvkc_34" d="M292.1,245.7L295,265.2L311.4,248.9L308.5,238.4L302.8,235.2Z"></path>
-	<path class="st0 NNDpuvkc_35" d="M271.9,265.9L286.2,274L295,265.2L292.1,245.7Z"></path>
-	<path class="st0 NNDpuvkc_36" d="M264,273.7L263.1,284.5L266.3,291.1L274.6,285.5L286.2,274L271.9,265.9Z"></path>
-	<path class="st0 NNDpuvkc_37" d="M286.2,296.8L275.9,297.6L266.3,291.1L274.6,285.5Z"></path>
-	<path class="st0 NNDpuvkc_38" d="M295.8,306.1L284.4,318.2L269.8,303.4L275.9,297.6L286.2,296.8Z"></path>
-	<path class="st0 NNDpuvkc_39" d="M252.1,285.5L264,273.7L263.1,284.5L266.3,291.1L275.9,297.6L269.8,303.4Z"></path>
-	<path class="st0 NNDpuvkc_40" d="M253.1,263.1L264,273.7L252.1,285.5L242.5,275.7L242.5,259.8Z"></path>
-	<path class="st0 NNDpuvkc_41" d="M249.9,244.3L269.8,246.5L253.1,263.1L242.5,259.8L242.5,251.7Z"></path>
-	<path class="st0 NNDpuvkc_42" d="M269.8,224.8L280,236.2L269.8,246.5L249.9,244.3Z"></path>
-	<path class="st0 NNDpuvkc_43" d="M285.2,209.6L302.8,213.5L280,236.2L269.8,224.8Z"></path>
-	<path class="st0 NNDpuvkc_44" d="M301.6,193.4L302.8,213.5L285.2,209.6Z"></path>
-	<path class="st0 NNDpuvkc_45" d="M314.2,181L313.6,192.3L326.8,189.4L302.8,213.5L301.6,193.4Z"></path>
-	<path class="st0 NNDpuvkc_46" d="M322.3,173L334.5,181.7L326.8,189.4L313.6,192.3L314.2,181Z"></path>
-	<path class="st0 NNDpuvkc_47" d="M336.6,158.9L342.5,173.8L334.5,181.7L322.3,173Z"></path>
-	<path class="st0 NNDpuvkc_48" d="M348.9,146.8L350.3,153.8L355.6,151.5L353.7,162.6L342.5,173.8L336.6,158.9Z"></path>
-	<path class="st0 NNDpuvkc_49" d="M360.1,135.7L370.3,134L370.3,146L353.7,162.6L355.6,151.5L350.3,153.8L348.9,146.8Z"></path>
-	<path class="st0 NNDpuvkc_50" d="M375.5,120.6L388.3,127.9L370.3,146L370.3,134L360.1,135.7Z"></path>
-	<path class="st0 NNDpuvkc_51" d="M390.3,105.9L390.3,112.8L399.3,117L388.3,127.9L375.5,120.6Z"></path>
-	<path class="st0 NNDpuvkc_52" d="M402.2,94.2L419,77.7L403.7,103.3L399.3,117L390.3,112.8L390.3,105.9Z"></path>
-	<path class="st0 NNDpuvkc_53" d="M226.2,185.4L209.1,194.6L209.1,168Z"></path>
-	<path class="st0 NNDpuvkc_54" d="M226.2,194.3L231.6,199.6L215.9,206.8L209.1,200.4L209.1,194.6L226.2,185.4Z"></path>
-	<path class="st0 NNDpuvkc_55" d="M242.5,210.4L233,208.8L234.3,216.5L226.2,216.6L215.9,206.8L231.6,199.6Z"></path>
-	<path class="st0 NNDpuvkc_56" d="M242.5,231.9L247.6,226.7L242.5,210.4L233,208.8L234.3,216.5L226.2,216.6Z"></path>
-	<path class="st0 NNDpuvkc_57" d="M251,201.9L252.4,209.6L259.2,215L247.6,226.7L242.5,210.4Z"></path>
-	<path class="st0 NNDpuvkc_58" d="M258.4,194.3L263.8,199.6L266,208.1L259.2,215L252.4,209.6L251,201.9Z"></path>
-	<path class="st0 NNDpuvkc_59" d="M258,183.6L267.1,189.7L274.1,187.3L274.1,199.9L266,208.1L263.8,199.6L258.4,194.3Z"></path>
-	<path class="st0 NNDpuvkc_60" d="M274.1,168L274.1,187.3L267.1,189.7L258,183.6Z"></path>
-	<path class="st0 NNDpuvkc_61" d="M204.7,131.3L204.7,154.8L217.7,154.8L218.3,144.2Z"></path>
-	<path class="st0 NNDpuvkc_62" d="M215.2,164.7L229.3,154.8L218.3,144.2L217.7,154.8L204.7,154.8Z"></path>
-	<path class="st0 NNDpuvkc_63" d="M237.8,162.8L237.8,173L226.8,175.5L215.2,164.7L229.3,154.8Z"></path>
-	<path class="st0 NNDpuvkc_64" d="M242.5,190.3L250.3,182.6L242.5,167.4L237.8,162.8L237.8,173L226.8,175.5Z"></path>
-	<path class="st0 NNDpuvkc_65" d="M249.2,160.8L262.6,161.5L262.6,170.3L250.3,182.6L242.5,167.4Z"></path>
-	<path class="st0 NNDpuvkc_66" d="M262.1,148.1L273.9,158.9L262.6,170.3L262.6,161.5L249.2,160.8Z"></path>
-	<path class="st0 NNDpuvkc_67" d="M279.2,131.3L279.2,153.6L273.9,158.9L262.1,148.1Z"></path>
-	<path class="st0 NNDpuvkc_68" d="M211.5,327.2L221.4,337.6L229.9,329.8L226,312.6Z"></path>
-	<path class="st0 NNDpuvkc_69" d="M237.2,301.4L242.5,318.2L229.9,329.8L226,312.6Z"></path>
-	<path class="st0 NNDpuvkc_70" d="M251.1,304.4L242.5,318.2L237.2,301.4L242.5,296.1Z"></path>
-	<path class="st0 NNDpuvkc_71" d="M259.8,312.6L258.9,322.1L242.5,318.2L251.1,304.4Z"></path>
-	<path class="st0 NNDpuvkc_72" d="M274.4,326.6L263.6,337.6L253.8,328.6L243.1,318.2L258.9,322.1L259.8,312.6Z"></path>
-	<path class="st0 NNDpuvkc_73" d="M62.6,144.6L79,159.6L79.8,172L62.9,161.4Z"></path>
-	<path class="st0 NNDpuvkc_74" d="M63.2,178.6L75.2,190.8L79.8,172L62.9,161.4Z"></path>
-	<path class="st0 NNDpuvkc_75" d="M87.1,202.8L104.7,197.3L79.8,172L75.2,190.8Z"></path>
-	<path class="st0 NNDpuvkc_76" d="M115.8,208.8L103.1,218.9L87.1,202.8L104.7,197.3Z"></path>
-	<path class="st0 NNDpuvkc_77" d="M127.9,221.1L109.4,225.2L103.1,218.9L115.8,208.8Z"></path>
-	<path class="st0 NNDpuvkc_78" d="M129.2,245.2L136.4,229.7L127.9,221.1L109.4,225.2Z"></path>
-	<path class="st0 NNDpuvkc_79" d="M137,253L155.5,249.2L136.4,229.7L129.2,245.2Z"></path>
-	<path class="st0 NNDpuvkc_80" d="M157.5,273.7L164.1,257.9L155.5,249.2L137,253Z"></path>
-	<path class="st0 NNDpuvkc_81" d="M164.1,279.9L179.6,273.7L164.1,257.9L157.5,273.7Z"></path>
-	<path class="st0 NNDpuvkc_82" d="M189.6,283.9L179.6,273.7L164.1,279.9L178.2,294.6Z"></path>
-	<path class="st0 NNDpuvkc_83" d="M84.3,212L84.3,229.7L98.2,236.1L98.2,225.9Z"></path>
-	<path class="st0 NNDpuvkc_84" d="M84.5,241.7L93.7,251L98.2,236.1L84.3,229.7Z"></path>
-	<path class="st0 NNDpuvkc_85" d="M112,249.9L99.6,256.9L93.7,251L98.2,236.1Z"></path>
-	<path class="st0 NNDpuvkc_86" d="M110.5,268L116.7,254.6L112,249.9L99.6,256.9Z"></path>
-	<path class="st0 NNDpuvkc_87" d="M116.2,273.7L133.5,271.4L116.7,254.6L110.5,268Z"></path>
-	<path class="st0 NNDpuvkc_88" d="M129.2,286.9L137,274.9L133.5,271.4L116.2,273.7Z"></path>
-	<path class="st0 NNDpuvkc_89" d="M137.9,295.8L145.9,283.8L137,274.9L129.2,286.9Z"></path>
-	<path class="st0 NNDpuvkc_90" d="M144,302L159.9,297.7L145.9,283.8L137.9,295.8Z"></path>
-	<path class="st0 NNDpuvkc_91" d="M167.9,305.8L159.9,297.7L144,302L157.8,315.9Z"></path>
-	<path class="st0 NNDpuvkc_92" d="M422,145.3L405.6,160.2L404.8,172.6L421.4,179.3Z"></path>
-	<path class="st0 NNDpuvkc_93" d="M403.3,197.6L394.6,183.1L404.8,172.6L421.4,179.3Z"></path>
-	<path class="st0 NNDpuvkc_94" d="M375.5,202.6L392.9,208.1L403.3,197.6L394.6,183.1Z"></path>
-	<path class="st0 NNDpuvkc_95" d="M368,210.2L366.8,234.3L392.9,208.1L375.5,202.6Z"></path>
-	<path class="st0 NNDpuvkc_96" d="M347.2,231.4L362.7,238.5L366.8,234.3L368,210.2Z"></path>
-	<path class="st0 NNDpuvkc_97" d="M339,239.7L344,257.4L362.7,238.5L347.2,231.4Z"></path>
-	<path class="st0 NNDpuvkc_98" d="M318.1,261.1L336.5,264.9L344,257.4L339,239.7Z"></path>
-	<path class="st0 NNDpuvkc_99" d="M308.1,271.2L312.1,289.5L336.5,264.9L318.1,261.1Z"></path>
-	<path class="st0 NNDpuvkc_100" d="M295,284.6L306.4,295.2L312.1,289.5L308.1,271.2Z"></path>
-	<path class="st0 NNDpuvkc_101" d="M400.9,212.1L386.9,225.9L386.9,236.2L400.6,241.8Z"></path>
-	<path class="st0 NNDpuvkc_102" d="M376.7,246.5L381.5,261.1L400.6,241.8L386.9,236.2Z"></path>
-	<path class="st0 NNDpuvkc_103" d="M364.4,258.7L375.5,267.2L381.5,261.1L376.7,246.5Z"></path>
-	<path class="st0 NNDpuvkc_104" d="M357.2,265.9L360.7,282.2L375.5,267.2L364.4,258.7Z"></path>
-	<path class="st0 NNDpuvkc_105" d="M344,279.1L356.3,286.7L360.7,282.2L357.2,265.9Z"></path>
-	<path class="st0 NNDpuvkc_106" d="M338.5,284.5L342.9,300.2L356.3,286.7L344,279.1Z"></path>
-	<path class="st0 NNDpuvkc_107" d="M325.5,297.6L337.7,305.5L342.9,300.2L338.5,284.5Z"></path>
-	<path class="st0 NNDpuvkc_108" d="M317.2,305.8L327.4,316L337.7,305.5L325.5,297.6Z"></path>
+<g id="TÃªte">
+	<path class="st0 ZFQarwzc_38 testOne" d="M204.8,131.3L253.5,180"></path>
+	<path class="st0 ZFQarwzc_39 testOne" d="M204.7,135.1L251.6,181.9"></path>
+	<path class="st0 ZFQarwzc_40 testOne" d="M204.7,138.8L249.7,183.8"></path>
+	<path class="st0 ZFQarwzc_41 testOne" d="M204.7,142.1L248.1,185.4"></path>
+	<path class="st0 ZFQarwzc_42 testOne" d="M204.7,145.2L246.5,187"></path>
+	<path class="st0 ZFQarwzc_43 testOne" d="M204.7,149.1L244.6,189"></path>
+	<path class="st0 ZFQarwzc_44 testOne" d="M204.7,152.8L242.7,190.8"></path>
+	<path class="st0 ZFQarwzc_45 testOne" d="M279.2,132L231.2,180"></path>
+	<path class="st0 ZFQarwzc_46 testOne" d="M279.2,135.9L233.1,181.9"></path>
+	<path class="st0 ZFQarwzc_47 testOne" d="M279.2,139.6L235,183.8"></path>
+	<path class="st0 ZFQarwzc_48 testOne" d="M279.2,142.9L236.6,185.4"></path>
+	<path class="st0 ZFQarwzc_49 testOne" d="M279.2,146L238.2,187"></path>
+	<path class="st0 ZFQarwzc_50 testOne" d="M279.2,149.9L240.1,189"></path>
+	<path class="st0 ZFQarwzc_51 testOne" d="M279.2,153.6L242,190.8"></path>
+	<path class="st1 ZFQarwzc_52" d="M209.1,176.4L252.3,219.6"></path>
+	<path class="st1 ZFQarwzc_53" d="M209.1,180.3L250.4,221.5"></path>
+	<path class="st1 ZFQarwzc_54" d="M209.1,184L248.5,223.4"></path>
+	<path class="st1 ZFQarwzc_55" d="M209.1,187.3L246.9,225"></path>
+	<path class="st1 ZFQarwzc_56" d="M209.1,190.4L245.4,226.7"></path>
+	<path class="st1 ZFQarwzc_57" d="M209.1,194.3L243.4,228.6"></path>
+	<path class="st1 ZFQarwzc_58" d="M209.1,198L241.5,230.4"></path>
+	<path class="st1 ZFQarwzc_59" d="M209.1,167.3L209.1,198.6"></path>
+	<path class="st1 ZFQarwzc_60" d="M211,169.2L211,200"></path>
+	<path class="st1 ZFQarwzc_61" d="M213.1,171.3L213.1,201.9"></path>
+	<path class="st1 ZFQarwzc_62" d="M215,173.2L215,204"></path>
+	<path class="st1 ZFQarwzc_63" d="M217.1,175.2L217.1,206.1"></path>
+	<path class="st1 ZFQarwzc_64" d="M219,177.2L219,208.1"></path>
+	<path class="st1 ZFQarwzc_65" d="M221.1,179.3L221.1,209.9"></path>
+	<path class="st1 ZFQarwzc_66" d="M223,181.2L223,212"></path>
+	<path class="st1 ZFQarwzc_67" d="M225,183.2L225,214.1"></path>
+	<path class="st1 ZFQarwzc_68" d="M274.8,175.5L230.7,219.6"></path>
+	<path class="st1 ZFQarwzc_69" d="M274.8,179.4L232.7,221.5"></path>
+	<path class="st1 ZFQarwzc_70" d="M274.8,183.1L234.5,223.4"></path>
+	<path class="st1 ZFQarwzc_71" d="M274.8,186.4L236.2,225"></path>
+	<path class="st1 ZFQarwzc_72" d="M274.8,189.6L237.7,226.6"></path>
+	<path class="st1 ZFQarwzc_73" d="M274.8,193.5L239.7,228.6"></path>
+	<path class="st1 ZFQarwzc_74" d="M274.8,197.2L241.2,230.8"></path>
+	<path class="st1 ZFQarwzc_75" d="M274.8,167.2L274.8,198.5"></path>
+	<path class="st1 ZFQarwzc_76" d="M272.8,169.1L272.8,199.9"></path>
+	<path class="st1 ZFQarwzc_77" d="M270.8,171.2L270.8,201.8"></path>
+	<path class="st1 ZFQarwzc_78" d="M268.8,173.1L268.8,204"></path>
+	<path class="st1 ZFQarwzc_79" d="M266.8,175.2L266.8,206"></path>
+	<path class="st1 ZFQarwzc_80" d="M264.8,177.1L264.8,208"></path>
+	<path class="st1 ZFQarwzc_81" d="M262.8,179.2L262.8,209.8"></path>
+	<path class="st1 ZFQarwzc_82" d="M260.9,181.1L260.9,212"></path>
+	<path class="st1 ZFQarwzc_83" d="M258.9,183.1L258.9,214"></path>
 </g>
-<style data-made-with="vivus-instant">.NNDpuvkc_0{stroke-dasharray:106 108;stroke-dashoffset:107;animation:NNDpuvkc_draw 92ms linear 0ms forwards;}.NNDpuvkc_1{stroke-dasharray:105 107;stroke-dashoffset:106;animation:NNDpuvkc_draw 91ms linear 92ms forwards;}.NNDpuvkc_2{stroke-dasharray:175 177;stroke-dashoffset:176;animation:NNDpuvkc_draw 152ms linear 184ms forwards;}.NNDpuvkc_3{stroke-dasharray:121 123;stroke-dashoffset:122;animation:NNDpuvkc_draw 105ms linear 336ms forwards;}.NNDpuvkc_4{stroke-dasharray:0 2;stroke-dashoffset:1;animation:NNDpuvkc_draw 0ms linear 441ms forwards;}.NNDpuvkc_5{stroke-dasharray:152 154;stroke-dashoffset:153;animation:NNDpuvkc_draw 132ms linear 442ms forwards;}.NNDpuvkc_6{stroke-dasharray:100 102;stroke-dashoffset:101;animation:NNDpuvkc_draw 87ms linear 575ms forwards;}.NNDpuvkc_7{stroke-dasharray:96 98;stroke-dashoffset:97;animation:NNDpuvkc_draw 83ms linear 662ms forwards;}.NNDpuvkc_8{stroke-dasharray:106 108;stroke-dashoffset:107;animation:NNDpuvkc_draw 92ms linear 746ms forwards;}.NNDpuvkc_9{stroke-dasharray:82 84;stroke-dashoffset:83;animation:NNDpuvkc_draw 71ms linear 838ms forwards;}.NNDpuvkc_10{stroke-dasharray:85 87;stroke-dashoffset:86;animation:NNDpuvkc_draw 74ms linear 910ms forwards;}.NNDpuvkc_11{stroke-dasharray:108 110;stroke-dashoffset:109;animation:NNDpuvkc_draw 94ms linear 985ms forwards;}.NNDpuvkc_12{stroke-dasharray:74 76;stroke-dashoffset:75;animation:NNDpuvkc_draw 64ms linear 1079ms forwards;}.NNDpuvkc_13{stroke-dasharray:92 94;stroke-dashoffset:93;animation:NNDpuvkc_draw 80ms linear 1144ms forwards;}.NNDpuvkc_14{stroke-dasharray:95 97;stroke-dashoffset:96;animation:NNDpuvkc_draw 83ms linear 1224ms forwards;}.NNDpuvkc_15{stroke-dasharray:128 130;stroke-dashoffset:129;animation:NNDpuvkc_draw 111ms linear 1307ms forwards;}.NNDpuvkc_16{stroke-dasharray:103 105;stroke-dashoffset:104;animation:NNDpuvkc_draw 89ms linear 1419ms forwards;}.NNDpuvkc_17{stroke-dasharray:65 67;stroke-dashoffset:66;animation:NNDpuvkc_draw 57ms linear 1509ms forwards;}.NNDpuvkc_18{stroke-dasharray:83 85;stroke-dashoffset:84;animation:NNDpuvkc_draw 72ms linear 1566ms forwards;}.NNDpuvkc_19{stroke-dasharray:104 106;stroke-dashoffset:105;animation:NNDpuvkc_draw 90ms linear 1638ms forwards;}.NNDpuvkc_20{stroke-dasharray:123 125;stroke-dashoffset:124;animation:NNDpuvkc_draw 107ms linear 1729ms forwards;}.NNDpuvkc_21{stroke-dasharray:139 141;stroke-dashoffset:140;animation:NNDpuvkc_draw 121ms linear 1836ms forwards;}.NNDpuvkc_22{stroke-dasharray:72 74;stroke-dashoffset:73;animation:NNDpuvkc_draw 63ms linear 1958ms forwards;}.NNDpuvkc_23{stroke-dasharray:102 104;stroke-dashoffset:103;animation:NNDpuvkc_draw 89ms linear 2021ms forwards;}.NNDpuvkc_24{stroke-dasharray:87 89;stroke-dashoffset:88;animation:NNDpuvkc_draw 76ms linear 2110ms forwards;}.NNDpuvkc_25{stroke-dasharray:99 101;stroke-dashoffset:100;animation:NNDpuvkc_draw 86ms linear 2186ms forwards;}.NNDpuvkc_26{stroke-dasharray:91 93;stroke-dashoffset:92;animation:NNDpuvkc_draw 79ms linear 2272ms forwards;}.NNDpuvkc_27{stroke-dasharray:122 124;stroke-dashoffset:123;animation:NNDpuvkc_draw 106ms linear 2352ms forwards;}.NNDpuvkc_28{stroke-dasharray:74 76;stroke-dashoffset:75;animation:NNDpuvkc_draw 64ms linear 2458ms forwards;}.NNDpuvkc_29{stroke-dasharray:82 84;stroke-dashoffset:83;animation:NNDpuvkc_draw 71ms linear 2523ms forwards;}.NNDpuvkc_30{stroke-dasharray:91 93;stroke-dashoffset:92;animation:NNDpuvkc_draw 79ms linear 2595ms forwards;}.NNDpuvkc_31{stroke-dasharray:71 73;stroke-dashoffset:72;animation:NNDpuvkc_draw 62ms linear 2674ms forwards;}.NNDpuvkc_32{stroke-dasharray:79 81;stroke-dashoffset:80;animation:NNDpuvkc_draw 69ms linear 2737ms forwards;}.NNDpuvkc_33{stroke-dasharray:87 89;stroke-dashoffset:88;animation:NNDpuvkc_draw 76ms linear 2806ms forwards;}.NNDpuvkc_34{stroke-dasharray:76 78;stroke-dashoffset:77;animation:NNDpuvkc_draw 66ms linear 2882ms forwards;}.NNDpuvkc_35{stroke-dasharray:78 80;stroke-dashoffset:79;animation:NNDpuvkc_draw 68ms linear 2949ms forwards;}.NNDpuvkc_36{stroke-dasharray:73 75;stroke-dashoffset:74;animation:NNDpuvkc_draw 63ms linear 3017ms forwards;}.NNDpuvkc_37{stroke-dasharray:49 51;stroke-dashoffset:50;animation:NNDpuvkc_draw 43ms linear 3081ms forwards;}.NNDpuvkc_38{stroke-dasharray:70 72;stroke-dashoffset:71;animation:NNDpuvkc_draw 61ms linear 3124ms forwards;}.NNDpuvkc_39{stroke-dasharray:81 83;stroke-dashoffset:82;animation:NNDpuvkc_draw 70ms linear 3186ms forwards;}.NNDpuvkc_40{stroke-dasharray:73 75;stroke-dashoffset:74;animation:NNDpuvkc_draw 63ms linear 3257ms forwards;}.NNDpuvkc_41{stroke-dasharray:74 76;stroke-dashoffset:75;animation:NNDpuvkc_draw 64ms linear 3321ms forwards;}.NNDpuvkc_42{stroke-dasharray:78 80;stroke-dashoffset:79;animation:NNDpuvkc_draw 68ms linear 3385ms forwards;}.NNDpuvkc_43{stroke-dasharray:88 90;stroke-dashoffset:89;animation:NNDpuvkc_draw 76ms linear 3454ms forwards;}.NNDpuvkc_44{stroke-dasharray:62 64;stroke-dashoffset:63;animation:NNDpuvkc_draw 54ms linear 3531ms forwards;}.NNDpuvkc_45{stroke-dasharray:97 99;stroke-dashoffset:98;animation:NNDpuvkc_draw 84ms linear 3585ms forwards;}.NNDpuvkc_46{stroke-dasharray:63 65;stroke-dashoffset:64;animation:NNDpuvkc_draw 55ms linear 3670ms forwards;}.NNDpuvkc_47{stroke-dasharray:63 65;stroke-dashoffset:64;animation:NNDpuvkc_draw 55ms linear 3725ms forwards;}.NNDpuvkc_48{stroke-dasharray:74 76;stroke-dashoffset:75;animation:NNDpuvkc_draw 64ms linear 3781ms forwards;}.NNDpuvkc_49{stroke-dasharray:86 88;stroke-dashoffset:87;animation:NNDpuvkc_draw 75ms linear 3845ms forwards;}.NNDpuvkc_50{stroke-dasharray:85 87;stroke-dashoffset:86;animation:NNDpuvkc_draw 74ms linear 3921ms forwards;}.NNDpuvkc_51{stroke-dasharray:68 70;stroke-dashoffset:69;animation:NNDpuvkc_draw 59ms linear 3995ms forwards;}.NNDpuvkc_52{stroke-dasharray:102 104;stroke-dashoffset:103;animation:NNDpuvkc_draw 89ms linear 4055ms forwards;}.NNDpuvkc_53{stroke-dasharray:71 73;stroke-dashoffset:72;animation:NNDpuvkc_draw 62ms linear 4144ms forwards;}.NNDpuvkc_54{stroke-dasharray:69 71;stroke-dashoffset:70;animation:NNDpuvkc_draw 60ms linear 4206ms forwards;}.NNDpuvkc_55{stroke-dasharray:73 75;stroke-dashoffset:74;animation:NNDpuvkc_draw 63ms linear 4267ms forwards;}.NNDpuvkc_56{stroke-dasharray:73 75;stroke-dashoffset:74;animation:NNDpuvkc_draw 63ms linear 4331ms forwards;}.NNDpuvkc_57{stroke-dasharray:63 65;stroke-dashoffset:64;animation:NNDpuvkc_draw 55ms linear 4395ms forwards;}.NNDpuvkc_58{stroke-dasharray:54 56;stroke-dashoffset:55;animation:NNDpuvkc_draw 47ms linear 4450ms forwards;}.NNDpuvkc_59{stroke-dasharray:70 72;stroke-dashoffset:71;animation:NNDpuvkc_draw 61ms linear 4498ms forwards;}.NNDpuvkc_60{stroke-dasharray:61 63;stroke-dashoffset:62;animation:NNDpuvkc_draw 53ms linear 4559ms forwards;}.NNDpuvkc_61{stroke-dasharray:66 68;stroke-dashoffset:67;animation:NNDpuvkc_draw 57ms linear 4613ms forwards;}.NNDpuvkc_62{stroke-dasharray:71 73;stroke-dashoffset:72;animation:NNDpuvkc_draw 62ms linear 4671ms forwards;}.NNDpuvkc_63{stroke-dasharray:67 69;stroke-dashoffset:68;animation:NNDpuvkc_draw 58ms linear 4733ms forwards;}.NNDpuvkc_64{stroke-dasharray:78 80;stroke-dashoffset:79;animation:NNDpuvkc_draw 68ms linear 4792ms forwards;}.NNDpuvkc_65{stroke-dasharray:67 69;stroke-dashoffset:68;animation:NNDpuvkc_draw 58ms linear 4860ms forwards;}.NNDpuvkc_66{stroke-dasharray:73 75;stroke-dashoffset:74;animation:NNDpuvkc_draw 63ms linear 4919ms forwards;}.NNDpuvkc_67{stroke-dasharray:70 72;stroke-dashoffset:71;animation:NNDpuvkc_draw 61ms linear 4983ms forwards;}.NNDpuvkc_68{stroke-dasharray:65 67;stroke-dashoffset:66;animation:NNDpuvkc_draw 57ms linear 5044ms forwards;}.NNDpuvkc_69{stroke-dasharray:69 71;stroke-dashoffset:70;animation:NNDpuvkc_draw 60ms linear 5101ms forwards;}.NNDpuvkc_70{stroke-dasharray:54 56;stroke-dashoffset:55;animation:NNDpuvkc_draw 47ms linear 5162ms forwards;}.NNDpuvkc_71{stroke-dasharray:55 57;stroke-dashoffset:56;animation:NNDpuvkc_draw 48ms linear 5209ms forwards;}.NNDpuvkc_72{stroke-dasharray:90 92;stroke-dashoffset:91;animation:NNDpuvkc_draw 78ms linear 5258ms forwards;}.NNDpuvkc_73{stroke-dasharray:72 74;stroke-dashoffset:73;animation:NNDpuvkc_draw 63ms linear 5337ms forwards;}.NNDpuvkc_74{stroke-dasharray:74 76;stroke-dashoffset:75;animation:NNDpuvkc_draw 64ms linear 5400ms forwards;}.NNDpuvkc_75{stroke-dasharray:91 93;stroke-dashoffset:92;animation:NNDpuvkc_draw 79ms linear 5465ms forwards;}.NNDpuvkc_76{stroke-dasharray:74 76;stroke-dashoffset:75;animation:NNDpuvkc_draw 64ms linear 5544ms forwards;}.NNDpuvkc_77{stroke-dasharray:62 64;stroke-dashoffset:63;animation:NNDpuvkc_draw 54ms linear 5609ms forwards;}.NNDpuvkc_78{stroke-dasharray:77 79;stroke-dashoffset:78;animation:NNDpuvkc_draw 67ms linear 5663ms forwards;}.NNDpuvkc_79{stroke-dasharray:75 77;stroke-dashoffset:76;animation:NNDpuvkc_draw 65ms linear 5731ms forwards;}.NNDpuvkc_80{stroke-dasharray:78 80;stroke-dashoffset:79;animation:NNDpuvkc_draw 68ms linear 5797ms forwards;}.NNDpuvkc_81{stroke-dasharray:66 68;stroke-dashoffset:67;animation:NNDpuvkc_draw 57ms linear 5865ms forwards;}.NNDpuvkc_82{stroke-dasharray:67 69;stroke-dashoffset:68;animation:NNDpuvkc_draw 58ms linear 5923ms forwards;}.NNDpuvkc_83{stroke-dasharray:63 65;stroke-dashoffset:64;animation:NNDpuvkc_draw 55ms linear 5982ms forwards;}.NNDpuvkc_84{stroke-dasharray:56 58;stroke-dashoffset:57;animation:NNDpuvkc_draw 49ms linear 6037ms forwards;}.NNDpuvkc_85{stroke-dasharray:58 60;stroke-dashoffset:59;animation:NNDpuvkc_draw 51ms linear 6086ms forwards;}.NNDpuvkc_86{stroke-dasharray:52 54;stroke-dashoffset:53;animation:NNDpuvkc_draw 45ms linear 6137ms forwards;}.NNDpuvkc_87{stroke-dasharray:65 67;stroke-dashoffset:66;animation:NNDpuvkc_draw 57ms linear 6183ms forwards;}.NNDpuvkc_88{stroke-dasharray:56 58;stroke-dashoffset:57;animation:NNDpuvkc_draw 49ms linear 6240ms forwards;}.NNDpuvkc_89{stroke-dasharray:54 56;stroke-dashoffset:55;animation:NNDpuvkc_draw 47ms linear 6290ms forwards;}.NNDpuvkc_90{stroke-dasharray:60 62;stroke-dashoffset:61;animation:NNDpuvkc_draw 52ms linear 6337ms forwards;}.NNDpuvkc_91{stroke-dasharray:62 64;stroke-dashoffset:63;animation:NNDpuvkc_draw 54ms linear 6390ms forwards;}.NNDpuvkc_92{stroke-dasharray:87 89;stroke-dashoffset:88;animation:NNDpuvkc_draw 76ms linear 6444ms forwards;}.NNDpuvkc_93{stroke-dasharray:76 78;stroke-dashoffset:77;animation:NNDpuvkc_draw 66ms linear 6520ms forwards;}.NNDpuvkc_94{stroke-dasharray:78 80;stroke-dashoffset:79;animation:NNDpuvkc_draw 68ms linear 6587ms forwards;}.NNDpuvkc_95{stroke-dasharray:91 93;stroke-dashoffset:92;animation:NNDpuvkc_draw 79ms linear 6655ms forwards;}.NNDpuvkc_96{stroke-dasharray:77 79;stroke-dashoffset:78;animation:NNDpuvkc_draw 67ms linear 6735ms forwards;}.NNDpuvkc_97{stroke-dasharray:74 76;stroke-dashoffset:75;animation:NNDpuvkc_draw 64ms linear 6802ms forwards;}.NNDpuvkc_98{stroke-dasharray:78 80;stroke-dashoffset:79;animation:NNDpuvkc_draw 68ms linear 6867ms forwards;}.NNDpuvkc_99{stroke-dasharray:87 89;stroke-dashoffset:88;animation:NNDpuvkc_draw 76ms linear 6936ms forwards;}.NNDpuvkc_100{stroke-dasharray:62 64;stroke-dashoffset:63;animation:NNDpuvkc_draw 54ms linear 7012ms forwards;}.NNDpuvkc_101{stroke-dasharray:75 77;stroke-dashoffset:76;animation:NNDpuvkc_draw 65ms linear 7066ms forwards;}.NNDpuvkc_102{stroke-dasharray:72 74;stroke-dashoffset:73;animation:NNDpuvkc_draw 63ms linear 7132ms forwards;}.NNDpuvkc_103{stroke-dasharray:56 58;stroke-dashoffset:57;animation:NNDpuvkc_draw 49ms linear 7195ms forwards;}.NNDpuvkc_104{stroke-dasharray:62 64;stroke-dashoffset:63;animation:NNDpuvkc_draw 54ms linear 7244ms forwards;}.NNDpuvkc_105{stroke-dasharray:57 59;stroke-dashoffset:58;animation:NNDpuvkc_draw 50ms linear 7299ms forwards;}.NNDpuvkc_106{stroke-dasharray:58 60;stroke-dashoffset:59;animation:NNDpuvkc_draw 51ms linear 7349ms forwards;}.NNDpuvkc_107{stroke-dasharray:57 59;stroke-dashoffset:58;animation:NNDpuvkc_draw 50ms linear 7400ms forwards;}.NNDpuvkc_108{stroke-dasharray:56 58;stroke-dashoffset:57;animation:NNDpuvkc_draw 49ms linear 7450ms forwards;}@keyframes NNDpuvkc_draw{100%{stroke-dashoffset:0;}}@keyframes NNDpuvkc_fade{0%{stroke-opacity:1;}96.58119658119658%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>
-</div>
+<g id="Queue">
+	<path class="st1 ZFQarwzc_84" d="M242.5,295.8L211.1,327.2"></path>
+	<path class="st1 ZFQarwzc_85" d="M244.2,298L213,329.1"></path>
+	<path class="st1 ZFQarwzc_86" d="M246.2,299.7L214.9,331"></path>
+	<path class="st1 ZFQarwzc_87" d="M247.9,301.3L216.5,332.6"></path>
+	<path class="st1 ZFQarwzc_88" d="M249.5,302.8L218.1,334.2"></path>
+	<path class="st1 ZFQarwzc_89" d="M251.5,304.7L220.1,336.2"></path>
+	<path class="st1 ZFQarwzc_90" d="M253.4,306.5L221.9,338"></path>
+	<path class="st1 ZFQarwzc_91" d="M273.4,327L242,295.6"></path>
+	<path class="st1 ZFQarwzc_92" d="M271.2,328.7L240.1,297.5"></path>
+	<path class="st1 ZFQarwzc_93" d="M269.5,330.7L238.2,299.4"></path>
+	<path class="st1 ZFQarwzc_94" d="M267.9,332.4L236.6,301"></path>
+	<path class="st1 ZFQarwzc_95" d="M266.4,334L235,302.6"></path>
+	<path class="st1 ZFQarwzc_96" d="M264.4,336L233,304.6"></path>
+	<path class="st1 ZFQarwzc_97" d="M262.7,337.9L231.2,306.4"></path>
+</g>
+<g id="Ailes_infÃ©rieures">
+	<path class="st1 ZFQarwzc_98" d="M422,157.3L294.5,284.8"></path>
+	<path class="st1 ZFQarwzc_99" d="M421.9,161.3L296.5,286.7"></path>
+	<path class="st1 ZFQarwzc_100" d="M421.9,165L298.3,288.6"></path>
+	<path class="st1 ZFQarwzc_101" d="M421.9,168.3L300,290.2"></path>
+	<path class="st1 ZFQarwzc_102" d="M421.9,171.5L301.5,291.8"></path>
+	<path class="st1 ZFQarwzc_103" d="M421.9,175.3L303.5,293.8"></path>
+	<path class="st1 ZFQarwzc_104" d="M421.9,179L305.3,295.6"></path>
+	<path class="st1 ZFQarwzc_105" d="M421.9,179.5L421.9,144.8"></path>
+	<path class="st1 ZFQarwzc_106" d="M419.2,181.6L419.2,147.9"></path>
+	<path class="st1 ZFQarwzc_107" d="M416.5,184.4L416.5,150.3"></path>
+	<path class="st1 ZFQarwzc_108" d="M414.2,186.7L414.2,152.4"></path>
+	<path class="st1 ZFQarwzc_109" d="M412,189.1L412,154.4"></path>
+	<path class="st1 ZFQarwzc_110" d="M409.2,191.6L409.2,156.9"></path>
+	<path class="st1 ZFQarwzc_111" d="M406.6,194.1L406.6,159.3"></path>
+	<path class="st1 ZFQarwzc_112" d="M401.1,219.3L315.9,304.5"></path>
+	<path class="st1 ZFQarwzc_113" d="M401,223.3L317.9,306.5"></path>
+	<path class="st1 ZFQarwzc_114" d="M401.3,226.7L319.7,308.3"></path>
+	<path class="st1 ZFQarwzc_115" d="M401,230.3L321.4,310"></path>
+	<path class="st1 ZFQarwzc_116" d="M401,233.5L323,311.6"></path>
+	<path class="st1 ZFQarwzc_117" d="M401.1,237.3L324.9,313.5"></path>
+	<path class="st1 ZFQarwzc_118" d="M401,241L326.7,315.3"></path>
+	<path class="st1 ZFQarwzc_119" d="M401,241.6L401,206.8"></path>
+	<path class="st1 ZFQarwzc_120" d="M398.3,243.6L398.3,209.9"></path>
+	<path class="st1 ZFQarwzc_121" d="M395.7,246.4L395.7,212.3"></path>
+	<path class="st1 ZFQarwzc_122" d="M393.3,248.7L393.3,214.4"></path>
+	<path class="st1 ZFQarwzc_123" d="M391.1,251.2L391.1,216.4"></path>
+	<path class="st1 ZFQarwzc_124" d="M388.4,253.6L388.4,218.9"></path>
+	<path class="st1 ZFQarwzc_125" d="M385.8,256.2L385.8,221.3"></path>
+	<path class="st1 ZFQarwzc_126" d="M61.4,157L188.9,284.5"></path>
+	<path class="st1 ZFQarwzc_127" d="M61.5,160.9L187,286.4"></path>
+	<path class="st1 ZFQarwzc_128" d="M61.5,164.6L185.1,288.2"></path>
+	<path class="st1 ZFQarwzc_129" d="M61.5,167.9L183.5,289.9"></path>
+	<path class="st1 ZFQarwzc_130" d="M61.5,171.1L181.9,291.5"></path>
+	<path class="st1 ZFQarwzc_131" d="M61.5,175L179.9,293.4"></path>
+	<path class="st1 ZFQarwzc_132" d="M61.5,178.7L178.1,295.3"></path>
+	<path class="st1 ZFQarwzc_133" d="M61.5,179.2L61.5,144.4"></path>
+	<path class="st1 ZFQarwzc_134" d="M64.3,181.2L64.3,147.5"></path>
+	<path class="st1 ZFQarwzc_135" d="M66.9,184L66.9,149.9"></path>
+	<path class="st1 ZFQarwzc_136" d="M69.2,186.4L69.2,152"></path>
+	<path class="st1 ZFQarwzc_137" d="M71.4,188.8L71.4,154.1"></path>
+	<path class="st1 ZFQarwzc_138" d="M74.2,191.2L74.2,156.5"></path>
+	<path class="st1 ZFQarwzc_139" d="M76.8,193.8L76.8,158.9"></path>
+	<path class="st1 ZFQarwzc_140" d="M82.3,219L167.5,304.2"></path>
+	<path class="st1 ZFQarwzc_141" d="M82.4,223L165.5,306.1"></path>
+	<path class="st1 ZFQarwzc_142" d="M82.1,226.4L163.7,308"></path>
+	<path class="st1 ZFQarwzc_143" d="M82.4,230L162,309.6"></path>
+	<path class="st1 ZFQarwzc_144" d="M82.4,233.1L160.5,311.2"></path>
+	<path class="st1 ZFQarwzc_145" d="M82.4,237L158.5,313.1"></path>
+	<path class="st1 ZFQarwzc_146" d="M82.4,240.7L156.7,315"></path>
+	<path class="st1 ZFQarwzc_147" d="M82.4,241.2L82.4,206.4"></path>
+	<path class="st1 ZFQarwzc_148" d="M85.1,243.2L85.1,209.5"></path>
+	<path class="st1 ZFQarwzc_149" d="M87.7,246.1L87.7,211.9"></path>
+	<path class="st1 ZFQarwzc_150" d="M90.1,248.4L90.1,214"></path>
+	<path class="st1 ZFQarwzc_151" d="M92.3,250.8L92.3,216.1"></path>
+	<path class="st1 ZFQarwzc_152" d="M95.1,253.3L95.1,218.6"></path>
+	<path class="st1 ZFQarwzc_153" d="M97.7,255.8L97.7,220.9"></path>
+</g>
+<style data-made-with="vivus-instant">.ZFQarwzc_0{stroke-dasharray:359 361;stroke-dashoffset:360;animation:ZFQarwzc_draw 63ms linear 0ms forwards;}.ZFQarwzc_1{stroke-dasharray:357 359;stroke-dashoffset:358;animation:ZFQarwzc_draw 63ms linear 63ms forwards;}.ZFQarwzc_2{stroke-dasharray:354 356;stroke-dashoffset:355;animation:ZFQarwzc_draw 62ms linear 127ms forwards;}.ZFQarwzc_3{stroke-dasharray:352 354;stroke-dashoffset:353;animation:ZFQarwzc_draw 62ms linear 190ms forwards;}.ZFQarwzc_4{stroke-dasharray:350 352;stroke-dashoffset:351;animation:ZFQarwzc_draw 62ms linear 252ms forwards;}.ZFQarwzc_5{stroke-dasharray:347 349;stroke-dashoffset:348;animation:ZFQarwzc_draw 61ms linear 314ms forwards;}.ZFQarwzc_6{stroke-dasharray:344 346;stroke-dashoffset:345;animation:ZFQarwzc_draw 61ms linear 376ms forwards;}.ZFQarwzc_7{stroke-dasharray:271 273;stroke-dashoffset:272;animation:ZFQarwzc_draw 48ms linear 437ms forwards;}.ZFQarwzc_8{stroke-dasharray:268 270;stroke-dashoffset:269;animation:ZFQarwzc_draw 47ms linear 486ms forwards;}.ZFQarwzc_9{stroke-dasharray:266 268;stroke-dashoffset:267;animation:ZFQarwzc_draw 47ms linear 533ms forwards;}.ZFQarwzc_10{stroke-dasharray:263 265;stroke-dashoffset:264;animation:ZFQarwzc_draw 46ms linear 581ms forwards;}.ZFQarwzc_11{stroke-dasharray:260 262;stroke-dashoffset:261;animation:ZFQarwzc_draw 46ms linear 627ms forwards;}.ZFQarwzc_12{stroke-dasharray:258 260;stroke-dashoffset:259;animation:ZFQarwzc_draw 45ms linear 674ms forwards;}.ZFQarwzc_13{stroke-dasharray:256 258;stroke-dashoffset:257;animation:ZFQarwzc_draw 45ms linear 720ms forwards;}.ZFQarwzc_14{stroke-dasharray:37 39;stroke-dashoffset:38;animation:ZFQarwzc_draw 6ms linear 765ms forwards;}.ZFQarwzc_15{stroke-dasharray:37 39;stroke-dashoffset:38;animation:ZFQarwzc_draw 6ms linear 772ms forwards;}.ZFQarwzc_16{stroke-dasharray:37 39;stroke-dashoffset:38;animation:ZFQarwzc_draw 6ms linear 779ms forwards;}.ZFQarwzc_17{stroke-dasharray:37 39;stroke-dashoffset:38;animation:ZFQarwzc_draw 6ms linear 785ms forwards;}.ZFQarwzc_18{stroke-dasharray:37 39;stroke-dashoffset:38;animation:ZFQarwzc_draw 6ms linear 792ms forwards;}.ZFQarwzc_19{stroke-dasharray:359 361;stroke-dashoffset:360;animation:ZFQarwzc_draw 63ms linear 799ms forwards;}.ZFQarwzc_20{stroke-dasharray:357 359;stroke-dashoffset:358;animation:ZFQarwzc_draw 63ms linear 863ms forwards;}.ZFQarwzc_21{stroke-dasharray:354 356;stroke-dashoffset:355;animation:ZFQarwzc_draw 62ms linear 926ms forwards;}.ZFQarwzc_22{stroke-dasharray:352 354;stroke-dashoffset:353;animation:ZFQarwzc_draw 62ms linear 989ms forwards;}.ZFQarwzc_23{stroke-dasharray:350 352;stroke-dashoffset:351;animation:ZFQarwzc_draw 62ms linear 1052ms forwards;}.ZFQarwzc_24{stroke-dasharray:347 349;stroke-dashoffset:348;animation:ZFQarwzc_draw 61ms linear 1114ms forwards;}.ZFQarwzc_25{stroke-dasharray:344 346;stroke-dashoffset:345;animation:ZFQarwzc_draw 61ms linear 1175ms forwards;}.ZFQarwzc_26{stroke-dasharray:270 272;stroke-dashoffset:271;animation:ZFQarwzc_draw 48ms linear 1237ms forwards;}.ZFQarwzc_27{stroke-dasharray:267 269;stroke-dashoffset:268;animation:ZFQarwzc_draw 47ms linear 1285ms forwards;}.ZFQarwzc_28{stroke-dasharray:265 267;stroke-dashoffset:266;animation:ZFQarwzc_draw 47ms linear 1332ms forwards;}.ZFQarwzc_29{stroke-dasharray:262 264;stroke-dashoffset:263;animation:ZFQarwzc_draw 46ms linear 1379ms forwards;}.ZFQarwzc_30{stroke-dasharray:260 262;stroke-dashoffset:261;animation:ZFQarwzc_draw 46ms linear 1426ms forwards;}.ZFQarwzc_31{stroke-dasharray:257 259;stroke-dashoffset:258;animation:ZFQarwzc_draw 45ms linear 1472ms forwards;}.ZFQarwzc_32{stroke-dasharray:255 257;stroke-dashoffset:256;animation:ZFQarwzc_draw 45ms linear 1518ms forwards;}.ZFQarwzc_33{stroke-dasharray:37 39;stroke-dashoffset:38;animation:ZFQarwzc_draw 6ms linear 1563ms forwards;}.ZFQarwzc_34{stroke-dasharray:37 39;stroke-dashoffset:38;animation:ZFQarwzc_draw 6ms linear 1570ms forwards;}.ZFQarwzc_35{stroke-dasharray:37 39;stroke-dashoffset:38;animation:ZFQarwzc_draw 6ms linear 1577ms forwards;}.ZFQarwzc_36{stroke-dasharray:37 39;stroke-dashoffset:38;animation:ZFQarwzc_draw 6ms linear 1584ms forwards;}.ZFQarwzc_37{stroke-dasharray:37 39;stroke-dashoffset:38;animation:ZFQarwzc_draw 6ms linear 1590ms forwards;}.ZFQarwzc_38{stroke-dasharray:69 71;stroke-dashoffset:70;animation:ZFQarwzc_draw 12ms linear 1597ms forwards;}.ZFQarwzc_39{stroke-dasharray:67 69;stroke-dashoffset:68;animation:ZFQarwzc_draw 12ms linear 1609ms forwards;}.ZFQarwzc_40{stroke-dasharray:64 66;stroke-dashoffset:65;animation:ZFQarwzc_draw 11ms linear 1621ms forwards;}.ZFQarwzc_41{stroke-dasharray:62 64;stroke-dashoffset:63;animation:ZFQarwzc_draw 11ms linear 1633ms forwards;}.ZFQarwzc_42{stroke-dasharray:60 62;stroke-dashoffset:61;animation:ZFQarwzc_draw 10ms linear 1644ms forwards;}.ZFQarwzc_43{stroke-dasharray:57 59;stroke-dashoffset:58;animation:ZFQarwzc_draw 10ms linear 1655ms forwards;}.ZFQarwzc_44{stroke-dasharray:54 56;stroke-dashoffset:55;animation:ZFQarwzc_draw 9ms linear 1665ms forwards;}.ZFQarwzc_45{stroke-dasharray:68 70;stroke-dashoffset:69;animation:ZFQarwzc_draw 12ms linear 1675ms forwards;}.ZFQarwzc_46{stroke-dasharray:66 68;stroke-dashoffset:67;animation:ZFQarwzc_draw 11ms linear 1687ms forwards;}.ZFQarwzc_47{stroke-dasharray:63 65;stroke-dashoffset:64;animation:ZFQarwzc_draw 11ms linear 1699ms forwards;}.ZFQarwzc_48{stroke-dasharray:61 63;stroke-dashoffset:62;animation:ZFQarwzc_draw 10ms linear 1710ms forwards;}.ZFQarwzc_49{stroke-dasharray:58 60;stroke-dashoffset:59;animation:ZFQarwzc_draw 10ms linear 1721ms forwards;}.ZFQarwzc_50{stroke-dasharray:56 58;stroke-dashoffset:57;animation:ZFQarwzc_draw 10ms linear 1732ms forwards;}.ZFQarwzc_51{stroke-dasharray:53 55;stroke-dashoffset:54;animation:ZFQarwzc_draw 9ms linear 1742ms forwards;}.ZFQarwzc_52{stroke-dasharray:62 64;stroke-dashoffset:63;animation:ZFQarwzc_draw 11ms linear 1752ms forwards;}.ZFQarwzc_53{stroke-dasharray:59 61;stroke-dashoffset:60;animation:ZFQarwzc_draw 10ms linear 1763ms forwards;}.ZFQarwzc_54{stroke-dasharray:56 58;stroke-dashoffset:57;animation:ZFQarwzc_draw 10ms linear 1773ms forwards;}.ZFQarwzc_55{stroke-dasharray:54 56;stroke-dashoffset:55;animation:ZFQarwzc_draw 9ms linear 1783ms forwards;}.ZFQarwzc_56{stroke-dasharray:52 54;stroke-dashoffset:53;animation:ZFQarwzc_draw 9ms linear 1793ms forwards;}.ZFQarwzc_57{stroke-dasharray:49 51;stroke-dashoffset:50;animation:ZFQarwzc_draw 8ms linear 1803ms forwards;}.ZFQarwzc_58{stroke-dasharray:46 48;stroke-dashoffset:47;animation:ZFQarwzc_draw 8ms linear 1811ms forwards;}.ZFQarwzc_59{stroke-dasharray:32 34;stroke-dashoffset:33;animation:ZFQarwzc_draw 5ms linear 1820ms forwards;}.ZFQarwzc_60{stroke-dasharray:31 33;stroke-dashoffset:32;animation:ZFQarwzc_draw 5ms linear 1826ms forwards;}.ZFQarwzc_61{stroke-dasharray:31 33;stroke-dashoffset:32;animation:ZFQarwzc_draw 5ms linear 1831ms forwards;}.ZFQarwzc_62{stroke-dasharray:31 33;stroke-dashoffset:32;animation:ZFQarwzc_draw 5ms linear 1837ms forwards;}.ZFQarwzc_63{stroke-dasharray:31 33;stroke-dashoffset:32;animation:ZFQarwzc_draw 5ms linear 1843ms forwards;}.ZFQarwzc_64{stroke-dasharray:31 33;stroke-dashoffset:32;animation:ZFQarwzc_draw 5ms linear 1848ms forwards;}.ZFQarwzc_65{stroke-dasharray:31 33;stroke-dashoffset:32;animation:ZFQarwzc_draw 5ms linear 1854ms forwards;}.ZFQarwzc_66{stroke-dasharray:31 33;stroke-dashoffset:32;animation:ZFQarwzc_draw 5ms linear 1860ms forwards;}.ZFQarwzc_67{stroke-dasharray:31 33;stroke-dashoffset:32;animation:ZFQarwzc_draw 5ms linear 1865ms forwards;}.ZFQarwzc_68{stroke-dasharray:63 65;stroke-dashoffset:64;animation:ZFQarwzc_draw 11ms linear 1871ms forwards;}.ZFQarwzc_69{stroke-dasharray:60 62;stroke-dashoffset:61;animation:ZFQarwzc_draw 10ms linear 1882ms forwards;}.ZFQarwzc_70{stroke-dasharray:57 59;stroke-dashoffset:58;animation:ZFQarwzc_draw 10ms linear 1893ms forwards;}.ZFQarwzc_71{stroke-dasharray:55 57;stroke-dashoffset:56;animation:ZFQarwzc_draw 9ms linear 1903ms forwards;}.ZFQarwzc_72{stroke-dasharray:53 55;stroke-dashoffset:54;animation:ZFQarwzc_draw 9ms linear 1913ms forwards;}.ZFQarwzc_73{stroke-dasharray:50 52;stroke-dashoffset:51;animation:ZFQarwzc_draw 9ms linear 1923ms forwards;}.ZFQarwzc_74{stroke-dasharray:48 50;stroke-dashoffset:49;animation:ZFQarwzc_draw 8ms linear 1932ms forwards;}.ZFQarwzc_75{stroke-dasharray:32 34;stroke-dashoffset:33;animation:ZFQarwzc_draw 5ms linear 1941ms forwards;}.ZFQarwzc_76{stroke-dasharray:31 33;stroke-dashoffset:32;animation:ZFQarwzc_draw 5ms linear 1947ms forwards;}.ZFQarwzc_77{stroke-dasharray:31 33;stroke-dashoffset:32;animation:ZFQarwzc_draw 5ms linear 1952ms forwards;}.ZFQarwzc_78{stroke-dasharray:31 33;stroke-dashoffset:32;animation:ZFQarwzc_draw 5ms linear 1958ms forwards;}.ZFQarwzc_79{stroke-dasharray:31 33;stroke-dashoffset:32;animation:ZFQarwzc_draw 5ms linear 1964ms forwards;}.ZFQarwzc_80{stroke-dasharray:31 33;stroke-dashoffset:32;animation:ZFQarwzc_draw 5ms linear 1969ms forwards;}.ZFQarwzc_81{stroke-dasharray:31 33;stroke-dashoffset:32;animation:ZFQarwzc_draw 5ms linear 1975ms forwards;}.ZFQarwzc_82{stroke-dasharray:31 33;stroke-dashoffset:32;animation:ZFQarwzc_draw 5ms linear 1981ms forwards;}.ZFQarwzc_83{stroke-dasharray:31 33;stroke-dashoffset:32;animation:ZFQarwzc_draw 5ms linear 1986ms forwards;}.ZFQarwzc_84{stroke-dasharray:45 47;stroke-dashoffset:46;animation:ZFQarwzc_draw 8ms linear 1992ms forwards;}.ZFQarwzc_85{stroke-dasharray:45 47;stroke-dashoffset:46;animation:ZFQarwzc_draw 8ms linear 2000ms forwards;}.ZFQarwzc_86{stroke-dasharray:45 47;stroke-dashoffset:46;animation:ZFQarwzc_draw 8ms linear 2008ms forwards;}.ZFQarwzc_87{stroke-dasharray:45 47;stroke-dashoffset:46;animation:ZFQarwzc_draw 8ms linear 2016ms forwards;}.ZFQarwzc_88{stroke-dasharray:45 47;stroke-dashoffset:46;animation:ZFQarwzc_draw 8ms linear 2025ms forwards;}.ZFQarwzc_89{stroke-dasharray:45 47;stroke-dashoffset:46;animation:ZFQarwzc_draw 8ms linear 2033ms forwards;}.ZFQarwzc_90{stroke-dasharray:45 47;stroke-dashoffset:46;animation:ZFQarwzc_draw 8ms linear 2041ms forwards;}.ZFQarwzc_91{stroke-dasharray:45 47;stroke-dashoffset:46;animation:ZFQarwzc_draw 8ms linear 2049ms forwards;}.ZFQarwzc_92{stroke-dasharray:45 47;stroke-dashoffset:46;animation:ZFQarwzc_draw 8ms linear 2057ms forwards;}.ZFQarwzc_93{stroke-dasharray:45 47;stroke-dashoffset:46;animation:ZFQarwzc_draw 8ms linear 2065ms forwards;}.ZFQarwzc_94{stroke-dasharray:45 47;stroke-dashoffset:46;animation:ZFQarwzc_draw 8ms linear 2073ms forwards;}.ZFQarwzc_95{stroke-dasharray:45 47;stroke-dashoffset:46;animation:ZFQarwzc_draw 8ms linear 2082ms forwards;}.ZFQarwzc_96{stroke-dasharray:45 47;stroke-dashoffset:46;animation:ZFQarwzc_draw 8ms linear 2090ms forwards;}.ZFQarwzc_97{stroke-dasharray:45 47;stroke-dashoffset:46;animation:ZFQarwzc_draw 8ms linear 2098ms forwards;}.ZFQarwzc_98{stroke-dasharray:181 183;stroke-dashoffset:182;animation:ZFQarwzc_draw 32ms linear 2106ms forwards;}.ZFQarwzc_99{stroke-dasharray:178 180;stroke-dashoffset:179;animation:ZFQarwzc_draw 31ms linear 2138ms forwards;}.ZFQarwzc_100{stroke-dasharray:175 177;stroke-dashoffset:176;animation:ZFQarwzc_draw 31ms linear 2170ms forwards;}.ZFQarwzc_101{stroke-dasharray:173 175;stroke-dashoffset:174;animation:ZFQarwzc_draw 30ms linear 2201ms forwards;}.ZFQarwzc_102{stroke-dasharray:171 173;stroke-dashoffset:172;animation:ZFQarwzc_draw 30ms linear 2232ms forwards;}.ZFQarwzc_103{stroke-dasharray:168 170;stroke-dashoffset:169;animation:ZFQarwzc_draw 29ms linear 2263ms forwards;}.ZFQarwzc_104{stroke-dasharray:165 167;stroke-dashoffset:166;animation:ZFQarwzc_draw 29ms linear 2293ms forwards;}.ZFQarwzc_105{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2322ms forwards;}.ZFQarwzc_106{stroke-dasharray:34 36;stroke-dashoffset:35;animation:ZFQarwzc_draw 6ms linear 2328ms forwards;}.ZFQarwzc_107{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2335ms forwards;}.ZFQarwzc_108{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2341ms forwards;}.ZFQarwzc_109{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2347ms forwards;}.ZFQarwzc_110{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2354ms forwards;}.ZFQarwzc_111{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2360ms forwards;}.ZFQarwzc_112{stroke-dasharray:121 123;stroke-dashoffset:122;animation:ZFQarwzc_draw 21ms linear 2366ms forwards;}.ZFQarwzc_113{stroke-dasharray:118 120;stroke-dashoffset:119;animation:ZFQarwzc_draw 21ms linear 2388ms forwards;}.ZFQarwzc_114{stroke-dasharray:116 118;stroke-dashoffset:117;animation:ZFQarwzc_draw 20ms linear 2409ms forwards;}.ZFQarwzc_115{stroke-dasharray:113 115;stroke-dashoffset:114;animation:ZFQarwzc_draw 20ms linear 2430ms forwards;}.ZFQarwzc_116{stroke-dasharray:111 113;stroke-dashoffset:112;animation:ZFQarwzc_draw 19ms linear 2450ms forwards;}.ZFQarwzc_117{stroke-dasharray:108 110;stroke-dashoffset:109;animation:ZFQarwzc_draw 19ms linear 2470ms forwards;}.ZFQarwzc_118{stroke-dasharray:106 108;stroke-dashoffset:107;animation:ZFQarwzc_draw 18ms linear 2489ms forwards;}.ZFQarwzc_119{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2508ms forwards;}.ZFQarwzc_120{stroke-dasharray:34 36;stroke-dashoffset:35;animation:ZFQarwzc_draw 6ms linear 2515ms forwards;}.ZFQarwzc_121{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2521ms forwards;}.ZFQarwzc_122{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2527ms forwards;}.ZFQarwzc_123{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2534ms forwards;}.ZFQarwzc_124{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2540ms forwards;}.ZFQarwzc_125{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2546ms forwards;}.ZFQarwzc_126{stroke-dasharray:181 183;stroke-dashoffset:182;animation:ZFQarwzc_draw 32ms linear 2553ms forwards;}.ZFQarwzc_127{stroke-dasharray:178 180;stroke-dashoffset:179;animation:ZFQarwzc_draw 31ms linear 2585ms forwards;}.ZFQarwzc_128{stroke-dasharray:175 177;stroke-dashoffset:176;animation:ZFQarwzc_draw 31ms linear 2617ms forwards;}.ZFQarwzc_129{stroke-dasharray:173 175;stroke-dashoffset:174;animation:ZFQarwzc_draw 30ms linear 2648ms forwards;}.ZFQarwzc_130{stroke-dasharray:171 173;stroke-dashoffset:172;animation:ZFQarwzc_draw 30ms linear 2679ms forwards;}.ZFQarwzc_131{stroke-dasharray:168 170;stroke-dashoffset:169;animation:ZFQarwzc_draw 29ms linear 2709ms forwards;}.ZFQarwzc_132{stroke-dasharray:165 167;stroke-dashoffset:166;animation:ZFQarwzc_draw 29ms linear 2739ms forwards;}.ZFQarwzc_133{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2769ms forwards;}.ZFQarwzc_134{stroke-dasharray:34 36;stroke-dashoffset:35;animation:ZFQarwzc_draw 6ms linear 2775ms forwards;}.ZFQarwzc_135{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2781ms forwards;}.ZFQarwzc_136{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2788ms forwards;}.ZFQarwzc_137{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2794ms forwards;}.ZFQarwzc_138{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2800ms forwards;}.ZFQarwzc_139{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2807ms forwards;}.ZFQarwzc_140{stroke-dasharray:121 123;stroke-dashoffset:122;animation:ZFQarwzc_draw 21ms linear 2813ms forwards;}.ZFQarwzc_141{stroke-dasharray:118 120;stroke-dashoffset:119;animation:ZFQarwzc_draw 21ms linear 2835ms forwards;}.ZFQarwzc_142{stroke-dasharray:116 118;stroke-dashoffset:117;animation:ZFQarwzc_draw 20ms linear 2856ms forwards;}.ZFQarwzc_143{stroke-dasharray:113 115;stroke-dashoffset:114;animation:ZFQarwzc_draw 20ms linear 2877ms forwards;}.ZFQarwzc_144{stroke-dasharray:111 113;stroke-dashoffset:112;animation:ZFQarwzc_draw 19ms linear 2897ms forwards;}.ZFQarwzc_145{stroke-dasharray:108 110;stroke-dashoffset:109;animation:ZFQarwzc_draw 19ms linear 2917ms forwards;}.ZFQarwzc_146{stroke-dasharray:106 108;stroke-dashoffset:107;animation:ZFQarwzc_draw 18ms linear 2936ms forwards;}.ZFQarwzc_147{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2955ms forwards;}.ZFQarwzc_148{stroke-dasharray:34 36;stroke-dashoffset:35;animation:ZFQarwzc_draw 6ms linear 2961ms forwards;}.ZFQarwzc_149{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2968ms forwards;}.ZFQarwzc_150{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2974ms forwards;}.ZFQarwzc_151{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2980ms forwards;}.ZFQarwzc_152{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2987ms forwards;}.ZFQarwzc_153{stroke-dasharray:35 37;stroke-dashoffset:36;animation:ZFQarwzc_draw 6ms linear 2993ms forwards;}@keyframes ZFQarwzc_draw{100%{stroke-dashoffset:0;}}@keyframes ZFQarwzc_fade{0%{stroke-opacity:1;}94.44444444444444%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>

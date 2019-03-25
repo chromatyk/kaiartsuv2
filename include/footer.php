@@ -30,25 +30,25 @@
           </div>
         </div>
         <div class="row ">
-          <div class="col-xs-12 col-lg-2 moreButton">
+          <div class="col-xs-12 col-lg-2 buttonMore">
             <a href="#" title="facebook" class=""><i class="fab fa-facebook"></i></a>
           </div>
-          <div class="col-xs-12 col-lg-2 moreButton">
+          <div class="col-xs-12 col-lg-2 buttonMore">
             <a href="#" title="linkedin"><i class="fab fa-linkedin"></i></a>
           </div>
-          <div class="col-xs-12 col-lg-2 moreButton">
+          <div class="col-xs-12 col-lg-2 buttonMore">
             <a href="#" title="twitter"><i class="fab fa-twitter"></i></a>
           </div>
         </div>
       </div>
   </div>
   <hr>
-  <div class="row">
-    <div class="col-xs-6 col-lg-2 linkFooter moreButton">
-  <a href="../politique.php" title="Politique de confidentialité">Politique de confidentialité</a>
+  <div class="row buttonMore">
+    <div class="col-xs-6 col-lg-2 linkFooter buttonMore">
+  <a class="buttonMore" href="../politique.php" title="Politique de confidentialité">Politique de confidentialité</a>
     </div>
-    <div class="col-xs-6 col-lg-2 linkFooter moreButton">
-  <a href="../mentions.php" title="Mentions légales">Mentions légales</a>
+    <div class="col-xs-6 col-lg-2 linkFooter buttonMore">
+  <a class="buttonMore" href="../mentions.php" title="Mentions légales">Mentions légales</a>
     </div>
   </div>
   <div class="row">

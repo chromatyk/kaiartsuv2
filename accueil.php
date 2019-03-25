@@ -55,12 +55,8 @@
         <main id="contenuPage">
             <!-- Menu Principal - Fin -->
             <section id="kaiartsu" class="sectionScroll panel home" data-section-name="Kaiartsu">
-                <div class="container-fluid">
-                    <div class="circleBlack sunset"></div>
-                    <div class="circleBlack coolice"></div>
-                    <div class="circleBlack timber"></div>
-                    <div class="circleBlack pig"></div>
-                    <div class="circleBlack friday"></div>
+
+              <div class="container-fluid">
                     <div class="row">
                         <div class="offset-3">
                             <h1>
@@ -77,6 +73,10 @@
             </section>
             <!-- Qui sommes nous - Début -->
             <section id="whoAreWe" class="sectionScroll panel panel1" data-section-name="L'agence">
+              <!--?xml version="1.0" encoding="utf-8"?-->
+              <?php
+              include_once 'assets/svg/kaiartsuSVG.php';
+              ?>
                 <div class="container">
                     <div class="row dispear">
                         <div class="col-8 offset-1">
@@ -105,7 +105,7 @@
                         </div>
                     </div>
                     <div class="row dispear">
-                        <div class="moreButton">
+                        <div class="buttonMore">
                             <a href="agency.php"><button class="raise">En savoir plus</button></a>
                         </div>
                     </div>
@@ -113,12 +113,17 @@
             </section>
             <!-- Qui sommes nous - Fin -->
             <section id="webDev" class="sectionScroll panel panel2" data-section-name="Web">
+            <?php
+            include_once 'assets/svg/puceau.php';
+            ?>
                 <div class="container">
                     <div class="row dispear">
                         <div class="col-10 offset-1">
-                            <h2>
+                          <div class="wrapper">
+                            <h2 class="glitch">
                                 Le développement web par <span class="h2ColorDev">Kaiartsu.</span>
                             </h2>
+                          </div>
                         </div>
                     </div>
                     <div class="row dispear">
@@ -139,13 +144,16 @@
                         </div>
                     </div>
                     <div class="row dispear">
-                        <div class="moreButton">
+                        <div class="buttonMore">
                             <a href="webDev.php"><button class="raise">En savoir plus</button></a>
                         </div>
                     </div>
                 </div>
             </section>
             <section id="webDesign" class="sectionScroll panel panel3" data-section-name="Graphisme">
+              <?php
+              include_once 'assets/svg/bgDesign.php';
+              ?>
                 <div class="container">
                     <div class="row dispear">
                         <div class="col-9 offset-1">
@@ -171,7 +179,7 @@
                         </div>
                     </div>
                     <div class="row dispear">
-                        <div class="moreButton">
+                        <div class="buttonMore">
                             <a href="graphisme.php"><button class="raise">En savoir plus</button></a>
                         </div>
                     </div>
