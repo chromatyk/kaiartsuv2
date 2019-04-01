@@ -1,9 +1,7 @@
 // Si la page fais plus de 800px de largeur
 
 if (window.matchMedia("(min-width: 800px)").matches) {
-  $('#navUl').css('display','none');
     $('#burger').on('click', function (e) {
-      $('#navUl').css('display','block');
 
         e.preventDefault();
         var filterVal = 'blur(10px)';
