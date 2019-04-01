@@ -144,17 +144,15 @@
                                           <i class="fa fa-bars"></i>
                                       </a>
                                       <div class="mc-footer">
-                                          <h4>
-                                              Social
-                                          </h4>
+
                                           <div class="row">
-                                            <div class="col-3">
+                                            <div class="socialLink col-4">
                                               <a class="fab fa-facebook-f"></a>
                                             </div>
-                                            <div class="col-3">
+                                            <div class="socialLink col-4">
                                               <a class="fab fa-twitter"></a>
                                             </div>
-                                            <div class="col-3">
+                                            <div class="socialLink col-4">
                                               <a class="fab fa-linkedin"></a>
                                             </div>
                                           </div>
@@ -182,17 +180,14 @@
                                           <i class="fa fa-bars"></i>
                                       </a>
                                       <div class="mc-footer">
-                                          <h4>
-                                              Social
-                                          </h4>
                                           <div class="row">
-                                            <div class="col-1">
+                                            <div class="col-4">
                                               <a class="fab fa-facebook-f"></a>
                                             </div>
-                                            <div class="col-1">
+                                            <div class="col-4">
                                               <a class="fab fa-twitter"></a>
                                             </div>
-                                            <div class="col-1">
+                                            <div class="col-4">
                                               <a class="fab fa-linkedin"></a>
                                             </div>
                                           </div>

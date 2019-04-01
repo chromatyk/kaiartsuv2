@@ -858,18 +858,7 @@ footer i{
   transition: all 0.3s;
 }
 .material-card .mc-footer h4 {
-  position: absolute;
-  top: 200px;
-  left: 30px;
-  padding: 0;
-  margin: 0;
-  font-size: 16px;
-  font-weight: 700;
-  -webkit-transition: all 1.4s;
-  -moz-transition: all 1.4s;
-  -ms-transition: all 1.4s;
-  -o-transition: all 1.4s;
-  transition: all 1.4s;
+color:white;
 }
 .material-card .mc-footer a {
   display: block;
@@ -884,6 +873,7 @@ footer i{
   line-height: 52px;
   text-decoration: none;
   top: 200px;
+  text-align: end;
 }
 .material-card .mc-footer a:nth-child(1) {
   -webkit-transition: all 0.5s;
@@ -978,6 +968,9 @@ footer i{
   height: 82px;
   padding-top: 15px;
   padding-left: 25px;
+
+
+  box-shadow: 5px 5px -10px black;
 }
 .material-card.mc-active .mc-footer a {
   top: 0;
@@ -987,6 +980,7 @@ footer i{
 }
 .material-card.Red h2 {
   background-color: #820219;
+  box-shadow: 10px 5px 5px black;
 }
 .material-card.Red h2:after {
   border-top-color: #F44336;
@@ -1014,15 +1008,17 @@ footer i{
 }
 .material-card.Red .mc-btn-action {
   background-color: #F44336;
+  box-shadow: 2px 5px 5px black;
 }
 .material-card.Red .mc-btn-action:hover {
   background-color: #B71C1C;
 }
 .material-card.Red .mc-footer h4 {
-  color: #B71C1C;
+  color: white;
+
 }
 .material-card.Red .mc-footer a {
-  background-color: #B71C1C;
+  background-color: transparent;
 }
 .material-card.Red.mc-active .mc-content {
   background-color: #e0d0ba;
@@ -1083,6 +1079,7 @@ footer i{
 }
 .material-card.Pink h2 {
   background-color: #4867D9;
+  box-shadow: 10px 5px 5px black;
 }
 .material-card.Pink h2:after {
   border-top-color: #8D9FDF;
@@ -1110,15 +1107,17 @@ footer i{
 }
 .material-card.Pink .mc-btn-action {
   background-color: #8D9FDF;
+  box-shadow: 2px 5px 5px black;
 }
 .material-card.Pink .mc-btn-action:hover {
   background-color: #4867D9;
 }
 .material-card.Pink .mc-footer h4 {
-  color: #4867D9;
+  color: white;
+top:20px;
 }
 .material-card.Pink .mc-footer a {
-  background-color: #4867D9;
+  background-color: transparent;
 }
 .material-card.Pink.mc-active .mc-content {
   background-color: #e0d0ba;
