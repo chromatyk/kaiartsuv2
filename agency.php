@@ -42,7 +42,7 @@
                   <a href="#" id="burger"> <span></span> <span></span> <span></span> </a>
 
                   <nav id="nav-main">
-                      <ul>
+                      <ul id="navUl">
                           <li><a href="accueil.php">Accueil</a></li>
                           <li><a href="agency.php">L'agence</a></li>
                           <li><a href="webDev.php">Développement web</a></li>

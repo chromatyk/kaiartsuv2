@@ -1,12 +1,13 @@
 // Si la page fais plus de 800px de largeur
 
 if (window.matchMedia("(min-width: 800px)").matches) {
-  // Menu burger
+  $('#navUl').css('display','none');
     $('#burger').on('click', function (e) {
+      $('#navUl').css('display','block');
 
         e.preventDefault();
         var filterVal = 'blur(10px)';
-        $('#nav-main, body, #burger').toggleClass('abrido');
+        $('#nav-main, body, #burger').toggleClass('abrido').removeClass('test');
         $('main').toggleClass('mainBlur');
 
         if ($('#header-main').hasClass('arre')) { $('#header-main').removeClass('arre').addClass('arreno'); }
