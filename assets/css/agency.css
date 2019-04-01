@@ -122,10 +122,12 @@ html{
 #whoAreWe{
     color: #fff;
     min-height: 100vh;
+    margin-top: 50px;
 }
 
-#webDev{
+#ourTeam{
     color: #fff;
+    height: 100vh;
 }
 
 #webDesign{
@@ -156,6 +158,7 @@ main h2{
     font-family: 'Montserrat', sans-serif;
     font-size: 5vw;
     margin-bottom: 40px;
+    text-align: center;
 }
 #slide1{
     background: url(../images/bg1.jpg) center 0 no-repeat fixed;
@@ -226,7 +229,12 @@ main h3{
     color: #BD8B53;
     font-size: 20px;
     font-family: 'EB Garamond', serif;
-    margin-left: 4vw;
+}
+#h3Team{
+    color: #BD8B53;
+    font-size: 20px;
+    font-family: 'EB Garamond', serif;
+    text-align: center;
 }
 
 .layer{
@@ -557,6 +565,7 @@ main{
 
 #kaiartsu{
     height: 100vh;
+    background-color: #ffffff;
 }
 /* footer */
 .parallax {
@@ -837,6 +846,7 @@ footer i{
   -ms-transition: all 1.2s;
   -o-transition: all 1.2s;
   transition: all 1.2s;
+  color:#202020;
 }
 .material-card .mc-footer {
   height: 0;
@@ -976,7 +986,7 @@ footer i{
   top: -32px;
 }
 .material-card.Red h2 {
-  background-color: #D9042B;
+  background-color: #820219;
 }
 .material-card.Red h2:after {
   border-top-color: #F44336;
@@ -1015,10 +1025,10 @@ footer i{
   background-color: #B71C1C;
 }
 .material-card.Red.mc-active .mc-content {
-  background-color: #FFEBEE;
+  background-color: #e0d0ba;
 }
 .material-card.Red.mc-active .mc-footer {
-  background-color: #FFCDD2;
+  background-color: #820219;
 }
 .material-card.Red.mc-active .mc-btn-action {
   border-color: #FFEBEE;
@@ -1093,8 +1103,8 @@ footer i{
   border-left-color: transparent;
 }
 .material-card.Pink.mc-active h2:after {
-  border-top-color: #4867D9;
-  border-right-color: #4867D9;
+  border-top-color: #8D9FDF;
+  border-right-color: #8D9FDF;
   border-bottom-color: transparent;
   border-left-color: transparent;
 }
@@ -1111,10 +1121,34 @@ footer i{
   background-color: #4867D9;
 }
 .material-card.Pink.mc-active .mc-content {
-  background-color: #FCE4EC;
+  background-color: #e0d0ba;
 }
-.material-card.Pink.mc-active .mc-footer {
-  background-color: #394059;
+.material-card.Pink .mc-footer {
+  background-color: #4867D9;
+}
+.material-card.Pink .mc-footer:after {
+  border-top-color: #8D9FDF;
+  border-right-color: #8D9FDF;
+  border-bottom-color: transparent;
+  border-left-color: transparent;
+}
+.material-card.Pink .mc-footer:before {
+  border-top-color: transparent;
+  border-right-color: #4867D9;
+  border-bottom-color: #4867D9;
+  border-left-color: transparent;
+}
+.material-card.Pink.mc-active .mc-footer:before {
+  border-top-color: transparent;
+  border-right-color: #8D9FDF;
+  border-bottom-color: #8D9FDF;
+  border-left-color: transparent;
+}
+.material-card.Pink.mc-active .mc-footer:after {
+  border-top-color: #8D9FDF;
+  border-right-color: #8D9FDF;
+  border-bottom-color: transparent;
+  border-left-color: transparent;
 }
 .material-card.Pink.mc-active .mc-btn-action {
   border-color: #FCE4EC;
