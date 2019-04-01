@@ -121,13 +121,13 @@ html{
 }
 #whoAreWe{
     color: #fff;
-    min-height: 100vh;
+    min-height: 80vh;
     margin-top: 50px;
 }
 
 #ourTeam{
     color: #fff;
-    height: 100vh;
+    min-height: 110vh;
 }
 
 #webDesign{
@@ -161,7 +161,8 @@ main h2{
     text-align: center;
 }
 #slide1{
-    background: url(../images/bg1.jpg) center 0 no-repeat fixed;
+    background: url(../images/Bural.jpg) 200px -250px no-repeat fixed;
+    background-size: cover;
 }
 #fadeSite{
     display: block;
@@ -1967,4 +1968,12 @@ top:20px;
 }
 .material-card.Blue-Grey.mc-active .mc-btn-action {
   border-color: #ECEFF1;
+}
+.teamCard{
+  margin-top: 50px;
+}
+.hr{
+  border-color: white;
+  border-width: 5px;
+  width: 80%;
 }

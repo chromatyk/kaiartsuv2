@@ -103,6 +103,7 @@
                         </div>
                       </div>
                   </section>
+                  <hr class="hr"/>
                   <!-- Qui sommes nous - Début -->
 
                   <!-- Qui sommes nous - Fin -->
@@ -122,7 +123,7 @@
                                 </h3>
                             </div>
                         </div>
-                          <div class="row active-with-click">
+                          <div class="teamCard row active-with-click">
                               <div class="col-md-4 col-sm-6 col-xs-12 col-xl-6">
                                   <article class="material-card Red">
                                       <h2>
@@ -134,7 +135,7 @@
                                       </h2>
                                       <div class="mc-content">
                                           <div class="img-container">
-                                              <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-christopher-walken.jpg">
+                                              <img class="img-responsive" src="assets/images/wankulPierre.png">
                                           </div>
                                           <div class="mc-description">
                                               L'esprit calme de chez Kaiartsu, réfléchi et sobre sont ses mots d'ordre.
@@ -170,7 +171,7 @@
                                       </h2>
                                       <div class="mc-content">
                                           <div class="img-container">
-                                              <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-sean-penn.jpg">
+                                              <img class="img-responsive" src="assets/images/wankulNico.png">
                                           </div>
                                           <div class="mc-description">
                                               L'esprit provocateur de chez Kaiartsu, spontané et coloré sont ses mots d'ordre.
@@ -198,6 +199,7 @@
                       </section>
 
                   </section>
+                  <hr class="hr"/>
                   <section id="whoAreWe" class="paroller-example2 mega align-center">
                       <div class="container-fluid">
                           <div class="row">
