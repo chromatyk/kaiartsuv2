@@ -931,3 +931,24 @@ top:20px;
   border-width: 5px;
   width: 80%;
 }
+.imgValeur{
+  border-style: solid;
+  border-color: white;
+  height: 250px;
+}
+.textValeur{
+  border-style: solid;
+  border-color: white;
+  height: 250px;
+}
+#h3Values{
+  padding-left: 15px;
+  margin-left: 8.33333%;
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+.lineValues{
+  margin-top: 25px;
+}
