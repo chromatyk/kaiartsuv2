@@ -186,7 +186,7 @@
     border-color: white;
     margin-top: 30px;
     text-align: center;
-    padding: 10px;  
+    padding: 10px;
     border-width: 3px 4px 3px 5px;
     border-radius:95% 4% 92% 5%/4% 95% 6% 95%;
     transform: rotate(2deg);
@@ -218,7 +218,7 @@
     text-align: center;
 }
 
-.contact2{   
+.contact2{
     background-image: url("https://3.bp.blogspot.com/-piZWCW2uUbg/W2fPXxkWZgI/AAAAAAAAOu0/eydmMjTIqcwLMHEEr2H7imqoRTxMw4o9QCLcBGAs/s1600/among_trees_night_dribbble.png");
     background-repeat: no-repeat;
     height: 100%;
@@ -229,15 +229,15 @@
 }
 .overlay {
     position: absolute;
-    top: 0; 
-    left: 0; 
-    right:0; 
-    bottom:0; 
-    display: none; 
-    background-color: rgba(0,0,0,0.5); 
+    top: 0;
+    left: 0;
+    right:0;
+    bottom:0;
+    display: none;
+    background-color: rgba(0,0,0,0.5);
 }
-.contact2:hover .overlay { 
-    display: block; 
+.contact2:hover .overlay {
+    display: block;
 }
 
 .overlay .contactButton{
@@ -767,22 +767,85 @@ footer i{
 div#stripped {
     max-width: 750px;
     background: #000;
-    background-image: url(https://3.bp.blogspot.com/-piZWCW2uUbg/W2fPXxkWZgI/AAAAAAAAOu0/eydmMjTIqcwLMHEEr2H7imqoRTxMw4o9QCLcBGAs/s1600/among_trees_night_dribbble.png);
+    background-image: url("../images/mockUp/multidevice.jpg");
     background-size: cover;
     font-size: 0;
 }
 div#stripped svg {
-    background: #000;
+    background: #202020;
     mix-blend-mode: darken;
 }
 
 div#stripped svg polyline {
     fill: none;
-    stroke: #2e7aab;
+    stroke: white;
     stroke-width: 200;
     stroke-dasharray: 20000;
     stroke-dashoffset: 20000;
     animation: scribble 3s linear forwards;
+}
+
+div#stripped2 {
+    max-width: 750px;
+    background: #000;
+    background-image: url("../images/mockUp/mug.jpg");
+    background-size: cover;
+    font-size: 0;
+}
+div#stripped2 svg {
+    background: #202020;
+    mix-blend-mode: darken;
+}
+
+div#stripped2 svg polyline {
+  fill: none;
+  stroke: white;
+  stroke-width: 200;
+  stroke-dasharray: 20000;
+  stroke-dashoffset: 20000;
+  animation: scribble 3s linear forwards;
+}
+
+div#stripped3 {
+    max-width: 750px;
+    background: #000;
+    background-image: url("../images/mockUp/carteVistiteKaiartsu.jpg");
+    background-size: cover;
+    font-size: 0;
+}
+div#stripped3 svg {
+    background: #202020;
+    mix-blend-mode: darken;
+}
+
+div#stripped3 svg polyline {
+  fill: none;
+  stroke: white;
+  stroke-width: 200;
+  stroke-dasharray: 20000;
+  stroke-dashoffset: 20000;
+  animation: scribble 3s linear forwards;
+}
+
+div#stripped4 {
+    max-width: 750px;
+    background: #000;
+    background-image: url(https://3.bp.blogspot.com/-piZWCW2uUbg/W2fPXxkWZgI/AAAAAAAAOu0/eydmMjTIqcwLMHEEr2H7imqoRTxMw4o9QCLcBGAs/s1600/among_trees_night_dribbble.png);
+    background-size: cover;
+    font-size: 0;
+}
+div#stripped4 svg {
+    background: #202020;
+    mix-blend-mode: darken;
+}
+
+div#stripped4 svg polyline {
+  fill: none;
+  stroke: white;
+  stroke-width: 200;
+  stroke-dasharray: 20000;
+  stroke-dashoffset: 20000;
+  animation: scribble 3s linear forwards;
 }
 /* Media Queries */
 
@@ -954,13 +1017,13 @@ div#stripped svg polyline {
 /* More slides? Add here more rules */
 
 
-/* YOU'RE THE DESIGNER! 
+/* YOU'RE THE DESIGNER!
    ____________________
    All above was mainly to get it working :)
    CSSgal CUSTOM STYLES / OVERRIDES HERE: */
 
 .CSSgal{
-    color: #fff;	
+    color: #fff;
     text-align: center;
 }
 .CSSgal .slider h2 {
