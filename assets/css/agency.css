@@ -124,6 +124,11 @@ html{
     min-height: 80vh;
     margin-top: 50px;
 }
+#ourValues{
+    color: #fff;
+    min-height: 80vh;
+    margin-top: 50px;
+}
 
 #ourTeam{
     color: #fff;
@@ -145,7 +150,7 @@ html{
 }
 
 
-main p{
+#whoAreWe p{
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     line-height: 18px;
@@ -157,7 +162,7 @@ main p{
 main h2{
     font-family: 'Montserrat', sans-serif;
     font-size: 5vw;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
     text-align: center;
 }
 #slide1{
@@ -455,13 +460,14 @@ main{
     background-color: #ffffff;
 }
 /* footer */
-
 footer{
     text-align: center;
     padding-top:20px;
     color:white;
 }
-
+.buttonMore{
+  margin: auto;
+}
 footer a{
     color:#2e7aab;
 }
@@ -499,6 +505,9 @@ footer i{
     .brandMobile img{
         display: block;
         width: 100px;
+    }
+    #slide1{
+      display: none;
     }
 }
 
@@ -942,8 +951,6 @@ top:20px;
   height: 250px;
 }
 #h3Values{
-  padding-left: 15px;
-  margin-left: 8.33333%;
   text-align: center;
 }
 h4{
@@ -951,4 +958,30 @@ h4{
 }
 .lineValues{
   margin-top: 25px;
+}
+.paratextValues{
+  font-family: 'Montserrat', sans-serif;
+      font-size: 16px;
+      line-height: 18px;
+      text-align: justify;
+      text-justify: inter-word;
+      color: white;
+      margin-top: 10px;
+}
+.imgValues{
+  width:100%;
+  display: block;
+  margin: auto;
+}
+.explicationsCategoriesValues{
+  margin-top: 20px;
+  padding-bottom: 80px;
+}
+
+.globalsCategoriesValues{
+  margin-top: 40px;
+}
+.textValues{
+  font-size: 2em;
+  padding: 0;
 }
