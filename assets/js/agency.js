@@ -24,7 +24,7 @@ if (window.matchMedia("(min-width: 800px)").matches) {
         $(".footer").delay(1300).fadeIn(200);
         //Script après FadeIn
         setTimeout(function () {
-          $('.paroller-example').paroller({
+          /*$('.paroller-example').paroller({
             factor: -0.2,
             type: 'foreground',
             direction: 'horizontal'
@@ -33,7 +33,7 @@ if (window.matchMedia("(min-width: 800px)").matches) {
             factor: 1,
             type: 'foreground',
             direction: 'horizontal'
-          });
+          });*/
           $('#first_background').parallax("50%", 0.8);
         }, 1310);
     })

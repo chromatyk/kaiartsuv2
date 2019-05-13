@@ -73,7 +73,7 @@
       <section id="whoAreWe" >
         <div class="container-fluid">
           <div class="row">
-            <div class="col-6 paroller-example2 mega align-center">
+            <div class="col-xs-12 col-sm-12 col-lg-6 paroller-example2 mega align-center">
               <div class="row">
                 <div class="col-11">
                   <h2>
@@ -106,7 +106,7 @@
           <div class="row">
             <div class="col-12">
               <h2>
-                L'équipe de <span class="h2Color">Kaiartsu</span>
+                L'équipe de <br /> <span class="h2Color">Kaiartsu</span>
               </h2>
             </div>
           </div>
@@ -124,7 +124,7 @@
                   <span>Pierre Schuvey</span>
                   <strong>
                     <i class="fa fa-fw fa-star"></i>
-                    Chromatyk
+                    Développeur Web
                   </strong>
                 </h2>
                 <div class="mc-content">
@@ -135,9 +135,6 @@
                     L'esprit calme de chez Kaiartsu, réfléchi et sobre sont ses mots d'ordre.
                   </div>
                 </div>
-                <a class="mc-btn-action">
-                  <i class="fa fa-bars"></i>
-                </a>
                 <div class="mc-footer">
 
                   <div class="row">
@@ -160,7 +157,7 @@
                   <span>Nicolas Pretre</span>
                   <strong>
                     <i class="fa fa-fw fa-star"></i>
-                    Stampede
+                    Graphiste
                   </strong>
                 </h2>
                 <div class="mc-content">
@@ -171,9 +168,6 @@
                     L'esprit provocateur de chez Kaiartsu, spontané et coloré sont ses mots d'ordre.
                   </div>
                 </div>
-                <a class="mc-btn-action">
-                  <i class="fa fa-bars"></i>
-                </a>
                 <div class="mc-footer">
                   <div class="row">
                     <div class="col-4">
@@ -194,11 +188,10 @@
 
       </section>
       <hr class="hr"/>
-      <section id="whoAreWe" class="paroller-example2 mega align-center">
+      <section id="ourValues" class="">
         <div class="container-fluid">
-
           <div class="row">
-            <div class="col-11 offset-1">
+            <div class="col-12">
               <h2>
                 Les promesses de <br /> <span class="h2Color">Kaiartsu.</span>
               </h2>
@@ -207,57 +200,95 @@
           <div class="row">
             <div class="col-12">
               <h3 id="h3Values">
-                - Sécurité, Proximité, Fiabilité, Convivalité -
+                - Créez votre projet en toute sérénité -
               </h3>
             </div>
           </div>
-          <div class="row lineValues">
-            <div class="col-4 offset-2">
-              <div class="row">
-                <div class="col-6 imgValeur">
+          <div class="row">
+            <div class="paratextValues col-xs-12 col-lg-4 offset-lg-2">
+              <p class="paratextValues">Kaiartsu est une agence différente  : à la fois agence web et agence de graphisme. Ces connaissances nous permettent de réaliser des sites web, et des créations graphiques afin de mieux vous développer. Une seule agence, pour une communication, une vision, des délais et un coût maîtrisé.</p>
+            </div>
+            <div class="paratextValues col-xs-12 col-lg-4">
+              <p class="paratextValues">L'agence est composée d'un développeur et d'un graphiste vous accompagnant avant, pendant et après la création de votre projet. Nous avons la force de savoir écouter, proposer, comprendre et optimiser vos projets afin de rendre l'expérience des utilisateurs agréable sur tous les supports.</p>
+            </div>
+          </div>
+          <div class="row globalsCategoriesValues">
+            <div class="col-xs-12 col-sm-6 col-lg-3">
+              <div class="row categoriesValues">
+                <div class="col-3">
+                  <img class="imgValues" src="assets/images/cadena.png"/>
                 </div>
-                <div class="col-6 textValeur">
+                <div class="col-9 textValues">
+                  <p class="">Sécurité</p>
+                </div>
+              </div>
+              <div class="row explicationsCategoriesValues">
+                <div class="col-12">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 </div>
               </div>
             </div>
-            <div class="col-4 offset-1">
-              <div class="row">
-                <div class="col-6 imgValeur">
+            <div class="col-xs-12 col-sm-6 col-lg-3">
+              <div class="row categoriesValues">
+                <div class="col-3">
+                  <img class="imgValues" src="assets/images/proximite.png"/>
                 </div>
-                <div class="col-6 textValeur">
+                <div class="col-9 textValues">
+                  <p class="">Proximité</p>
+                </div>
+              </div>
+              <div class="row explicationsCategoriesValues">
+                <div class="col-12">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-lg-3">
+              <div class="row categoriesValues">
+                <div class="col-3">
+                  <img class="imgValues" src="assets/images/bulles.png"/>
+                </div>
+                <div class="col-9 textValues">
+                  <p class="">Fiabilité</p>
+                </div>
+              </div>
+              <div class="row explicationsCategoriesValues">
+                <div class="col-12">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-lg-3">
+              <div class="row categoriesValues">
+                <div class="col-3">
+                  <img class="imgValues" src="assets/images/ami.png"/>
+                </div>
+                <div class="col-9 textValues">
+                  <p class="">Convivialité</p>
+                </div>
+              </div>
+              <div class="row explicationsCategoriesValues">
+                <div class="col-12">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 </div>
               </div>
             </div>
           </div>
-
-          <div class="row lineValues">
-            <div class="col-4 offset-2">
-              <div class="row">
-                <div class="col-6 imgValeur">
-                </div>
-                <div class="col-6 textValeur">
-                </div>
-              </div>
-            </div>
-            <div class="col-4 offset-1">
-              <div class="row">
-                <div class="col-6 imgValeur">
-                </div>
-                <div class="col-6 textValeur">
-                </div>
-              </div>
-            </div>
-          </div>
-            </div>
-          </section>
-        </main>
+        </div>
       </div>
-      <?php
-      include(utf8_encode('include/footer.php'));
-      ?>
-      <script src="assets/js/agency.js" type="text/javascript"></script>
-      <script src="assets/lib/bootstrap/js/bootstrap.js" type="text/javascript"></script>
-      <script src="assets/js/jquery.paroller.js" type="text/javascript"></script>
-      <script src="assets/js/parallax.js" type="text/javascript"></script>
-    </body>
-    </html>
+    </section>
+  </main>
+</div>
+<?php
+include(utf8_encode('include/footer.php'));
+?>
+<script src="assets/js/agency.js" type="text/javascript"></script>
+<script src="assets/lib/bootstrap/js/bootstrap.js" type="text/javascript"></script>
+<script src="assets/js/jquery.paroller.js" type="text/javascript"></script>
+<script src="assets/js/parallax.js" type="text/javascript"></script>
+<script src="jquery.fittext.js"></script>
+<script>
+  jQuery("#responsive_headline").fitText();
+</script>
+</body>
+</html>
