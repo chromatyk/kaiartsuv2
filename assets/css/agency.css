@@ -981,7 +981,11 @@ h4{
 .globalsCategoriesValues{
   margin-top: 40px;
 }
-.textValues{
+.titleValues{
   font-size: 2em;
   padding: 0;
+  vertical-align: middle;
+}
+.textValues{
+  text-align: justify;
 }
