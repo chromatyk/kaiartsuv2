@@ -1,247 +1,324 @@
 <!doctype html>
 <html lang="fr">
-    <head>
-        <!--        <base href="https://www.kaiartsu.fr" />-->
-        <!--        <meta name="generator" content="Jekyll v3.8.5" />-->
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="Kaiartsu est une agence web basée en Hauts-de-France. Spécialisée dans le développement de site web et d'identité visuelle." />
-        <meta name="publisher" content="Kaiartsu">
-        <meta name="author" content="Kaiartsu" />
-        <meta name="reply-to" content="contact@kaiartsu.fr">
-        <meta name="keywords" content="kaiartsu ; agence web hauts-de-france ; Oise ; 60 ; 02 ; 80 ; création site internet ; référencement ; webdesign ; création d'identité visuelle à Noyon ; agence digitale ; graphiste ; e-marketing ; applications mobiles" />
-        <title>Kaiartsu | L'agence web symbiotique | Création de sites web | Identité visuelle | Hauts-de-France, Noyon</title>
-        <!-- Link CSS -->
-        <link href="assets/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
-        <link href="assets/css/animate.css" rel="stylesheet" type="text/css"/>
-        <link href="assets/css/graphisme.css" rel="stylesheet" type="text/css"/>
-        <link href="assets/css/button.css" rel="stylesheet" type="text/css"/>
-        <link href="assets/css/footer.css" rel="stylesheet" type="text/css"/>
-        <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
-        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-        <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
-    </head>
-    <body>
-        <div id="contenuLoader" class="container-fluid">
-            <div class="Loader" data-text="Loading">
-                <div class="progress-container">
-                    <div class="progress">
-                        <div class="progress-bar">
-                            <div class="progress-shadow"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+<head>
+  <!--        <base href="https://www.kaiartsu.fr" />-->
+  <!--        <meta name="generator" content="Jekyll v3.8.5" />-->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="description" content="Kaiartsu est une agence web basée en Hauts-de-France. Spécialisée dans le développement de site web et d'identité visuelle." />
+  <meta name="publisher" content="Kaiartsu">
+  <meta name="author" content="Kaiartsu" />
+  <meta name="reply-to" content="contact@kaiartsu.fr">
+  <meta name="keywords" content="kaiartsu ; agence web hauts-de-france ; Oise ; 60 ; 02 ; 80 ; création site internet ; référencement ; webdesign ; création d'identité visuelle à Noyon ; agence digitale ; graphiste ; e-marketing ; applications mobiles" />
+  <title>Kaiartsu | L'agence web symbiotique | Création de sites web | Identité visuelle | Hauts-de-France, Noyon</title>
+  <!-- Link CSS -->
+  <link href="assets/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+  <link href="assets/css/animate.css" rel="stylesheet" type="text/css"/>
+  <link href="assets/css/graphisme.css" rel="stylesheet" type="text/css"/>
+  <link href="assets/css/button.css" rel="stylesheet" type="text/css"/>
+  <link href="assets/css/footer.css" rel="stylesheet" type="text/css"/>
+  <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+</head>
+<body>
+  <div id="contenuLoader" class="container-fluid">
+    <div class="Loader" data-text="Loading">
+      <div class="progress-container">
+        <div class="progress">
+          <div class="progress-bar">
+            <div class="progress-shadow"></div>
+          </div>
         </div>
-        <!-- Page Home - Début -->
-        <div id="fadeSite">
-            <!-- Menu Principal - Début -->
-            <header id="header-main">
-                <a href="#" class="brand"><img src="assets/images/logo/Kaiartsuv2.png"/></a>
-                <a href="#" id="burger"> <span></span> <span></span> <span></span> </a>
+      </div>
+    </div>
+  </div>
+  <!-- Page Home - Début -->
+  <div id="fadeSite">
+    <!-- Menu Principal - Début -->
+    <header id="header-main">
+      <a href="#" class="brand"><img src="assets/images/logo/Kaiartsuv2.png"/></a>
+      <a href="#" id="burger"> <span></span> <span></span> <span></span> </a>
 
-                <nav id="nav-main">
-                    <ul>
-                        <li><a href="accueil.php">Accueil</a></li>
-                        <li><a href="agency.php">L'agence</a></li>
-                        <li><a href="webDev.php">Développement web</a></li>
-                        <li><a href="graphisme.php">Design Visuel</a></li>
-                        <li><a href="contact.php">Contact</a></li>
+      <nav id="nav-main">
+        <ul>
+          <li><a href="accueil.php">Accueil</a></li>
+          <li><a href="agency.php">L'agence</a></li>
+          <li><a href="webDev.php">Développement web</a></li>
+          <li><a href="graphisme.php">Design Visuel</a></li>
+          <li><a href="contact.php">Contact</a></li>
+        </ul>
+        <div id="nav-foot">
+
+          <div class="col"><h5>Pierre</h5>06.XX.XX.XX.XX</div>
+          <div class="col"><h5>Nicolas</h5> 07.XX.XX.XX.XX</div>
+
+        </div>
+      </nav>
+    </header>
+    <main id="contenuPage">
+      <!-- Menu Principal - Fin -->
+      <section id="kaiartsu" class="sectionScroll">
+        <div class="container-fluid">
+          <?php
+          include_once 'assets/svg/bgDesign.php';
+          ?>
+          <div class="row">
+            <div class="offset-3">
+              <h1>
+                <span class="h2ColorTitle">Studio Graphique</span>
+              </h1>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="Ariane">
+        <p>
+          Kaiartsu / <span>Studio Graphique</span>
+        </p>
+      </section>
+      <div id="arianeTriangle">
+
+      </div>
+      <div class="separator">
+
+      </div>
+      <!-- Qui sommes nous - Début -->
+      <section id="graphismOffer">
+        <div class=" container-fluid">
+          <div class="row offerGraphism">
+            <div class="col-lg-5 col-sm-12 imageOffer">
+              <div id="stripped">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1062">
+                  <polyline points="0,154 131,0 0,348 269,0 0,562 437,0
+                  0,766 565,14 0,1062 719,0 289,1062 843,0 543,1062 995,0 729,1062 1161,0 947,1062 1307,0 1143,1062 1500,162 1299,1062 1500,830"/>
+                </svg>
+              </div>
+            </div>
+            <div class="col-lg-6 col-xs-12 textOffer">
+              <h2>Communication Digitale</h2>
+
+              <p>Experts dans divers domaines de la communication tels que la Direction artistique, le webdesign, l’architecture de l’information mais aussi le développement et les fonctionnalités d’un site, notre métier est de vous apporter des réponses sur mesure, adaptées aux enjeux de votre activité.
+
+                Convaincus que le développement de supports innovants est nécessaire pour maintenir l’intérêt des utilisateurs, nous vous orientons et vous assistons sur le choix des outils adaptés.</p>
+
+                <p><strong>Site internet | Mailing | Réseaux Sociaux | Quizz | Jeux concours | Newsletter</strong></p>
+              </div>
+            </div>
+          </div>
+          <div class=" container-fluid">
+            <div class="row offerGraphism">
+              <div class="col-lg-6 col-lg-offset-1 col-xs-12 textOffer">
+                <h2>Identité Visuelle</h2>
+
+                <p>Définir la charte graphique est la phase essentielle d’un projet de communication. Elle est le garant de l’ identité visuelle, l’essence de l’image de l’entreprise.
+
+                  Nos expériences créatives et techniques sont des atouts majeurs pour vous accompagner, tout au long de cette étape et contribuer au succès commercial de votre projet.</p>
+
+                  <p><strong>Suivi & conseil | veille graphique & technique | Benchmark</strong></p>
+                </div>
+                <div class="col-lg-5 col-sm-12 imageOffer">
+                  <div id="stripped2">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1062">
+                      <polyline points="0,154 131,0 0,348 269,0 0,562 437,0
+                      0,766 565,14 0,1062 719,0 289,1062 843,0 543,1062 995,0 729,1062 1161,0 947,1062 1307,0 1143,1062 1500,162 1299,1062 1500,830"/>
+                    </svg>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class=" container-fluid">
+              <div class="row offerGraphism">
+                <div class="col-lg-5 col-sm-12 imageOffer">
+                  <div id="stripped3">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1062">
+                      <polyline points="0,154 131,0 0,348 269,0 0,562 437,0
+                      0,766 565,14 0,1062 719,0 289,1062 843,0 543,1062 995,0 729,1062 1161,0 947,1062 1307,0 1143,1062 1500,162 1299,1062 1500,830"/>
+                    </svg>
+                  </div>
+                </div>
+                <div class="col-lg-6 col-xs-12 textOffer">
+                  <h2>Design Graphique</h2>
+
+                  <p>En communication,  l’enjeu pour votre entreprise est de mettre en relief votre savoir faire, vos produits et/ou messages en choisissant un design pertinent et créatif.
+
+                    Nous vous accompagnons pour la recherche des concepts ainsi que pour le choix des médias utilisés.</p>
+
+                    <p><strong>Affiches | Flyers | Plaquettes | Signalétique | stand | packaging | menus</strong></p>
+                  </div>
+                </div>
+              </div>
+              <div class=" container-fluid">
+                <div class="row offerGraphism">
+                  <div class="col-lg-6 col-lg-offset-1 col-xs-12 textOffer">
+                    <h2>Montage Vidéo</h2>
+
+                    <p>Les supports animés sont particulièrement appréciés de nos clients et leur efficacité n’est plus à prouver. L’équipe Kaiartsu a toutes les compétences et l’expérience pour vous proposer des solutions de communication interactives en lien avec votre stratégie marketing.</p>
+
+                    <p><strong>Site internet | Mailing | Réseaux Sociaux | Quizz | Jeux concours | Newsletter</strong></p>
+                  </div>
+                  <div class="col-lg-5 col-sm-12 imageOffer">
+                    <div id="stripped4">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1062">
+                        <polyline points="0,154 131,0 0,348 269,0 0,562 437,0
+                        0,766 565,14 0,1062 719,0 289,1062 843,0 543,1062 995,0 729,1062 1161,0 947,1062 1307,0 1143,1062 1500,162 1299,1062 1500,830"/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section id="graphismProduction">
+              <div class="CSSgal">
+
+                <!-- Don't wrap targets in parent -->
+                <s id="s1"></s>
+                <s id="s2"></s>
+                <s id="s3"></s>
+                <s id="s4"></s>
+
+                <div class="slider">
+                  <div style="background:#2e7aab;">
+                    <h2>Slide 2</h2>
+                  </div>
+                  <div style="background:#85b;">
+                    <h2>Slide 2</h2>
+                  </div>
+                  <div style="background:#e95;">
+                    <h2>Slide 3</h2>
+                  </div>
+                  <div style="background:#e59;">
+                    <h2>Slide 4</h2>
+                  </div>
+                </div>
+
+                <div class="prevNext">
+                  <div><a href="#s4"></a><a href="#s2"></a></div>
+                  <div><a href="#s1"></a><a href="#s3"></a></div>
+                  <div><a href="#s2"></a><a href="#s4"></a></div>
+                  <div><a href="#s3"></a><a href="#s1"></a></div>
+                </div>
+
+              </div>
+            </section>
+            <section id="graphismKey">
+              <div class="container-fluid">
+                <div class="row">
+
+                  <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item">Cras justo odio</li>
+                      <li class="list-group-item">Dapibus ac facilisis in</li>
+                      <li class="list-group-item">Vestibulum at eros</li>
                     </ul>
-                    <div id="nav-foot">
-
-                        <div class="col"><h5>Pierre</h5>06.XX.XX.XX.XX</div>
-                        <div class="col"><h5>Nicolas</h5> 07.XX.XX.XX.XX</div>
-
+                    <div class="card-body">
+                      <a href="#" class="card-link">Card link</a>
+                      <a href="#" class="card-link">Another link</a>
                     </div>
-                </nav>
-            </header>
-            <main id="contenuPage">
-                <!-- Menu Principal - Fin -->
-                <section id="kaiartsu" class="sectionScroll">
-                    <div class="container-fluid">
+                  </div>
+
+                  <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item">Cras justo odio</li>
+                      <li class="list-group-item">Dapibus ac facilisis in</li>
+                      <li class="list-group-item">Vestibulum at eros</li>
+                    </ul>
+                    <div class="card-body">
+                      <a href="#" class="card-link">Card link</a>
+                      <a href="#" class="card-link">Another link</a>
+                    </div>
+                  </div>
+
+                  <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item">Cras justo odio</li>
+                      <li class="list-group-item">Dapibus ac facilisis in</li>
+                      <li class="list-group-item">Vestibulum at eros</li>
+                    </ul>
+                    <div class="card-body">
+                      <a href="#" class="card-link">Card link</a>
+                      <a href="#" class="card-link">Another link</a>
+                    </div>
+                  </div>
+
+                  <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item">Cras justo odio</li>
+                      <li class="list-group-item">Dapibus ac facilisis in</li>
+                      <li class="list-group-item">Vestibulum at eros</li>
+                    </ul>
+                    <div class="card-body">
+                      <a href="#" class="card-link">Card link</a>
+                      <a href="#" class="card-link">Another link</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section>
+              <div class="container-fluid">
+                <div id="graphismContact" class="row">
+                  <div class="col-5 contact">
+                    <div class="row contactGlobal">
+                      <div class="col-6 contact1">
+                        <h2 class="h2Contact">Nous contacter</h2>
+
+                        <p>06.76.71.61.37</p>
+
+                        <p>1435 bd Cambronne - 60400 Noyon</p>
                         <div class="row">
-                            <div class="offset-3">
-                                <h1>
-                                    <span class="h2ColorTitle">Studio Graphique</span>
-                                </h1>
-                            </div>
+                          <div class="col-4 RS"><a href="#"><i class="fab fa-facebook-f"></i></a></div>
+                          <div class="col-4 RS"><a href="#"><i class="fab fa-twitter"></i></a></div>
+                          <div class="col-4 RS"><a href="#"><i class="fab fa-linkedin"></i></a></div>
                         </div>
-                    </div>
-                </section>
-                <!-- Qui sommes nous - Début -->
-                <section id="graphismOffer">
-                    <div class=" container-fluid">
-                        <div class="row offerGraphism">
-                            <div class="col-lg-4 col-sm-12 imageOffer">
-                                <div id="stripped">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1062">
-                                    <polyline points="0,154 131,0 0,348 269,0 0,562 437,0
-                                              0,766 565,14 0,1062 719,0 289,1062 843,0 543,1062 995,0 729,1062 1161,0 947,1062 1307,0 1143,1062 1500,162 1299,1062 1500,830"/>
-                                    </svg>
-                                </div>
-                            </div>
-                            <div class="col-lg-8 col-xs-12 textOffer">
-                                <h2>Communication Digitale</h2>
-
-                                <p>Experts dans divers domaines de la communication tels que la Direction artistique, le webdesign, l’architecture de l’information mais aussi le développement et les fonctionnalités d’un site, notre métier est de vous apporter des réponses sur mesure, adaptées aux enjeux de votre activité.
-
-                                    Convaincus que le développement de supports innovants est nécessaire pour maintenir l’intérêt des utilisateurs, nous vous orientons et vous assistons sur le choix des outils adaptés.</p>
-
-                                <p><strong>Site internet | Mailing | Réseaux Sociaux | Quizz | Jeux concours | Newsletter</strong></p>
-                            </div>
+                        <div class="row">
+                          <a  id = "change"  class="col-5 contactButton">
+                            <l>Contacter nous</l>
+                          </a>
                         </div>
-                    </div>
-                    <div class=" container-fluid">
-                        <div class="row offerGraphism">
-                            <div class="col-lg-8 col-xs-12 textOffer">
-                                <h2>Identité Visuelle</h2>
-
-                                <p>Experts dans divers domaines de la communication tels que la Direction artistique, le webdesign, l’architecture de l’information mais aussi le développement et les fonctionnalités d’un site, notre métier est de vous apporter des réponses sur mesure, adaptées aux enjeux de votre activité.
-
-                                    Convaincus que le développement de supports innovants est nécessaire pour maintenir l’intérêt des utilisateurs, nous vous orientons et vous assistons sur le choix des outils adaptés.</p>
-
-                                <p>Site internet | Mailing | Réseaux Sociaux | Quizz | Jeux concours | Newsletter</p>
-                            </div>
-                            <div class="col-lg-4 col-sm-12 imageOffer">
-                                <div id="stripped2">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1062">
-                                    <polyline points="0,154 131,0 0,348 269,0 0,562 437,0
-                                              0,766 565,14 0,1062 719,0 289,1062 843,0 543,1062 995,0 729,1062 1161,0 947,1062 1307,0 1143,1062 1500,162 1299,1062 1500,830"/>
-                                    </svg>
-                                </div>
-                            </div>
+                      </div>
+                      <div class="col-6 contact2">
+                        <div class="row">
+                          <div class="col-8 newProject">
+                            <h2 class="h2Contact">Un nouveau projet ?</h2>
+                          </div>
                         </div>
-                    </div>
-                    <div class=" container-fluid">
-                        <div class="row offerGraphism">
-                            <div class="col-lg-4 col-sm-12 imageOffer">
-                                <div id="stripped3">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1062">
-                                    <polyline points="0,154 131,0 0,348 269,0 0,562 437,0
-                                              0,766 565,14 0,1062 719,0 289,1062 843,0 543,1062 995,0 729,1062 1161,0 947,1062 1307,0 1143,1062 1500,162 1299,1062 1500,830"/>
-                                    </svg>
-                                </div>
-                            </div>
-                            <div class="col-lg-8 col-xs-12 textOffer">
-                                <h2>Design Graphique</h2>
-
-                                <p>Experts dans divers domaines de la communication tels que la Direction artistique, le webdesign, l’architecture de l’information mais aussi le développement et les fonctionnalités d’un site, notre métier est de vous apporter des réponses sur mesure, adaptées aux enjeux de votre activité.
-
-                                    Convaincus que le développement de supports innovants est nécessaire pour maintenir l’intérêt des utilisateurs, nous vous orientons et vous assistons sur le choix des outils adaptés.</p>
-
-                                <p>Site internet | Mailing | Réseaux Sociaux | Quizz | Jeux concours | Newsletter</p>
-                            </div>
+                        <div class="overlay">
+                          <div class="row">
+                            <a href="#"  class="col-5 contactButton">
+                              <l>Nous en parler</l>
+                            </a>
+                          </div>
                         </div>
+                      </div>
                     </div>
-                    <div class=" container-fluid">
-                        <div class="row offerGraphism">
-                            <div class="col-lg-8 col-xs-12 textOffer">
-                                <h2>Montage Vidéo</h2>
-
-                                <p>Experts dans divers domaines de la communication tels que la Direction artistique, le webdesign, l’architecture de l’information mais aussi le développement et les fonctionnalités d’un site, notre métier est de vous apporter des réponses sur mesure, adaptées aux enjeux de votre activité.
-
-                                    Convaincus que le développement de supports innovants est nécessaire pour maintenir l’intérêt des utilisateurs, nous vous orientons et vous assistons sur le choix des outils adaptés.</p>
-
-                                <p>Site internet | Mailing | Réseaux Sociaux | Quizz | Jeux concours | Newsletter</p>
-                            </div>
-                            <div class="col-lg-4 col-sm-12 imageOffer">
-                                <div id="stripped4">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1062">
-                                    <polyline points="0,154 131,0 0,348 269,0 0,562 437,0
-                                              0,766 565,14 0,1062 719,0 289,1062 843,0 543,1062 995,0 729,1062 1161,0 947,1062 1307,0 1143,1062 1500,162 1299,1062 1500,830"/>
-                                    </svg>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-                <section id="graphismProduction">
-                    <div class="CSSgal">
-
-                        <!-- Don't wrap targets in parent -->
-                        <s id="s1"></s>
-                        <s id="s2"></s>
-                        <s id="s3"></s>
-                        <s id="s4"></s>
-
-                        <div class="slider">
-                            <div style="background:#2e7aab;">
-                                <h2>Slide 2</h2>
-                            </div>
-                            <div style="background:#85b;">
-                                <h2>Slide 2</h2>
-                            </div>
-                            <div style="background:#e95;">
-                                <h2>Slide 3</h2>
-                            </div>
-                            <div style="background:#e59;">
-                                <h2>Slide 4</h2>
-                            </div>
-                        </div>
-
-                        <div class="prevNext">
-                            <div><a href="#s4"></a><a href="#s2"></a></div>
-                            <div><a href="#s1"></a><a href="#s3"></a></div>
-                            <div><a href="#s2"></a><a href="#s4"></a></div>
-                            <div><a href="#s3"></a><a href="#s1"></a></div>
-                        </div>
-
-                    </div>
-                </section>
-                <section id="graphismKey">
-                    <div class="container">
-
-                    </div>
-                </section>
-                <section>
-                    <div class="container-fluid">
-                        <div id="graphismContact" class="row">
-                            <div class="col-5 contact">
-                                <div class="row contactGlobal">
-                                    <div class="col-6 contact1">
-                                        <h2 class="h2Contact">Nous contacter</h2>
-
-                                        <p>06.76.71.61.37</p>
-
-                                        <p>1435 bd Cambronne - 60400 Noyon</p>
-                                        <div class="row">
-                                            <div class="col-4 RS"><a href="#"><i class="fab fa-facebook-f"></i></a></div>
-                                            <div class="col-4 RS"><a href="#"><i class="fab fa-twitter"></i></a></div>
-                                            <div class="col-4 RS"><a href="#"><i class="fab fa-linkedin"></i></a></div>
-                                        </div>
-                                        <div class="row">
-                                            <a  id = "change"  class="col-5 contactButton">
-                                                <l>Contacter nous</l>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-6 contact2">
-                                        <div class="row">
-                                            <div class="col-8 newProject">
-                                                <h2 class="h2Contact">Un nouveau projet ?</h2>
-                                            </div>
-                                        </div>
-                                        <div class="overlay">
-                                            <div class="row">
-                                                <a href="#"  class="col-5 contactButton">
-                                                    <l>Nous en parler</l>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-            </main>
+                  </div>
+                </div>
+              </div>
+            </section>
+          </main>
         </div>
         <script src="assets/js/design.js" type="text/javascript"></script>
         <script src="assets/lib/bootstrap/js/bootstrap.js" type="text/javascript"></script>
         <script src="assets/js/onescroll.js" type="text/javascript"></script>
         <script src="assets/js/parallax.js" type="text/javascript"></script>
-    </body>
-</html>
+      </body>
+      </html>
