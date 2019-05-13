@@ -643,8 +643,46 @@ color: white;
   height: 100vh;
 }
 
+label{
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-family: "Montserrat";
+}
+
 
 .form-group input{
+  border: 5px white solid;
+  border-top: transparent;
+  background-color: transparent;
+  border-radius: 0px;
+  color: white;
+}
+
+.form-group input:focus{
   border: none;
-  background-color: red;
+  background-color: transparent;
+  border-bottom: 5px white solid;
+  color: white;
+}
+
+.form-group textarea{
+  border: 5px white solid;
+  border-top: transparent;
+  background-color: transparent;
+  border-radius: 0px;
+  color: white;
+}
+
+.form-group textarea:focus{
+  border: none;
+  background-color: transparent;
+  border-bottom: 5px white solid;
+  color: white;
+}
+
+.bigButton{
+  border-radius: 0px;
+  color: red;
+  width: 100%;
 }
