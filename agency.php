@@ -216,15 +216,15 @@
             <div class="col-xs-12 col-sm-6 col-lg-3">
               <div class="row categoriesValues">
                 <div class="col-3">
-                  <img class="imgValues" src="assets/images/cadena.png"/>
+                  <img class="imgValues" src="assets/images/responsive.png"/>
                 </div>
-                <div class="col-9 textValues">
-                  <p class="">Sécurité</p>
+                <div class="col-9 titleValues">
+                  <p class="">Accessibilité</p>
                 </div>
               </div>
               <div class="row explicationsCategoriesValues">
                 <div class="col-12">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                  <p class="textValues">La navigation web est à 80% mobile, tous sites internet se doivent d'être responsive, c'est-à-dire accessible sur tous les supports. Les développeurs de Kaiartsu sont certifiés Opquast et vous promettent un projet accessible à tous sur tous les supports, vous garantissant de proposer une application respectant les bonnes pratiques du web.</p>
                 </div>
               </div>
             </div>
@@ -233,13 +233,13 @@
                 <div class="col-3">
                   <img class="imgValues" src="assets/images/proximite.png"/>
                 </div>
-                <div class="col-9 textValues">
+                <div class="col-9 titleValues">
                   <p class="">Proximité</p>
                 </div>
               </div>
               <div class="row explicationsCategoriesValues">
                 <div class="col-12">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                  <p class="textValues">Basée sur le Campus Inovia de Noyon, Kaiartsu est une agence web qui privilégie « la collaboration avec les clients plus que la négociation contractuelle ». Nous garantissons notre disponibilité pour réaliser le projet dans les délais impartis, et d’une manière générale notre engagement jusqu’à la satisfaction totale du client.</p>
                 </div>
               </div>
             </div>
@@ -248,13 +248,13 @@
                 <div class="col-3">
                   <img class="imgValues" src="assets/images/bulles.png"/>
                 </div>
-                <div class="col-9 textValues">
+                <div class="col-9 titleValues">
                   <p class="">Fiabilité</p>
                 </div>
               </div>
               <div class="row explicationsCategoriesValues">
                 <div class="col-12">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                  <p class="textValues">Kaiartsu s’engage à livrer un code de qualité. Dans un souci de transparence totale, Kaiartsu réalise l'intégralité de ses prestations puisque aucune de celles-ci n'est sous-traitée à des sociétés tierces. L’ensemble de ses prestations de développement est donc exclusivement réalisées dans ses bureaux au campus Inovia de Noyon.</p>
                 </div>
               </div>
             </div>
@@ -263,13 +263,13 @@
                 <div class="col-3">
                   <img class="imgValues" src="assets/images/ami.png"/>
                 </div>
-                <div class="col-9 textValues">
+                <div class="col-9 titleValues">
                   <p class="">Convivialité</p>
                 </div>
               </div>
               <div class="row explicationsCategoriesValues">
                 <div class="col-12">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                  <p class="textValues">Passionnés par notre métier, nous sommes humains et sensibles aux valeurs que vous souhaitez communiquer, nous souhaitons donc une relation de confiance et de complicité avec nos clients, importante à l'inspiration et la créativité. Chez Kaiartsu nous pouvons discuter de tous afin de trouver des solutions et d'atteindre vos objectifs et ceux toujours avec le sourir.</p>
                 </div>
               </div>
             </div>
