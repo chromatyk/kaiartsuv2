@@ -114,6 +114,11 @@
                       <textarea type="text" class="form-control" id="inputMessage" aria-describedby="messageHelp" placeholder="Entrez votre message"></textarea>
                     </div>
                     </div>
+                    <div class="row">
+                      <div class="col-lg-8">
+                        <button type="submit" class="bigButton">J'envois ma demande</button>
+                      </div>
+                    </div>
                   </form>
               </div>
               <div id="map" class="col-lg-6">
