@@ -32,7 +32,6 @@ include_once 'include/header.php';
         <main id="contenuPage">
             <!-- Menu Principal - Fin -->
             <section id="kaiartsu" class="sectionScroll panel home" data-section-name="Kaiartsu">
-
               <div class="container-fluid">
                     <div class="row">
                         <div class="offset-3">
@@ -49,8 +48,7 @@ include_once 'include/header.php';
                 </div>
             </section>
             <!-- Qui sommes nous - Début -->
-            <section id="whoAreWe" class="sectionScroll panel panel1" data-section-name="L'agence">
-              <!--?xml version="1.0" encoding="utf-8"?-->
+            <section id="whoAreWe" class="sectionScroll panel panel1" data-section-name="L'agence">              <!--?xml version="1.0" encoding="utf-8"?-->
               <?php
               include_once 'assets/svg/kaiartsuSVG.php';
               ?>

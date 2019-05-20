@@ -457,7 +457,7 @@ main{
 
 #kaiartsu{
     height: 100vh;
-    background-color: #ffffff;
+    background-color: #202020;
 }
 /* footer */
 footer{
@@ -938,7 +938,6 @@ top:20px;
 .hr{
   border-color: white;
   border-width: 5px;
-  width: 80%;
 }
 .imgValeur{
   border-style: solid;
@@ -988,4 +987,19 @@ h4{
 }
 .textValues{
   text-align: justify;
+}
+#svgKaiartsu{
+  position: absolute;
+  top: -100px;
+  left: 13.1%;
+  padding-top: 0;
+  width: 75%;
+  z-index: 0;
+}
+#svgKaiartsu path{
+  stroke: #2D3438;
+  stroke-linecap:round;
+}
+#svgKaiartsu path.testOne{
+  stroke:#4B3721;
 }
