@@ -55,6 +55,9 @@
       <!-- Menu Principal - Fin -->
       <section id="kaiartsu" class="sectionScroll">
         <div class="container-fluid">
+          <?php
+          include_once 'assets/svg/kaiartsuSVG.php';
+          ?>
           <div class="row">
             <div class="offset-2">
               <h1>

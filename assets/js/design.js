@@ -25,7 +25,7 @@ if (window.matchMedia("(min-width: 800px)").matches) {
             $('body').css('overflow-x', 'hidden');
             ScrollReveal().reveal('.dispear', { delay: 500, useDelay: 'onload', reset: true, duration: 2000 });
 
-        }, 2600);
+        }, 1310);
     })
 
 } else {
@@ -57,5 +57,3 @@ if (window.matchMedia("(min-width: 800px)").matches) {
     })
 
 }
-
-
