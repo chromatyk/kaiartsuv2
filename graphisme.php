@@ -194,11 +194,6 @@
                           <div class="col-4 RS"><a href="#"><i class="fab fa-twitter"></i></a></div>
                           <div class="col-4 RS"><a href="#"><i class="fab fa-linkedin"></i></a></div>
                         </div>
-                        <div class="row">
-                          <a  id = "change"  class="col-5 contactButton">
-                            <l>Contacter nous</l>
-                          </a>
-                        </div>
                       </div>
                       <div class="col-6 contact2">
                         <div class="row">
