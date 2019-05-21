@@ -1040,6 +1040,16 @@ main{
       text-decoration: none;
     }
 
+    .CSSgal .slider .slide1{
+      background-image: url("../images/multidevice.jpg");
+      background-size: cover;
+    }
+
+    .CSSgal .slider .slide2{
+      background-image: url("../images/inoviadays.jpg");
+      background-size: cover;
+    }
+
     .contact{
       background: #111845a6;
       box-shadow: 0 20px 50px rgb(23, 32, 90);

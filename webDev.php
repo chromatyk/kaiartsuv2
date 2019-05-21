@@ -115,9 +115,9 @@
 
                 <p>Après un certain temps, il est primordiale de repenser le fonctionnement de son site web. Les normes, les modes, les expériences utilisateurs sont en constantes évolution.
 
-Le site nécessite-t-il simplement une refonte visuelle ? Ou le travail doit-il être plus structurel et toucher à l’arborescence et aux fonctionnalités proposées ?
+                  Le site nécessite-t-il simplement une refonte visuelle ? Ou le travail doit-il être plus structurel et toucher à l’arborescence et aux fonctionnalités proposées ?
 
-Kaiartsu est une agence web spécialisée dans la refonte de sites internet. Que ce soit à la réflexion ou à la création nous vous accompagnons dans le rafraichissement de votre site internet.</p>
+                  Kaiartsu est une agence web spécialisée dans la refonte de sites internet. Que ce soit à la réflexion ou à la création nous vous accompagnons dans le rafraichissement de votre site internet.</p>
 
                   <p><strong>Mise à niveau du RGPD | Ergonomie Web | Modernisation Graphique</strong></p>
                 </div>
