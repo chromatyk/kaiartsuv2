@@ -149,6 +149,7 @@
 
                     Nous vous accompagnons pour la recherche des concepts ainsi que pour le choix des médias utilisés.</p>
 
+
                     <p><strong>Maintenance Web | Consulting | Sauvegarde de données | Rédaction Web</strong></p>
                     <div class="buttonMore">
                       <a href="contact.php"><button class="raise">Nous en parler</button></a>

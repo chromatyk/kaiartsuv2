@@ -57,63 +57,34 @@
       <!-- Menu Principal - Fin -->
       <div class="container-fluid">
         <section id="coordonnées">
-          <div class="container">
-            <div class="row">
-              <div id="adress" class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 offset-xl-3 col-xl-6">
-                <h3>Noyon</h3>
-                <div id="adressAgence">
-                  <p>
-                    1435, boulevard Cambronne
-                  </p>
-                  <p>
-                    60100 NOYON
-                  </p>
-                    <p>Pierre : 06.76.71.61.37</p>
-                    <p>Nicolas : 07.70.00.86.66</p>
-                </div>
-              </div>
-              <div id="phoneNum" class="col-lg-offset-3 col-lg-4">
-              </div>
+          <div class="introContact row">
+            <div class="col-12 centerColumn">
+              <h1 class="h2ColorTitle">Nous contacter</h1>
+              <h2>Toutes nos coordonnées</h2>
+              <hr>
             </div>
           </div>
-        </section>
-        <section id="contact">
-          <div class="container-fluid">
-            <div class="row">
-              <div id="sendMessage" class="col-lg-6">
-                  <form>
-                    <div class="row">
-                    <div class="form-group col-10 col-sm-10 col-md-10 col-lg-10 col-xl-5">
-                      <label for="inputName">Entrez votre nom</label>
-                      <input type="text" class="form-control" id="inputName" aria-describedby="nameHelp" placeholder="Entrez votre nom">
-                    </div>
-                    <div class="form-group col-10 col-sm-10 col-md-10 col-lg-10 col-xl-5">
-                      <label for="inputMail">Entrez votre mail</label>
-                      <input type="email" class="form-control" id="inputMail" aria-describedby="mailHelp" placeholder="Entrez votre mail">
-                    </div>
-                    </div>
-                    <div class="row">
-                    <div class="form-group col-11">
-                      <label for="inputObject">Titre de votre message</label>
-                      <input type="text" class="form-control" id="inputObject" aria-describedby="objectHelp" placeholder="Entrez votre objet">
-                    </div>
-                    </div>
-                    <div class="row">
-                    <div class="form-group col-11">
-                      <label for="inputMessage">Message</label>
-                      <textarea type="text" class="form-control" id="inputMessage" aria-describedby="messageHelp" placeholder="Entrez votre message"></textarea>
-                    </div>
-                    </div>
-                    <div class="row">
-                      <div class="col-lg-12">
-                        <button type="submit" class="raise" id="bigButton">J'envois ma demande</button>
-                      </div>
-                    </div>
-                  </form>
-              </div>
-              <div id="map" class="col-lg-6">
-                <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=2.989096641540528%2C49.594022174876535%2C3.017420768737793%2C49.60638557440522&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=16/49.6002/3.0033&amp;layers=N">Afficher une carte plus grande</a></small>
-              </div>
+          <div class="row allCoor">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3">
+              <img src="assets/images/phone.png">
+              <h3>Appellez nous</h3>
+              <p><a href="tel:+33676716137">06.76.71.61.37</a> (FR)</p>
+              <p><a href="tel:+33770008666">07.70.00.86.66</a> (FR)</p>
+            </div>
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3">
+              <img src="assets/images/mail.png">
+              <h3>Notre adresse mail</h3>
+              <p><a href="mailto:kaiartsu.contact@gmail.com">kaiartsu.contact@gmail.com</a></p>
+            </div>
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3">
+              <img src="assets/images/house.png">
+              <h3>Où nous rencontrer</h3>
+              <p>1435 bd Cambronne,</p><p> 60400 Noyon</p>
+            </div>
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3">
+              <img src="assets/images/fb.png"/>
+              <h3>Notre page Facebook</h3>
+              <p> Rejoignez nous sur<br> <p><a href="https://www.facebook.com/kaiartsu/" title="Facebook kaiartsu">Facebook</a></p></p>
             </div>
           </div>
         </section>

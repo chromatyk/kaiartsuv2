@@ -387,7 +387,14 @@
       visibility: visible;
       transition: 1.4s;
     }
-
+    h1 .h2ColorTitle{
+    	color: #2E7AAB;
+    	position:relative;
+    	font-family: "northen";
+    	font-size: 13vw;
+    	position: relative;
+    	z-index: 100000;
+    }
     #nav-foot .col {
       width: 20vw
     }
@@ -535,11 +542,46 @@ color: white;
 
 /* CSS DE LA PAGE CONTACT */
 #coordonnées{
+  padding-top: 10%;
   width: 100vw;
-  height: 500px;
-  background-image: url('../images/bg1.jpg');
+  min-height:100vh;
+  background-color: #202020;
 }
-
+#coordonnées hr{
+  border-color: white;
+}
+#coordonnées h1,h2,h3{
+  text-align: center;
+}
+#coordonnées h1{
+  color:#2e7aab;
+  font-family: "northen";
+  font-size: 100px;
+}
+#coordonnées h2,h3{
+  color:#BD8B53;
+	font-family: 'EB Garamond', serif;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.centerColumn{
+  float: none;
+  margin: 0 auto;
+}
+#coordonnées p{
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  	font-family: 'Montserrat', sans-serif;
+}
+#coordonnées img{
+  display: block;
+  margin:auto;
+}
+#map{
+  min-height: 50vh;
+  background-color: red;
+}
 .container-fluid{
   padding-left: 0;
   padding-right: 0;
@@ -552,7 +594,10 @@ color: white;
   height: 500px;
   padding-top: 10%;
 }
-
+.allCoor{
+  margin-top: 50px;
+    padding-bottom: 20px;
+}
 
 #adressAgence{
   height: 200px;
