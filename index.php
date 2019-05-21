@@ -159,6 +159,37 @@ include_once 'include/header.php';
             </div>
           </div>
         </section>
+        <section id="contact" class="sectionScroll panel panel4" data-section-name="Contact">
+          <div class="container">
+            <div class="row dispear">
+              <div class="col-9 offset-1">
+                <h2>
+                  Le graphisme par <span class="h2Color">Kaiartsu.</span>
+                </h2>
+              </div>
+            </div>
+            <div class="row dispear">
+              <div class="col-9 offset-2">
+                <h3>
+                  - Charte graphique ou support marketing ? Un design qui vous ressemble.  -
+                </h3>
+              </div>
+            </div>
+            <div class="row dispear">
+              <div class="col-10 offset-1">
+                <p>
+                  Chez Kaiartsu nous poussons la communication au-delà du web.<br/>
+                  Notre studio graphique posséde les compétences nécessaires pour vous aidez à améliorer votre visibilité.<br />
+                  Un logo, une charte graphique ou un support marketing nous vous conseillons et vous aidons à transmettre une image qui vous ressemble.
+                </p>
+              </div>
+            </div>
+            <div class="row dispear">
+              <div class="buttonMore">
+                <a href="graphisme.php"><button class="raise">En savoir plus</button></a>
+              </div>
+            </div>
+          </section>
       </main>
     </div>
     <?php

@@ -53,10 +53,6 @@
   background-image: -webkit-linear-gradient(to bottom, rgb(255,255,255), transparent);
   background-image: -moz-linear-gradient(to bottom, rgb(255,255,255), transparent);
 }
-
-*{
-  margin: auto;
-}
 #bgDesign path{
   stroke: #2D3438;
   fill:#2D3438;
@@ -146,6 +142,9 @@
 .textOffer{
   height: 100%;
   padding-right: 20px;
+
+  margin-top: 60px;
+  text-align: center;
 }
 
 #graphismProduction{
@@ -838,7 +837,7 @@ main{
     div#stripped4 {
       max-width: 750px;
       background: #000;
-      background-image: url(https://3.bp.blogspot.com/-piZWCW2uUbg/W2fPXxkWZgI/AAAAAAAAOu0/eydmMjTIqcwLMHEEr2H7imqoRTxMw4o9QCLcBGAs/s1600/among_trees_night_dribbble.png);
+      background-image: url("../images/mockUp/screen.jpg");
       background-size: cover;
       font-size: 0;
     }
@@ -1048,12 +1047,16 @@ main{
     }
 
     .CSSgal .slider .slide1{
-      background-image: url("../images/multidevice.jpg");
+      background-image: url("../images/mockUp/mug.jpg");
       background-size: cover;
     }
 
     .CSSgal .slider .slide2{
-      background-image: url("../images/inoviadays.jpg");
+      background-image: url("../images/mockUp/carteVistiteKaiartsu.jpg");
+      background-size: cover;
+    }
+    .CSSgal .slider .slide3{
+      background-image: url("../images/mockUp/swanny.jpg");
       background-size: cover;
     }
 
@@ -1098,6 +1101,7 @@ main{
       margin: 0;
       float: left;
       margin-bottom: 30px;
+      padding-top: 20px;
     }
     #arianeTriangle{
       display : inline-block;
@@ -1114,9 +1118,8 @@ position: relative;
       clear: both;
     }
 
-#Ariane p{
+#Ariane a{
   height: 60px; /* remplacer {Y} par votre valeur */
-position: absolute;
 margin-top: 20px; /* remplacer {Y/2} par la moitié de votre height */
 font-size: 20px;
 margin-left: 5vw;
@@ -1129,15 +1132,21 @@ color: white;
 }
 
 
-    @media only screen and (max-device-width : 626px) {
-      #Ariane p{
-        height: 60px; /* remplacer {Y} par votre valeur */
-      position: absolute;
-      margin-top: 20px; /* remplacer {Y/2} par la moitié de votre height */
-      font-size: 20px;
-      margin-left: 5vw;
-      color: white;
-      font-size: 3vw;
-      }
+@media only screen and (max-device-width : 626px) {
+  #Ariane a{
+    height: 60px; /* remplacer {Y} par votre valeur */
+    margin-top: 20px; /* remplacer {Y/2} par la moitié de votre height */
+    font-size: 20px;
+    margin-left: 5vw;
+    color: white;
+    font-size: 3vw;
+  }
+  #Ariane p span{
+  font-size: 3vw;
+  }
 
-    }
+}
+.buttonMore{
+  z-index: 1;
+  margin : auto;
+}

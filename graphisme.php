@@ -12,6 +12,7 @@
   <meta name="keywords" content="kaiartsu ; agence web hauts-de-france ; Oise ; 60 ; 02 ; 80 ; création site internet ; référencement ; webdesign ; création d'identité visuelle à Noyon ; agence digitale ; graphiste ; e-marketing ; applications mobiles" />
   <title>Studio Graphique | Kaiartsu | L'agence web symbiotique</title>
   <!-- Link CSS -->
+  <link rel="shortcut icon" type="assets/images/logo/fav.png" href="assets/images/logo/fav.png"/>
   <link href="assets/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
   <link href="assets/css/animate.css" rel="stylesheet" type="text/css"/>
   <link href="assets/css/graphisme.css" rel="stylesheet" type="text/css"/>
@@ -47,7 +48,7 @@
           <li><a href="accueil.php">Accueil</a></li>
           <li><a href="agency.php">L'agence</a></li>
           <li><a href="webDev.php">Développement web</a></li>
-          <li><a href="graphisme.php">Design Visuel</a></li>
+          <li><a href="graphisme.php">Studio Graphique</a></li>
           <li><a href="contact.php">Contact</a></li>
         </ul>
       </nav>
@@ -70,7 +71,7 @@
       </section>
       <section id="Ariane">
         <p>
-          Kaiartsu / <span>Studio Graphique</span>
+          <a href="accueil.php">Kaiartsu</a> / <span>Studio Graphique</span>
         </p>
       </section>
       <div id="arianeTriangle">
@@ -91,6 +92,9 @@
                   Nos expériences créatives et techniques sont des atouts majeurs pour vous accompagner, tout au long de cette étape et contribuer au succès commercial de votre projet.</p>
 
                   <p><strong>Suivi & conseil | veille graphique & technique | Benchmark</strong></p>
+                  <div class="buttonMore">
+                    <a href="contact.php"><button class="raise">Nous en parler</button></a>
+                  </div>
                 </div>
                 <div class="col-lg-5 col-sm-12 imageOffer">
                   <div id="stripped2">
@@ -120,6 +124,9 @@
                     Nous vous accompagnons pour la recherche des concepts ainsi que pour le choix des médias utilisés.</p>
 
                     <p><strong>Affiches | Flyers | Plaquettes | Signalétique | stand | packaging | menus</strong></p>
+                    <div class="buttonMore">
+                      <a href="contact.php"><button class="raise">Nous en parler</button></a>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -131,6 +138,9 @@
                     <p>Les supports animés sont particulièrement appréciés de nos clients et leur efficacité n’est plus à prouver. L’équipe Kaiartsu a toutes les compétences et l’expérience pour vous proposer des solutions de communication interactives en lien avec votre stratégie marketing.</p>
 
                     <p><strong>Site internet | Mailing | Réseaux Sociaux | Quizz | Jeux concours | Newsletter</strong></p>
+                    <div class="buttonMore">
+                      <a href="contact.php"><button class="raise">Nous en parler</button></a>
+                    </div>
                   </div>
                   <div class="col-lg-5 col-sm-12 imageOffer">
                     <div id="stripped4">
@@ -150,16 +160,13 @@
                 <s id="s1"></s>
                 <s id="s2"></s>
                 <s id="s3"></s>
-                <s id="s4"></s>
 
                 <div class="slider">
                   <div class="slide1">
                   </div>
                   <div class="slide2">
                   </div>
-                  <div style="background:#e95;">
-                  </div>
-                  <div style="background:#e59;">
+                  <div class="slide3">
                   </div>
                 </div>
 
