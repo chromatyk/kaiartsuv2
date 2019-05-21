@@ -50,12 +50,6 @@
           <li><a href="graphisme.php">Design Visuel</a></li>
           <li><a href="contact.php">Contact</a></li>
         </ul>
-        <div id="nav-foot">
-
-          <div class="col"><h5>Pierre</h5>06.XX.XX.XX.XX</div>
-          <div class="col"><h5>Nicolas</h5> 07.XX.XX.XX.XX</div>
-
-        </div>
       </nav>
     </header>
     <main id="contenuPage">

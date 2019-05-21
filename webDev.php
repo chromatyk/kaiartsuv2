@@ -10,7 +10,7 @@
   <meta name="author" content="Kaiartsu" />
   <meta name="reply-to" content="contact@kaiartsu.fr">
   <meta name="keywords" content="kaiartsu ; agence web hauts-de-france ; Oise ; 60 ; 02 ; 80 ; création site internet ; référencement ; webdesign ; création d'identité visuelle à Noyon ; agence digitale ; graphiste ; e-marketing ; applications mobiles" />
-  <title>Kaiartsu | L'agence web symbiotique | Création de sites web | Identité visuelle | Hauts-de-France, Noyon</title>
+  <title>Création Web | Kaiartsu | L'agence web symbiotique</title>
   <!-- Link CSS -->
   <link href="assets/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
   <link href="assets/css/animate.css" rel="stylesheet" type="text/css"/>
@@ -50,12 +50,6 @@
           <li><a href="graphisme.php">Design Visuel</a></li>
           <li><a href="contact.php">Contact</a></li>
         </ul>
-        <div id="nav-foot">
-
-          <div class="col"><h5>Pierre</h5>06.XX.XX.XX.XX</div>
-          <div class="col"><h5>Nicolas</h5> 07.XX.XX.XX.XX</div>
-
-        </div>
       </nav>
     </header>
     <main id="contenuPage">
@@ -205,48 +199,7 @@
 
               </div>
             </section>
-            <section>
-              <div class="container-fluid">
-                <div id="graphismContact" class="row">
-                  <div class="col-5 contact">
-                    <div class="row contactGlobal">
-                      <div class="col-6 contact1">
-                        <h2 class="h2Contact">Nous contacter</h2>
-
-                        <p>06.76.71.61.37</p>
-
-                        <p>1435 bd Cambronne - 60400 Noyon</p>
-                        <div class="row">
-                          <div class="col-4 RS"><a href="#"><i class="fab fa-facebook-f"></i></a></div>
-                          <div class="col-4 RS"><a href="#"><i class="fab fa-twitter"></i></a></div>
-                          <div class="col-4 RS"><a href="#"><i class="fab fa-linkedin"></i></a></div>
-                        </div>
-                        <div class="row">
-                          <a  id = "change"  class="col-5 contactButton">
-                            <l>Contacter nous</l>
-                          </a>
-                        </div>
-                      </div>
-                      <div class="col-6 contact2">
-                        <div class="row">
-                          <div class="col-8 newProject">
-                            <h2 class="h2Contact">Un nouveau projet ?</h2>
-                          </div>
-                        </div>
-                        <div class="overlay">
-                          <div class="row">
-                            <a href="#"  class="col-5 contactButton">
-                              <l>Nous en parler</l>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </section>
-          </main>
+                      </main>
         </div>
 
 		<?php
