@@ -225,6 +225,10 @@
             </section>
           </main>
         </div>
+
+		<?php
+		include(utf8_encode('include/footer.php'));
+		?>
         <script src="assets/js/design.js" type="text/javascript"></script>
         <script src="assets/lib/bootstrap/js/bootstrap.js" type="text/javascript"></script>
         <script src="assets/js/onescroll.js" type="text/javascript"></script>
