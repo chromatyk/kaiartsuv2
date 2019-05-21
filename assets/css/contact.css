@@ -54,9 +54,7 @@
   background-image: -moz-linear-gradient(to bottom, rgb(255,255,255), transparent);
 }
 
-*{
-  margin: auto;
-}
+
 
 @keyframes cssload-width {
   0%, 100% {
@@ -547,8 +545,7 @@ color: white;
   padding-right: 0;
 }
 #contact{
-  height: 100vh;
-  background-color: red;
+  background-color: #202020;
 }
 
 #adress{
@@ -556,13 +553,9 @@ color: white;
   padding-top: 10%;
 }
 
-#phoneNum{
-  background-color: blue;
-  height: 500px;
-}
 
 #adressAgence{
-  height: 150px;
+  height: 200px;
   border: white 5px solid;
   border-top: transparent;
   padding-right: 4%;
@@ -649,40 +642,65 @@ label{
   text-align: center;
   font-family: "Montserrat";
 }
-
-
-.form-group input{
-  border: 5px white solid;
-  border-top: transparent;
-  background-color: transparent;
-  border-radius: 0px;
-  color: white;
+form .form-group{
+  margin:auto;
+  margin-top: 20px;
 }
 
-.form-group input:focus{
-  border: none;
-  background-color: transparent;
-  border-bottom: 5px white solid;
-  color: white;
+#bigButton{
+  width: 50%;
+  margin: auto;
+  display: block;
+  margin-top: 20px;
+}
+#inputMessage{
+  height: 300px;
+}
+footer{
+  text-align: center;
+  padding-top:20px;
+  color:white;
 }
 
-.form-group textarea{
-  border: 5px white solid;
-  border-top: transparent;
-  background-color: transparent;
-  border-radius: 0px;
-  color: white;
+footer a{
+  color:#2e7aab;
+}
+.footer {
+  background-color:#202020;
+}
+#copyright{
+  margin-top: 10px;
+}
+.barre{
+  border-right: 2px white solid;
+}
+footer i{
+  font-size: 50px;
 }
 
-.form-group textarea:focus{
-  border: none;
-  background-color: transparent;
-  border-bottom: 5px white solid;
-  color: white;
-}
+#test{
+  width: 100px;
+  height: 100px;
+  background-image: url('../images/fondacc.png');
+  position: absolute;
+  top: 500px;
+  left: 500px;
+}#sendMessage input{
+  border-style: solid;
+   border-width: 1px;
+   -webkit-transition: width 2s, height 2s, background-color 2s, -webkit-transform 2s;
+   transition: width 2s, height 2s, background-color 2s, transform 2s;
 
-.bigButton{
-  border-radius: 0px;
-  color: red;
-  width: 100%;
+}
+#sendMessage input:focus{
+ font-size: 40px;
+}
+.form-control:focus {
+  border-color: transparent;
+  box-shadow: inset 0 0 0 rgba(0, 0, 0, 0.075), 0 0 0 rgba(0, 0, 0, 0.6);
+}
+@media (min-width:800px) and (max-width:991px) {
+  #adress{
+    margin-top: 20px;
+  }
 }
