@@ -146,25 +146,6 @@
                   </div>
                 </div>
               </div>
-              <div class=" container-fluid">
-                <div class="row offerGraphism">
-                  <div class="col-lg-6 col-lg-offset-1 col-xs-12 textOffer">
-                    <h2>Montage Vidéo</h2>
-
-                    <p>Les supports animés sont particulièrement appréciés de nos clients et leur efficacité n’est plus à prouver. L’équipe Kaiartsu a toutes les compétences et l’expérience pour vous proposer des solutions de communication interactives en lien avec votre stratégie marketing.</p>
-
-                    <p><strong>Site internet | Mailing | Réseaux Sociaux | Quizz | Jeux concours | Newsletter</strong></p>
-                  </div>
-                  <div class="col-lg-5 col-sm-12 imageOffer">
-                    <div id="stripped4">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1062">
-                        <polyline points="0,154 131,0 0,348 269,0 0,562 437,0
-                        0,766 565,14 0,1062 719,0 289,1062 843,0 543,1062 995,0 729,1062 1161,0 947,1062 1307,0 1143,1062 1500,162 1299,1062 1500,830"/>
-                      </svg>
-                    </div>
-                  </div>
-                </div>
-              </div>
             </section>
             <section id="graphismProduction">
               <div class="CSSgal">
