@@ -291,7 +291,7 @@ include(utf8_encode('include/footer.php'));
 <script src="assets/js/parallax.js" type="text/javascript"></script>
 <script src="jquery.fittext.js"></script>
 <script>
-  jQuery("#responsive_headline").fitText();
+jQuery("#responsive_headline").fitText();
 </script>
 </body>
 </html>
