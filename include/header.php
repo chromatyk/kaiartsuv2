@@ -12,6 +12,7 @@
         <meta name="keywords" content="kaiartsu ; agence web hauts-de-france ; Oise ; 60 ; 02 ; 80 ; création site internet ; référencement ; webdesign ; création d'identité visuelle à Noyon ; agence digitale ; graphiste ; e-marketing ; applications mobiles" />
         <title>Kaiartsu | L'agence web symbiotique | Création de sites web | Identité visuelle | Hauts-de-France, Noyon</title>
         <!-- Link CSS -->
+        <link rel="shortcut icon" type="assets/images/logo/fav.png" href="assets/images/logo/fav.png"/>
         <link href="assets/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
         <link href="assets/css/animate.css" rel="stylesheet" type="text/css"/>
         <link href="assets/css/main.css" rel="stylesheet" type="text/css"/>

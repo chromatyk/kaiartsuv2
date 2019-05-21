@@ -10,8 +10,9 @@
   <meta name="author" content="Kaiartsu" />
   <meta name="reply-to" content="contact@kaiartsu.fr">
   <meta name="keywords" content="kaiartsu ; agence web hauts-de-france ; Oise ; 60 ; 02 ; 80 ; création site internet ; référencement ; webdesign ; création d'identité visuelle à Noyon ; agence digitale ; graphiste ; e-marketing ; applications mobiles" />
-  <title>Création Web | Kaiartsu | L'agence web symbiotique</title>
+  <title>Développement Web | Kaiartsu | L'agence web symbiotique</title>
   <!-- Link CSS -->
+  <link rel="shortcut icon" type="assets/images/logo/fav.png" href="assets/images/logo/fav.png"/>
   <link href="assets/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
   <link href="assets/css/animate.css" rel="stylesheet" type="text/css"/>
   <link href="assets/css/webDev.css" rel="stylesheet" type="text/css"/>
@@ -47,7 +48,7 @@
           <li><a href="accueil.php">Accueil</a></li>
           <li><a href="agency.php">L'agence</a></li>
           <li><a href="webDev.php">Développement web</a></li>
-          <li><a href="graphisme.php">Design Visuel</a></li>
+          <li><a href="graphisme.php">Studio Graphique</a></li>
           <li><a href="contact.php">Contact</a></li>
         </ul>
       </nav>
@@ -70,7 +71,7 @@
       </section>
       <section id="Ariane">
         <p>
-          Kaiartsu / <span>Studio Graphique</span>
+          <a href="accueil.php">Kaiartsu</a> / <span>Développement Web</span>
         </p>
       </section>
       <div id="arianeTriangle">
@@ -99,6 +100,9 @@
                 Convaincus que le développement de supports innovants est nécessaire pour maintenir l’intérêt des utilisateurs, nous vous orientons et vous assistons sur le choix des outils adaptés.</p>
 
                 <p><strong>Site internet | Responsive Design | Accessibilité Web | Newsletter | Evenementiel</strong></p>
+                <div class="buttonMore">
+                  <a href="contact.php"><button class="raise">Nous en parler</button></a>
+                </div>
               </div>
             </div>
           </div>
@@ -114,6 +118,9 @@
                   Kaiartsu est une agence web spécialisée dans la refonte de sites internet. Que ce soit à la réflexion ou à la création nous vous accompagnons dans le rafraichissement de votre site internet.</p>
 
                   <p><strong>Mise à niveau du RGPD | Ergonomie Web | Modernisation Graphique</strong></p>
+                  <div class="buttonMore">
+                    <a href="contact.php"><button class="raise">Nous en parler</button></a>
+                  </div>
                 </div>
                 <div class="col-lg-5 col-sm-12 imageOffer">
                   <div id="stripped2">
@@ -142,7 +149,11 @@
 
                     Nous vous accompagnons pour la recherche des concepts ainsi que pour le choix des médias utilisés.</p>
 
-                    <p><strong>Maintenance Web | Consulting | Sauvegarde de données | Redaction Web</strong></p>
+
+                    <p><strong>Maintenance Web | Consulting | Sauvegarde de données | Rédaction Web</strong></p>
+                    <div class="buttonMore">
+                      <a href="contact.php"><button class="raise">Nous en parler</button></a>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -154,20 +165,13 @@
                 <s id="s1"></s>
                 <s id="s2"></s>
                 <s id="s3"></s>
-                <s id="s4"></s>
 
                 <div class="slider">
-                  <div style="background:#2e7aab;">
-                    <h2>Slide 2</h2>
+                  <div class="slide1">
                   </div>
-                  <div style="background:#85b;">
-                    <h2>Slide 2</h2>
+                  <div class="slide2">
                   </div>
-                  <div style="background:#e95;">
-                    <h2>Slide 3</h2>
-                  </div>
-                  <div style="background:#e59;">
-                    <h2>Slide 4</h2>
+                  <div class="slide3">
                   </div>
                 </div>
 
