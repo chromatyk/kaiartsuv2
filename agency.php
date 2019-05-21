@@ -12,6 +12,7 @@
   <meta name="keywords" content="kaiartsu ; agence web hauts-de-france ; Oise ; 60 ; 02 ; 80 ; création site internet ; référencement ; webdesign ; création d'identité visuelle à Noyon ; agence digitale ; graphiste ; e-marketing ; applications mobiles" />
   <title>Notre Agence | Kaiartsu | L'agence web symbiotique</title>
   <!-- Link CSS -->
+  <link rel="shortcut icon" type="assets/images/logo/fav.png" href="assets/images/logo/fav.png"/>
   <link href="assets/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
   <link href="assets/css/animate.css" rel="stylesheet" type="text/css"/>
   <link href="assets/css/agency.css" rel="stylesheet" type="text/css"/>
@@ -46,7 +47,7 @@
           <li><a href="accueil.php">Accueil</a></li>
           <li><a href="agency.php">L'agence</a></li>
           <li><a href="webDev.php">Développement web</a></li>
-          <li><a href="graphisme.php">Design Visuel</a></li>
+          <li><a href="graphisme.php">Studio Graphique</a></li>
           <li><a href="contact.php">Contact</a></li>
         </ul>
       </nav>
@@ -73,6 +74,17 @@
           </div>
         </div>
       </section>
+      <section id="Ariane">
+        <p>
+          <a href="accueil.php">Kaiartsu</a> / <span>Notre agence</span>
+        </p>
+      </section>
+      <div id="arianeTriangle">
+
+      </div>
+      <div class="separator">
+
+      </div>
       <section id="whoAreWe" >
         <div class="container-fluid">
           <div class="row">
