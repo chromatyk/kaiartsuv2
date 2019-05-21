@@ -466,7 +466,6 @@ main h3{
 	border-top-style: none;
 	border-top-width: 0px;
 	border-top: solid 1px rgba(212, 212, 255, 0.1);
-	display: none;
 	font-size: 1.2em;
 	font-weight: 600;
 	letter-spacing: 0.25em;
@@ -778,9 +777,6 @@ main h3{
 			}
 			#nav-main ul{
 				top:8%;
-			}
-			.brand{
-				display:none;
 			}
 			.brandMobile img{
 				display: block;

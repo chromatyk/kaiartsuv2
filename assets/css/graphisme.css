@@ -244,11 +244,7 @@
   left: 0;
   right:0;
   bottom:0;
-  display: none;
   background-color: rgba(0,0,0,0.5);
-}
-.contact2:hover .overlay {
-  display: block;
 }
 
 .overlay .contactButton{
@@ -1049,6 +1045,16 @@ main{
       margin: 0 3px;
       color: rgba(0,0,0,0.8);
       text-decoration: none;
+    }
+
+    .CSSgal .slider .slide1{
+      background-image: url("../images/multidevice.jpg");
+      background-size: cover;
+    }
+
+    .CSSgal .slider .slide2{
+      background-image: url("../images/inoviadays.jpg");
+      background-size: cover;
     }
 
     .contact{

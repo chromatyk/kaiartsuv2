@@ -159,17 +159,13 @@
                 <s id="s4"></s>
 
                 <div class="slider">
-                  <div style="background:#2e7aab;">
-                    <h2>Slide 2</h2>
+                  <div class="slide1">
                   </div>
-                  <div style="background:#85b;">
-                    <h2>Slide 2</h2>
+                  <div class="slide2">
                   </div>
                   <div style="background:#e95;">
-                    <h2>Slide 3</h2>
                   </div>
                   <div style="background:#e59;">
-                    <h2>Slide 4</h2>
                   </div>
                 </div>
 
@@ -197,11 +193,6 @@
                           <div class="col-4 RS"><a href="#"><i class="fab fa-facebook-f"></i></a></div>
                           <div class="col-4 RS"><a href="#"><i class="fab fa-twitter"></i></a></div>
                           <div class="col-4 RS"><a href="#"><i class="fab fa-linkedin"></i></a></div>
-                        </div>
-                        <div class="row">
-                          <a  id = "change"  class="col-5 contactButton">
-                            <l>Contacter nous</l>
-                          </a>
                         </div>
                       </div>
                       <div class="col-6 contact2">
@@ -233,5 +224,6 @@
         <script src="assets/lib/bootstrap/js/bootstrap.js" type="text/javascript"></script>
         <script src="assets/js/onescroll.js" type="text/javascript"></script>
         <script src="assets/js/parallax.js" type="text/javascript"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vivus/0.4.4/vivus.min.js" type="text/javascript"></script>
       </body>
       </html>
